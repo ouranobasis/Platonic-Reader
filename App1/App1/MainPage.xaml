@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App1"
+             x:Class="App1.MainPage"             
+             BarBackgroundColor="#FF96F3">
+    <TabbedPage.Children>
+        <!--<local:Page1 Title ="meno"/>
+        <local:Apology Title="apology"/>-->
+    </TabbedPage.Children>
+</TabbedPage>

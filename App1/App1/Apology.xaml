@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Apology">
+    <ScrollView>
+        <StackLayout>
+            <StackLayout x:Name="textLayout">
+            
+            </StackLayout>
+
+            <StackLayout VerticalOptions="EndAndExpand">
+                <!--place new controls here 
+            
+                    <label x:name="textlayout" text="welcome to xamarin.forms!" 
+                        horizontaloptions="center"
+                        verticaloptions="centerandexpand" />-->
+
+                <Button Text="load text" Clicked="OnButtonClick"/>
+
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
