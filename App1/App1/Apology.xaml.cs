@@ -16,32 +16,58 @@ namespace App1
 	public partial class Apology : ContentPage
 	{
         private int sentenceNumber = 1;
-
+        
 		public Apology ()
 		{
 			InitializeComponent();           
+            sentence.FormattedText = CreateFormatedString(sentenceNumber);
 		}
 
-        //TODO 2 Retrieve the text of the dialoge and wrap each word with a span tag
+        private void OnNextButtonClick(object sender, EventArgs e)
+        {
+            sentenceNumber++;
 
-        private void OnButtonClick(object sender, EventArgs e)
+            var formattedString = CreateFormatedString(sentenceNumber);
+
+            if(sentenceNumber > 1)
+            {
+                previous.IsVisible = true;
+            }
+
+            sentence.FormattedText = formattedString;
+            //textLayout.Children.Add(new Label { FormattedText = formattedString });
+        }
+
+        private void OnPreviousButtonClick(object sender, EventArgs e)
+        {
+            sentenceNumber--;
+            var formattedString = CreateFormatedString(sentenceNumber);
+
+            if(sentenceNumber < 2)
+            {
+                previous.IsVisible = false;
+            }
+
+            sentence.FormattedText = formattedString;
+            //textLayout.Children.Add(new Label { FormattedText = formattedString });
+        }
+
+        public FormattedString CreateFormatedString(int sentenceNumber)
         {
             var tapGestureRecognizer = new TapGestureRecognizer();
             //var layout = new StackLayout { Padding = new Thickness(5, 10) };
             var formattedString = new FormattedString();
 
             var fullSentence = SentenceConstructor(sentenceNumber.ToString(), 0);
-            
+
             foreach (var item in fullSentence)
             {
                 string humanReadableGrammarDescription = ParseInterpreter(item.parseInfo);
-                var span = new Span { Text = $"{item.item} ", ForegroundColor = Color.Red , FontSize = 20};
+                var span = new Span { Text = $"{item.item} ", ForegroundColor = Color.Red, FontSize = 20 };
                 span.GestureRecognizers.Add(new TapGestureRecognizer { Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", humanReadableGrammarDescription, "OK")) });
                 formattedString.Spans.Add(span);
             }
-            textLayout.Children.Add(new Label { FormattedText = formattedString });
-
-            sentenceNumber++;
+            return formattedString;
         }
 
         public static Stream GetResourceTextFile(int textNumber)

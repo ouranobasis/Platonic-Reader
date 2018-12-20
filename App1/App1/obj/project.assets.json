@@ -47,10 +47,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -345,11 +346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IWANOS\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectUniqueName": "C:\\Users\\IWANOS\\source\\repos\\Platonic-Reader\\App1\\App1\\App1.csproj",
       "projectName": "App1",
-      "projectPath": "C:\\Users\\IWANOS\\source\\repos\\App1\\App1\\App1\\App1.csproj",
+      "projectPath": "C:\\Users\\IWANOS\\source\\repos\\Platonic-Reader\\App1\\App1\\App1.csproj",
       "packagesPath": "C:\\Users\\IWANOS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IWANOS\\source\\repos\\App1\\App1\\App1\\obj\\",
+      "outputPath": "C:\\Users\\IWANOS\\source\\repos\\Platonic-Reader\\App1\\App1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
