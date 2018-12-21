@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Platonic_Reader.Lovers">
+
+    <StackLayout>
+        <ScrollView>
+            <StackLayout x:Name="textLayout" Padding="20, 100, 20, 0">
+                <Label x:Name="sentence"/>
+            </StackLayout>
+        </ScrollView>
+        
+        <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal">
+                <!--place new controls here 
+            
+                    <label x:name="textlayout" text="welcome to xamarin.forms!" 
+                        horizontaloptions="center"
+                        verticaloptions="centerandexpand" />-->
+
+             <Button Text="Previous" x:Name="previous" Clicked="OnPreviousButtonClick" IsVisible="False"/>
+            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

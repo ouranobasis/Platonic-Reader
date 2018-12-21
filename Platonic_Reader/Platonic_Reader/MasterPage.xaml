@@ -9,8 +9,30 @@
         <ListView x:Name="listView" x:FieldModifier="public">
             <ListView.ItemsSource>
                 <x:Array Type="{x:Type local:MasterPageItem}">
-                    <local:MasterPageItem Title="Crito" TargetType="{x:Type local:Apology}" />
-                    <!--<local:MasterPageItem Title="Phaedo" IconSource="todo.png" TargetType="{x:Type local:Phaedo}" />-->
+                    <!--<local:MasterPageItem Title="Alcibiades 1" TargetType="{x:Type local:Alcibiades_1}" />
+                    <local:MasterPageItem Title="Alcibiades 2" TargetType="{x:Type local:Alcibiades_2}" />-->
+                    <local:MasterPageItem Title="Apology" Book ="1" TargetType="{x:Type local:Apology}" />
+                    <local:MasterPageItem Title="Crito" Book ="4" TargetType="{x:Type local:Apology}" />
+                    <!--<local:MasterPageItem Title="Charmides" TargetType="{x:Type local:Charmides}" />
+                    <local:MasterPageItem Title="Cratylus" TargetType="{x:Type local:Cratylus}" />
+                    <local:MasterPageItem Title="Crito" TargetType="{x:Type local:Crito}" />
+                    <local:MasterPageItem Title="Definitiones" TargetType="{x:Type local:Definitiones}" />
+                    <local:MasterPageItem Title="Euthyphro" TargetType="{x:Type local:Euthyphro}" />
+                    <local:MasterPageItem Title="Hipparchus" TargetType="{x:Type local:Hipparchus}" />
+                    <local:MasterPageItem Title="Laches" TargetType="{x:Type local:Laches}" />
+                    <local:MasterPageItem Title="Lovers" TargetType="{x:Type local:Lovers}" />
+                    <local:MasterPageItem Title="Lysis" TargetType="{x:Type local:Lysis}" />
+                    <local:MasterPageItem Title="Parmenides" TargetType="{x:Type local:Parmenides}" />
+                    <local:MasterPageItem Title="Phaedo" TargetType="{x:Type local:Phaedo}" />
+                    <local:MasterPageItem Title="Phaedrus" TargetType="{x:Type local:Phaedrus}" />
+                    <local:MasterPageItem Title="Philebus" TargetType="{x:Type local:Philebus}" />
+                    <local:MasterPageItem Title="Republic" TargetType="{x:Type local:Republic}" />
+                    <local:MasterPageItem Title="Sophist" TargetType="{x:Type local:Sophist}" />
+                    <local:MasterPageItem Title="Statesman" TargetType="{x:Type local:Statesman}" />
+                    <local:MasterPageItem Title="Symposium" TargetType="{x:Type local:Symposium}" />
+                    <local:MasterPageItem Title="Theaetetus" TargetType="{x:Type local:Theaetetus}" />
+                    <local:MasterPageItem Title="Theages" TargetType="{x:Type local:Theages}" />-->                    
+                    <!--<local:MasterPageItem Title="Phaedo" TargetType="{x:Type books:Phaedo}" />-->
                 </x:Array>
             </ListView.ItemsSource>
             <ListView.ItemTemplate>

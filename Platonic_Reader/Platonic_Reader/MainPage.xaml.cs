@@ -12,10 +12,13 @@ namespace Platonic_Reader
 {
     public partial class MainPage : MasterDetailPage
     {
+        Apology book;
+
         public MainPage()
         {
+                book = new Apology();
             InitializeComponent();
-
+     
             masterPage.listView.ItemSelected += OnItemSelected;
 
             void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -23,7 +26,10 @@ namespace Platonic_Reader
                 var item = e.SelectedItem as MasterPageItem;
                 if (item != null)
                 {
-                    Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetType));
+                    book.bookNumber = item.Book;
+                    Detail = new NavigationPage(book);
+                    
+                    //Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetType));
                     masterPage.listView.SelectedItem = null;
                     IsPresented = false;
                 }
