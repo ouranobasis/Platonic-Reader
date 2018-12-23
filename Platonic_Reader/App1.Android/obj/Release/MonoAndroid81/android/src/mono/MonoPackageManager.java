@@ -108,6 +108,7 @@ class MonoPackageManager_Resources {
 		/* We need to ensure that "App1.Android.dll" comes first in this list. */
 		"App1.Android.dll",
 		"FormsViewGroup.dll",
+		"ImageCircle.Forms.Plugin.dll",
 		"Platonic_Reader.dll",
 		"Xamarin.Android.Arch.Core.Common.dll",
 		"Xamarin.Android.Arch.Lifecycle.Common.dll",

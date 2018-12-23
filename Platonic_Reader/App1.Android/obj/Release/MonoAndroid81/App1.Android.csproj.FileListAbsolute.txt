@@ -1,10 +1,10 @@
-C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\App1.Android.csprojAssemblyReference.cache
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\App1.Android.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\App1.Android.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\com.companyname.App1.Android.apk
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\com.companyname.App1.Android-Signed.apk
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\Platonic_Reader.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\Platonic_Reader.pdb
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\App1.Android.csprojAssemblyReference.cache
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res.flag
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\App1.Android.csproj.CoreCompileInputs.cache
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\XamlC.stamp
@@ -28,6 +28,11 @@ C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Re
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\mipmap-xxxhdpi\icon.png
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\drawable\hamburger.png
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\drawable\backgroundstrip.png
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\drawable\greekcoils.png
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\drawable\plato.jpg
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\res\drawable\scroll.png
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\R.cs.flag
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\R.txt
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\uploadflags.txt
@@ -96,5 +101,4 @@ C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Re
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\App1.Android.dll
-C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\linksrc\Platonic_Reader.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\linksrc\App1.Android.dll.mdb

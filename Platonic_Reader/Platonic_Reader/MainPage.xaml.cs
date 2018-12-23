@@ -12,13 +12,10 @@ namespace Platonic_Reader
 {
     public partial class MainPage : MasterDetailPage
     {
-        Apology book;
-
         public MainPage()
         {
-                book = new Apology();
             InitializeComponent();
-     
+
             masterPage.listView.ItemSelected += OnItemSelected;
 
             void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -26,15 +23,14 @@ namespace Platonic_Reader
                 var item = e.SelectedItem as MasterPageItem;
                 if (item != null)
                 {
-                    book.bookNumber = item.Book;
-                    Detail = new NavigationPage(book);
-                    
-                    //Detail = new NavigationPage((Page)Activator.CreateInstance(item.TargetType));
+                    var nav = new NavigationPage((Page)Activator.CreateInstance(item.TargetType));
+                    nav.BackgroundColor = Color.FromHex("#49994d");
+                    nav.BarTextColor = Color.White;
+                    Detail = nav;
                     masterPage.listView.SelectedItem = null;
                     IsPresented = false;
                 }
             }
-
         }
     }
 }

@@ -1,5 +1,6 @@
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\App1.Android.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\FormsViewGroup.dll
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\ImageCircle.Forms.Plugin.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Java.Interop.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Mono.Android.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\mscorlib.dll

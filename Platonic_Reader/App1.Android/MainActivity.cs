@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using ImageCircle.Forms.Plugin.Droid;
 
 namespace Platonic_Reader.Droid
 {
@@ -16,7 +17,9 @@ namespace Platonic_Reader.Droid
         {
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
+            ImageCircleRenderer.Init();
             LoadApplication(new App());
+            Window.SetStatusBarColor(Android.Graphics.Color.Argb(255, 73, 153, 77));
         }
     }
 }

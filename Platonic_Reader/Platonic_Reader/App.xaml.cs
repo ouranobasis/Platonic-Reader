@@ -8,12 +8,11 @@ namespace Platonic_Reader
 {
     public partial class App : Application
     {
-        public string resourceName;
         public App()
         {
             //InitializeComponent();
 
-            MainPage = new Platonic_Reader.MainPage();
+            MainPage = new MainPage();
         }
 
         protected override void OnStart()

@@ -13,7 +13,7 @@ namespace Platonic_Reader
     {
         public MasterPage()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }                
     }
 }

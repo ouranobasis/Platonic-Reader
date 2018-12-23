@@ -26,6 +26,18 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
+      "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "compile": {
+          "lib/netstandard2.0/ImageCircle.Forms.Plugin.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/ImageCircle.Forms.Plugin.dll": {}
+        }
+      },
       "Xamarin.Forms/3.4.0.1008975": {
         "type": "package",
         "compile": {
@@ -187,6 +199,27 @@
         "netstandard.library.nuspec"
       ]
     },
+    "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+      "sha512": "yvn/+6JLuP+9NfjVLNPjGR7P2+wqgsxCA9aG1xBxrmsIDWgEY/xwsvdtNiNKlLXwDbu8PL9J1qLLcQH1PzvKGQ==",
+      "type": "package",
+      "path": "xam.plugins.forms.imagecircle/3.0.0.6-beta",
+      "files": [
+        ".signature.p7s",
+        "lib/monoandroid71/ImageCircle.Forms.Plugin.dll",
+        "lib/monoandroid71/ImageCircle.Forms.Plugin.xml",
+        "lib/netstandard1.0/ImageCircle.Forms.Plugin.dll",
+        "lib/netstandard1.0/ImageCircle.Forms.Plugin.xml",
+        "lib/netstandard2.0/ImageCircle.Forms.Plugin.dll",
+        "lib/netstandard2.0/ImageCircle.Forms.Plugin.xml",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.dll",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.pri",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.xml",
+        "lib/xamarinios10/ImageCircle.Forms.Plugin.dll",
+        "lib/xamarinios10/ImageCircle.Forms.Plugin.xml",
+        "xam.plugins.forms.imagecircle.3.0.0.6-beta.nupkg.sha512",
+        "xam.plugins.forms.imagecircle.nuspec"
+      ]
+    },
     "Xamarin.Forms/3.4.0.1008975": {
       "sha512": "036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
       "type": "package",
@@ -336,6 +369,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
+      "Xam.Plugins.Forms.ImageCircle >= 3.0.0.6-beta",
       "Xamarin.Forms >= 3.4.0.1008975"
     ]
   },
@@ -385,6 +419,10 @@
             "target": "Package",
             "version": "[2.0.3, )",
             "autoReferenced": true
+          },
+          "Xam.Plugins.Forms.ImageCircle": {
+            "target": "Package",
+            "version": "[3.0.0.6-beta, )"
           },
           "Xamarin.Forms": {
             "target": "Package",

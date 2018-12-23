@@ -2,6 +2,21 @@
   "version": 3,
   "targets": {
     "MonoAndroid,Version=v8.1": {
+      "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+        "type": "package",
+        "dependencies": {
+          "Xamarin.Forms": "3.0.0.446417"
+        },
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid71/ImageCircle.Forms.Plugin.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid71/ImageCircle.Forms.Plugin.dll": {}
+        }
+      },
       "Xamarin.Android.Arch.Core.Common/1.1.1": {
         "type": "package",
         "dependencies": {
@@ -345,6 +360,7 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
+          "Xam.Plugins.Forms.ImageCircle": "3.0.0.6-beta",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "compile": {
@@ -357,6 +373,27 @@
     }
   },
   "libraries": {
+    "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+      "sha512": "yvn/+6JLuP+9NfjVLNPjGR7P2+wqgsxCA9aG1xBxrmsIDWgEY/xwsvdtNiNKlLXwDbu8PL9J1qLLcQH1PzvKGQ==",
+      "type": "package",
+      "path": "xam.plugins.forms.imagecircle/3.0.0.6-beta",
+      "files": [
+        ".signature.p7s",
+        "lib/monoandroid71/ImageCircle.Forms.Plugin.dll",
+        "lib/monoandroid71/ImageCircle.Forms.Plugin.xml",
+        "lib/netstandard1.0/ImageCircle.Forms.Plugin.dll",
+        "lib/netstandard1.0/ImageCircle.Forms.Plugin.xml",
+        "lib/netstandard2.0/ImageCircle.Forms.Plugin.dll",
+        "lib/netstandard2.0/ImageCircle.Forms.Plugin.xml",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.dll",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.pri",
+        "lib/uap10.0.16299/ImageCircle.Forms.Plugin.xml",
+        "lib/xamarinios10/ImageCircle.Forms.Plugin.dll",
+        "lib/xamarinios10/ImageCircle.Forms.Plugin.xml",
+        "xam.plugins.forms.imagecircle.3.0.0.6-beta.nupkg.sha512",
+        "xam.plugins.forms.imagecircle.nuspec"
+      ]
+    },
     "Xamarin.Android.Arch.Core.Common/1.1.1": {
       "sha512": "hA7C3ohZt2bcf+1ot2QtcLBvGN0p3s7LPOW3RZg37Nb7cA1O3HrNZnGsI36YjFUVW3nm4NA7dmu7Gtl6JOJE+w==",
       "type": "package",
@@ -913,6 +950,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v8.1": [
       "Platonic_Reader >= 1.0.0",
+      "Xam.Plugins.Forms.ImageCircle >= 3.0.0.6-beta",
       "Xamarin.Android.Support.Design >= 28.0.0",
       "Xamarin.Android.Support.v4 >= 28.0.0",
       "Xamarin.Android.Support.v7.AppCompat >= 28.0.0",
@@ -958,6 +996,10 @@
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
+          "Xam.Plugins.Forms.ImageCircle": {
+            "target": "Package",
+            "version": "[3.0.0.6-beta, )"
+          },
           "Xamarin.Android.Support.Design": {
             "target": "Package",
             "version": "[28.0.0, )"

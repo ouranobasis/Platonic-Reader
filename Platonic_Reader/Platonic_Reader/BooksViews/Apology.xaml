@@ -1,24 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Platonic_Reader.Apology">
+             x:Class="Platonic_Reader.Apology" 
+             BackgroundColor="#f9f1cf"
+             Title="Apology">
 
     <StackLayout>
         <ScrollView>
+            <StackLayout>
+            <StackLayout>
+                <Image Source="greekCoils.png"/>                
+            </StackLayout>
             <StackLayout x:Name="textLayout" Padding="20, 100, 20, 0">
-                <Label x:Name="sentence"/>
+                <Label x:Name="sentence" FontSize="30" FontAttributes="Italic">
+                </Label>
+                <Label x:Name="sentenceeeee" Text="wooooooooooooooooooooooo" FontSize="30" FontAttributes="Italic">
+                    <Label.FontFamily>
+                        <OnPlatform x:TypeArguments="x:String">
+                            <On Platform="Android">AnglicanText.ttf#Anglican Text</On>
+                        </OnPlatform>
+                    </Label.FontFamily>
+                </Label>
+            </StackLayout>
             </StackLayout>
         </ScrollView>
-        
-        <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal">
-                <!--place new controls here 
-            
-                    <label x:name="textlayout" text="welcome to xamarin.forms!" 
-                        horizontaloptions="center"
-                        verticaloptions="centerandexpand" />-->
 
-             <Button Text="Previous" x:Name="previous" Clicked="OnPreviousButtonClick" IsVisible="False"/>
-            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick"/>
+        <StackLayout Margin="20" VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal">
+            <Button Text="Previous" x:Name="previous" Clicked="OnPreviousButtonClick" IsVisible="False"/>
+            <Button Text=" ὁ ἑξῆς" x:Name="next" Clicked="OnNextButtonClick" BorderRadius="20" BackgroundColor="Black" FontAttributes="Bold" FontSize="Large" TextColor="#d16d17"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>
