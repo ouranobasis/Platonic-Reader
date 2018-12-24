@@ -1,4 +1,4 @@
-<text text-cts="urn:cts:greekLit:tlg0059.tlg002.perseus-grc2" author="Plato" title="Apology" file-name="tlg0059.tlg002.perseus-grc2.xml" date-of-conversion="2017-03-29">
+﻿<text text-cts="urn:cts:greekLit:tlg0059.tlg002.perseus-grc2" author="Plato" title="Apology" file-name="tlg0059.tlg002.perseus-grc2.xml" date-of-conversion="2017-03-29">
   <sentence n="position in the document">
     <token p="passage-level cts urn" n="position in @p" a="nth occurrence in @p" o="Mate tagger POS tag" u="position in s element" join="optional: join b(ack) or a(fter) for punctuation marks" tag="optional: selection of editorial tags containing the token in the original document, such as del or add">
       <wordForm>word form of the token</wordForm>

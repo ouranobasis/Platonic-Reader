@@ -53,17 +53,8 @@
                 <DataTemplate>
                     <ViewCell>
                         <StackLayout VerticalOptions="Center" Orientation="Horizontal" Padding="0">
-                            <ci:CircleImage 
-                                BorderColor="White"
-                                VerticalOptions="Center"
-                                Margin="8,0,0,0"
-                                BorderThickness="1"
-                                HeightRequest="30"   
-                                WidthRequest="30"   
-                                Source="Scroll.png"  
-                                Aspect="AspectFit"/>
-                            <!--<Image Source="Scroll.png" HeightRequest="45" WidthRequest="45"/>-->
-                            <Label VerticalTextAlignment="Center" Margin="0" Text="{Binding Title}" HorizontalTextAlignment="Center" TextColor="#292b29" FontSize="30">
+                            <Image Source="Scroll.png" HeightRequest="20" WidthRequest="20" Margin=" 8,0,0,0"/>
+                            <Label VerticalTextAlignment="Center" Text="{Binding Title}" HorizontalTextAlignment="Center" TextColor="#292b29" FontSize="30">
                                 <Label.FontFamily>
                                     <OnPlatform x:TypeArguments="x:String">
                                         <On Platform="Android">Crimson-Roman.ttf#Crimson</On>
@@ -71,7 +62,6 @@
                                 </Label.FontFamily>
                             </Label>
                         </StackLayout>
-
                     </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>

@@ -37,28 +37,45 @@ namespace Platonic_Reader
                         do
                         {
                             SentenceItem sentenceItem = new SentenceItem();
+
                             sentenceItem.parseInfo = reader.GetAttribute("o");
-                            sentenceItem.item = WordReader(reader.ReadSubtree());
+
+                            var sentenceInfo = WordReader(reader.ReadSubtree());
+
+                            sentenceItem.item = sentenceInfo[0];
+                            sentenceItem.lemma = sentenceInfo[1];
                             fullSentence.Add(sentenceItem);
 
                         } while (reader.ReadToNextSibling("t"));
-
                     }
                 }
             }
             return fullSentence;
         }
 
-        public static string WordReader(XmlReader wordReader)
+        public static string[] WordReader(XmlReader wordReader)
         {
-            string word = "";
+            string[] word = new string[2];
             while (wordReader.Read())
             {
                 if (wordReader.IsStartElement() && wordReader.Name == "f")
                 {
                     wordReader.Read();
-                    word = wordReader.Value.Trim();
+                    word[0] = wordReader.Value.Trim();
                 }
+                if (wordReader.IsStartElement() && wordReader.Name == "l")
+                {
+                    wordReader.Read();
+                    if (wordReader.IsStartElement() && !wordReader.IsEmptyElement)
+                    {
+                        wordReader.Read();
+                        word[1] = wordReader.Value.Trim();
+                    }
+                    else
+                        {
+                            word[1] = word[0];
+                        }
+                    }
             }
             return word;
         }

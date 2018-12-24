@@ -3,31 +3,22 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Platonic_Reader.Apology" 
              BackgroundColor="#f9f1cf"
-             Title="Apology">
+             Title="APOLOGY">
 
     <StackLayout>
+        <StackLayout>
+            <Image Source="greekCoils.png"/>            
+        </StackLayout>
         <ScrollView>
-            <StackLayout>
-            <StackLayout>
-                <Image Source="greekCoils.png"/>                
-            </StackLayout>
-            <StackLayout x:Name="textLayout" Padding="20, 100, 20, 0">
-                <Label x:Name="sentence" FontSize="30" FontAttributes="Italic">
-                </Label>
-                <Label x:Name="sentenceeeee" Text="wooooooooooooooooooooooo" FontSize="30" FontAttributes="Italic">
-                    <Label.FontFamily>
-                        <OnPlatform x:TypeArguments="x:String">
-                            <On Platform="Android">AnglicanText.ttf#Anglican Text</On>
-                        </OnPlatform>
-                    </Label.FontFamily>
-                </Label>
-            </StackLayout>
+            <StackLayout x:Name="page" Margin="20,0">
+                <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
+                <Label x:Name="sentence" FontSize="30" FontAttributes="Italic"/>
             </StackLayout>
         </ScrollView>
 
-        <StackLayout Margin="20" VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal">
-            <Button Text="Previous" x:Name="previous" Clicked="OnPreviousButtonClick" IsVisible="False"/>
-            <Button Text=" ὁ ἑξῆς" x:Name="next" Clicked="OnNextButtonClick" BorderRadius="20" BackgroundColor="Black" FontAttributes="Bold" FontSize="Large" TextColor="#d16d17"/>
+        <StackLayout Margin="20, 0" VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal" BackgroundColor="Transparent">
+            <Button Text="Back" x:Name="previous" Clicked="OnPreviousButtonClick" BackgroundColor="Transparent" FontAttributes="Bold" FontSize="20" TextColor="#999999"/>
+            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick" BackgroundColor="Transparent" FontAttributes="Bold" FontSize="20" TextColor="#292b29"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>

@@ -101,4 +101,5 @@ C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Re
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\bin\Release\App1.Android.dll
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\linksrc\Platonic_Reader.pdb
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\App1.Android\obj\Release\MonoAndroid81\linksrc\App1.Android.dll.mdb
