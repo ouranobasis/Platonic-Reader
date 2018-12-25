@@ -1,18 +1,14 @@
-﻿<Greek-Entry key='Α'>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<Greek-Entry key='Α'>
 	<English-Entry>πρῶτος,</English-Entry>
-	<English-Entry>
-              </English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀ1'>
 	<English-Entry>want</English-Entry>
 	<English-Entry>absence</English-Entry>
 	<English-Entry>un</English-Entry>
-	<English-Entry>nˆ,</English-Entry>
-	<English-Entry>ne,</English-Entry>
-	<English-Entry>spiritus asper</English-Entry>
-	<English-Entry>sm-</English-Entry>
-	<English-Entry>sems</English-Entry>
+		<English-Entry>spiritus asper</English-Entry>	
 </Greek-Entry>
 
 <Greek-Entry key='ἀ2'>
@@ -513,7 +509,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀβλαβύνιον'>
-	<English-Entry>σειρὰ πλεκομένη παρ' Αἰγυπτίοις ἐκ βύβλων <πρὸς> κάθαρσιν οὖσα,</English-Entry>
+	<English-Entry>σειρὰ πλεκομένη παρ' Αἰγυπτίοις ἐκ βύβλων πρὸς κάθαρσιν οὖσα,</English-Entry>
 	<English-Entry>ἡδέως,</English-Entry>
 	<English-Entry>βλαδαρός</English-Entry>
 	<English-Entry>λαμπρῶς</English-Entry>
@@ -1456,7 +1452,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀγαλματίτης'>
-	<English-Entry>Λιθοκόλλα<></English-Entry>
+	<English-Entry>Λιθοκόλλα</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀγαλματογλύφος'>
@@ -1732,7 +1728,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀγαπήνωρ'>
-	<English-Entry>, <> ἠνορέην ἀγαπῶν,</English-Entry>
+	<English-Entry>ἠνορέην ἀγαπῶν,</English-Entry>
 	<English-Entry>loving manliness, manly,</English-Entry>
 </Greek-Entry>
 
@@ -3355,7 +3351,7 @@
 	<English-Entry>harsh</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀγλευ<κι>τάς'>
+<Greek-Entry key='ἀγλευτάς'>
 	<English-Entry>ἄρτος ἄναλος</English-Entry>
 </Greek-Entry>
 
@@ -6077,7 +6073,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἄδεια2'>
-	<English-Entry>Δέ<>μαι</English-Entry>
+	<English-Entry>Δέμαι</English-Entry>
 	<English-Entry>abundance, plenty</English-Entry>
 </Greek-Entry>
 
@@ -8672,7 +8668,7 @@
 
 <Greek-Entry key='ἀελλεῖ'>
 	<English-Entry>φιλεῖ, κολακεύει</English-Entry>
-	<English-Entry>στρέφων, ὀπτῶν, ποικίλ<λ></English-Entry>
+	<English-Entry>στρέφων, ὀπτῶν, ποικίλ</English-Entry>
 	<English-Entry>πνεῖ</English-Entry>
 </Greek-Entry>
 
@@ -10962,7 +10958,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='Αἰγᾶθεν'>
-	<English-Entry>Α<>γῆθεν</English-Entry>
+	<English-Entry>Αγῆθεν</English-Entry>
 	<English-Entry>from</English-Entry>
 </Greek-Entry>
 
@@ -11022,12 +11018,11 @@
 </Greek-Entry>
 
 <Greek-Entry key='αἰγελάτης'>
-	<English-Entry>Ᾰ<>,</English-Entry>
 	<English-Entry>goatherd</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='αἴγεος'>
-	<English-Entry>Διφθ<>ραι</English-Entry>
+	<English-Entry>Διφθραι</English-Entry>
 	<English-Entry>αἰγέη</English-Entry>
 	<English-Entry>δορά</English-Entry>
 	<English-Entry>a goat's skin</English-Entry>
@@ -11659,7 +11654,6 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀϊδροδίκης'>
-	<English-Entry>Δῐ<>,</English-Entry>
 	<English-Entry>lawless</English-Entry>
 </Greek-Entry>
 
@@ -13064,7 +13058,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='αἶνος1'>
-	<English-Entry>Αἰν<></English-Entry>
+	<English-Entry>Αἰν</English-Entry>
 	<English-Entry>tale, story</English-Entry>
 	<English-Entry>a tale</English-Entry>
 	<English-Entry>story with moral, fable</English-Entry>
@@ -15753,7 +15747,7 @@
 	<English-Entry>unbidden</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀκέλλεα<ν>'>
+<Greek-Entry key='ἀκέλλεα'>
 	<English-Entry>ἔκλεψαν</English-Entry>
 </Greek-Entry>
 
@@ -18012,7 +18006,7 @@
 	<English-Entry>locust-eater</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀκρι<δ>ώδης'>
+<Greek-Entry key='ἀκριδώδης'>
 	<English-Entry>like locusts</English-Entry>
 </Greek-Entry>
 
@@ -18294,7 +18288,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀκροβολισμός'>
-	<English-Entry>Ἀκροβ<>́λισις</English-Entry>
+	<English-Entry>Ἀκροβλισις</English-Entry>
 	<English-Entry>discharge of weapons by light-armed troops</English-Entry>
 </Greek-Entry>
 
@@ -18972,7 +18966,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀκρόχειρας'>
-	<English-Entry>τοὺς ὀξύχειρας, ἢ ἀνδρ<οφ></English-Entry>
+	<English-Entry>τοὺς ὀξύχειρας, ἢ ἀνδροφ</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀκροχειρία'>
@@ -19865,7 +19859,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀλαλύσθαι'>
-	<English-Entry>φοβεῖσθαι, <ἀ>λύειν</English-Entry>
+	<English-Entry>φοβεῖσθαι, ἀλύειν</English-Entry>
 	<English-Entry>τὸν ἥλιον</English-Entry>
 </Greek-Entry>
 
@@ -20639,7 +20633,6 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀλεξιάρη'>
-	<English-Entry>Ᾰ<>],</English-Entry>
 	<English-Entry>she that guards from death and ruin</English-Entry>
 	<English-Entry>that served as amulet</English-Entry>
 </Greek-Entry>
@@ -20904,7 +20897,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀλεφάτισον'>
-	<English-Entry>Ἄλε<>ψον</English-Entry>
+	<English-Entry>Ἄλεψον</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀλέω1'>
@@ -20927,7 +20920,7 @@
 	<English-Entry>shelter from</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀλ<ε>ώσσω'>
+<Greek-Entry key='ἀλεώσσω'>
 	<English-Entry>μωραίνω</English-Entry>
 </Greek-Entry>
 
@@ -22574,14 +22567,11 @@
 	<English-Entry>otherwise</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀλλ'1'>
+<Greek-Entry key='ἀλλά'>
 	<English-Entry>except, but</English-Entry>
 	<English-Entry>except</English-Entry>
 	<English-Entry>other than, except</English-Entry>
 	<English-Entry>except</English-Entry>
-</Greek-Entry>
-
-<Greek-Entry key='ἀλλ'2'>
 </Greek-Entry>
 
 <Greek-Entry key='ἀλληγορέω'>
@@ -23318,7 +23308,7 @@
 	<English-Entry>appearing otherwise,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀλλόφας<ς>ις'>
+<Greek-Entry key='ἀλλόφασις'>
 	<English-Entry>θόρυβος ταραχώδης,</English-Entry>
 </Greek-Entry>
 
@@ -29256,7 +29246,7 @@
 	<English-Entry>luckless,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀ<μ>φαρμένη'>
+<Greek-Entry key='ἀμφαρμένη'>
 	<English-Entry>δίκελλα,</English-Entry>
 </Greek-Entry>
 
@@ -30052,7 +30042,7 @@
 <Greek-Entry key='ἀμφιέζω'>
 </Greek-Entry>
 
-<Greek-Entry key='ἀμφιεκτ<ήρ>'>
+<Greek-Entry key='ἀμφιεκτήρ'>
 	<English-Entry>χιτὼν διπλοῦς,</English-Entry>
 </Greek-Entry>
 
@@ -30545,7 +30535,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀμφικύβωται'>
-	<English-Entry>πρόχοι: ἢ ἀπὸ <τῆς> τοῦ ὅλου περιφερείας ἢ ἀπὸ τῆς τῶν ὤτων,</English-Entry>
+	<English-Entry>πρόχοι: ἢ ἀπὸ τῆς τοῦ ὅλου περιφερείας ἢ ἀπὸ τῆς τῶν ὤτων,</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀμφίκυφος'>
@@ -36906,7 +36896,7 @@
 
 <Greek-Entry key='ἀναμυρησάμενος'>
 	<English-Entry>-μοιρ-</English-Entry>
-	<English-Entry><> χρηματισάμενος,</English-Entry>
+	<English-Entry>χρηματισάμενος</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀναμυχθίζομαι'>
@@ -39363,7 +39353,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀνασπάς'>
-	<English-Entry><φυ>τὸν ἀνεσπασμένον,</English-Entry>
+	<English-Entry>φυτὸν ἀνεσπασμένον,</English-Entry>
 	<English-Entry>ἀνασπάσιον: ἀ.</English-Entry>
 	<English-Entry>παρασπάς</English-Entry>
 </Greek-Entry>
@@ -41252,7 +41242,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀνάχυσις'>
-	<English-Entry>, Ἀναχέω<></English-Entry>
+	<English-Entry>, Ἀναχέω</English-Entry>
 	<English-Entry>expansion, effusion,</English-Entry>
 	<English-Entry>exhilaration,</English-Entry>
 	<English-Entry>exhalation,</English-Entry>
@@ -42575,7 +42565,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀνειλυσπᾶσθαι'>
-	<English-Entry>ἀναρ<ρ>ιχᾶσθαι,</English-Entry>
+	<English-Entry>ἀναρριχᾶσθαι,</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀνείλυστος'>
@@ -48639,7 +48629,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀνορίνω'>
-	<English-Entry>ὀννώριν<ν></English-Entry>
+	<English-Entry>ὀννώριν</English-Entry>
 	<English-Entry>stir up, arouse,</English-Entry>
 </Greek-Entry>
 
@@ -49716,7 +49706,6 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀνταποτίνω'>
-	<English-Entry>[ι<></English-Entry>
 	<English-Entry>requite, repay,</English-Entry>
 </Greek-Entry>
 
@@ -50830,7 +50819,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀντέσο'>
-	<English-Entry>ἀντί<α></English-Entry>
+	<English-Entry>ἀντία</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀντεστραμμένως'>
@@ -55531,7 +55520,6 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀντιφάνεια'>
-	<English-Entry>[φα<>],</English-Entry>
 	<English-Entry>reflection,</English-Entry>
 </Greek-Entry>
 
@@ -56247,7 +56235,7 @@
 	<English-Entry>ἀνατρέπω.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀ<ν>τρέσας'>
+<Greek-Entry key='ἀτρέσας'>
 	<English-Entry>ἀναφοβηθείς,</English-Entry>
 </Greek-Entry>
 
@@ -77498,7 +77486,7 @@
 	<English-Entry>beating</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀραδ<ής>ει'>
+<Greek-Entry key='ἀραδήσει'>
 	<English-Entry>θορυβήσει, ταράξει,</English-Entry>
 	<English-Entry>κεκόνηται</English-Entry>
 	<English-Entry>-κίν-</English-Entry>
@@ -80357,7 +80345,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀρκόφθαλμον'>
-	<English-Entry>Χρυσο<></English-Entry>
+	<English-Entry>Χρυσο</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἄρκτειος'>
@@ -81078,7 +81066,7 @@
 	<English-Entry>plunge, dive,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀρ<ν>εώνιον'>
+<Greek-Entry key='ἀρνεώνιον'>
 	<English-Entry>ὅρκον βασίλειον,</English-Entry>
 </Greek-Entry>
 
@@ -81138,7 +81126,7 @@
 <Greek-Entry key='ἀρνοπολέμιον'>
 </Greek-Entry>
 
-<Greek-Entry key='ἀρνορ<κ>ίη'>
+<Greek-Entry key='ἀρνορκίη'>
 	<English-Entry>ὁ μετὰ τοῦ ἀρνὸς αἰρομένου γινόμενος ὅρκος,</English-Entry>
 </Greek-Entry>
 
@@ -81238,7 +81226,7 @@
 <Greek-Entry key='ἀροσμός'>
 </Greek-Entry>
 
-<Greek-Entry key='ἀρ<ο>σπάκες'>
+<Greek-Entry key='ἀροσπάκες'>
 	<English-Entry>δρύες ἐπικεκομμέναι,</English-Entry>
 </Greek-Entry>
 
@@ -82171,7 +82159,7 @@
 	<English-Entry>not liable to distraint,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀρ<ρ>ύσιος'>
+<Greek-Entry key='ἀρρύσιος'>
 </Greek-Entry>
 
 <Greek-Entry key='ἀρρύσωτος'>
@@ -85942,7 +85930,7 @@
 <Greek-Entry key='ἀσκόλαχα'>
 	<English-Entry>ἀσκαλαβώτης,</English-Entry>
 	<English-Entry>ἀσκώσατο</English-Entry>
-	<English-Entry><> ἠχθέσθη,</English-Entry>
+	<English-Entry>ἠχθέσθη,</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀσκόπευτος'>
@@ -85998,7 +85986,7 @@
 
 <Greek-Entry key='ἀσκότονοι'>
 	<English-Entry>κυνορραῖσται, κρότωνες,</English-Entry>
-	<English-Entry>ἄ<ρ>κτος ἡ</English-Entry>
+	<English-Entry>ἄρκτος ἡ</English-Entry>
 	<English-Entry>ἢ</English-Entry>
 	<English-Entry>μικρά</English-Entry>
 </Greek-Entry>
@@ -86480,7 +86468,7 @@
 	<English-Entry>without spots,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀσπί<ν>θιον'>
+<Greek-Entry key='ἀσπίνθιον'>
 	<English-Entry>ἀψίνθιον,</English-Entry>
 	<English-Entry>ἀπίνθιον,</English-Entry>
 </Greek-Entry>
@@ -86652,7 +86640,7 @@
 
 <Greek-Entry key='ἀσσέως'>
 	<English-Entry>ἐπὶ σοῦ,</English-Entry>
-	<English-Entry>ἆος: ἕως, <μ>έ<χρ>ις οὗ.</English-Entry>
+	<English-Entry>ἆος: ἕως, μέχρις οὗ.</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='ἀσσιδάριος'>
@@ -90573,7 +90561,7 @@
 	<English-Entry>not turned in the lathe, not rounded,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀτόρυ<νη>τος'>
+<Greek-Entry key='ἀτόρυνητος'>
 	<English-Entry>not stirred wity a ladle,</English-Entry>
 </Greek-Entry>
 
@@ -92215,7 +92203,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='αὐλωλάζειν'>
-	<English-Entry>τὸ συρ<ίττ>ειν διὰ τῶν δακτύλων,</English-Entry>
+	<English-Entry>τὸ συρίττειν διὰ τῶν δακτύλων,</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key='αὐλών'>
@@ -93296,7 +93284,7 @@
 	<English-Entry>abstract potentiality,</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='αὐτοε<θεί>ρας'>
+<Greek-Entry key='αὐτοεθείρας'>
 	<English-Entry>κόμας ἢ καὶ κόσμους,</English-Entry>
 </Greek-Entry>
 
@@ -96804,7 +96792,7 @@
 	<English-Entry>character of the</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key='ἀφιλοκα<λοκα>γαθία'>
+<Greek-Entry key='ἀφιλοκαλοκαγαθία'>
 	<English-Entry>dishonesty,</English-Entry>
 </Greek-Entry>
 
@@ -97634,7 +97622,7 @@
 </Greek-Entry>
 
 <Greek-Entry key='ἀφριστής'>
-	<English-Entry>Ου<>,</English-Entry>
+	<English-Entry>Ου,</English-Entry>
 	<English-Entry>foamer,</English-Entry>
 </Greek-Entry>
 
@@ -99872,5 +99860,4 @@
 	<English-Entry>without ears,</English-Entry>
 	<English-Entry>without lugs,</English-Entry>
 </Greek-Entry>
-
-
+</document>

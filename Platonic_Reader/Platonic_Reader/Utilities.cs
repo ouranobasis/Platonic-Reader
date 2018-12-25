@@ -44,6 +44,8 @@ namespace Platonic_Reader
 
                             sentenceItem.item = sentenceInfo[0];
                             sentenceItem.lemma = sentenceInfo[1];
+
+                            sentenceItem.definition = CreateDictionaryDefinition(sentenceInfo[1]);
                             fullSentence.Add(sentenceItem);
 
                         } while (reader.ReadToNextSibling("t"));
@@ -266,11 +268,39 @@ namespace Platonic_Reader
             return interpretedCode;
         }
 
-        public string DictionaryDefinition(string greekWord)
+        public static string CreateDictionaryDefinition(string greekWord)
         {
-               
+            var assembly = typeof(MainPage).GetTypeInfo().Assembly;
+            var stream = assembly.GetManifestResourceStream($"Platonic_Reader.Dictionary.{GetDictionarySegmentFile(greekWord)}");
 
             string definition = "";
+
+            //using (XmlReader reader = XmlReader.Create(stream))
+            //{
+            //    while (reader.Read())
+            //    {
+            //        if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
+            //        {
+            //            //GetDictionaryDefinition(reader.ReadSubtree());
+            //        }
+            //    }
+            //}
+
+            return GetDictionarySegmentFile(greekWord);
+        }
+
+        public static string GetDictionaryDefinition(XmlReader definitionReader)
+        {
+            string definition = "";
+            while (definitionReader.Read())
+            {
+                if(definitionReader.IsStartElement() && definitionReader.Name == "English-Entry")
+                {
+                    definitionReader.Read();
+                    //definition = definitionReader.Value.Trim();
+                    definition = "hello";
+                }
+            }
             return definition;
         }
 
@@ -294,14 +324,20 @@ namespace Platonic_Reader
                 case 'ἄ':
                     xmlFileTitle = @"alpha";
                     break;
+                case 'Ἁ':
+                    xmlFileTitle = @"alpha";
+                    break;
+                case 'Ἀ':
+                    xmlFileTitle = @"alpha";
+                    break;
                 case 'β':
                     xmlFileTitle = @"beta";
                     break;
                 case 'γ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse C.xml";
+                    xmlFileTitle = @"gamma";
                     break;
                 case 'δ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse D.xml";
+                    xmlFileTitle = @"delta";
                     break;
                 case 'ἐ':
                     xmlFileTitle = @"epsilon";
@@ -313,75 +349,123 @@ namespace Platonic_Reader
                     xmlFileTitle = @"epsilon";
                     break;
                 case 'ζ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse F.xml";
+                    xmlFileTitle = @"zeta";
                     break;
                 case 'ἡ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse G.xml";
+                    xmlFileTitle = @"eta";
                     break;
                 case 'ἤ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse G.xml";
+                    xmlFileTitle = @"eta";
+                    break;
+                case 'ἥ':
+                    xmlFileTitle = @"eta";
                     break;
                 case 'ἦ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse G.xml";
+                    xmlFileTitle = @"eta";
                     break;
                 case 'ἧ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse H.xml";
+                    xmlFileTitle = @"eta";
                     break;
-                case 'ἧ':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse H.xml";
+                case 'θ':
+                    xmlFileTitle = @"eta";
                     break;
-                case 'i':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse I.xml";
+                case 'ἵ':
+                    xmlFileTitle = @"iota";
                     break;
-                case 'j':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse J.xml";
+                case 'ἴ':
+                    xmlFileTitle = @"iota";
                     break;
-                case 'k':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse K.xml";
+                case 'ἰ':
+                    xmlFileTitle = @"iota";
                     break;
-                case 'l':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse L.xml";
+                case 'ἱ':
+                    xmlFileTitle = @"iota";
                     break;
-                case 'm':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse M.xml";
+                case 'κ':
+                    xmlFileTitle = @"kappa";
                     break;
-                case 'n':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse N.xml";
+                case 'λ':
+                    xmlFileTitle = @"lambda";
                     break;
-                case 'o':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse O.xml";
+                case 'μ':
+                    xmlFileTitle = @"mu";
                     break;
-                case 'p':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse P.xml";
+                case 'ν':
+                    xmlFileTitle = @"nu";
                     break;
-                case 'q':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse Q.xml";
+                case 'ξ':
+                    xmlFileTitle = @"xsi";
                     break;
-                case 'r':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse R.xml";
+                case 'ὁ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 's':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse S.xml";
+                case 'ὀ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 't':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse T.xml";
+                case 'ὃ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 'u':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse U.xml";
+                case 'ὂ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 'v':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse V.xml";
+                case 'ὅ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 'w':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse W.xml";
+                case 'ὄ':
+                    xmlFileTitle = @"omicron";
                     break;
-                case 'y':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse Y.xml";
+                case 'π':
+                    xmlFileTitle = @"pi";
                     break;
-                case 'z':
-                    xmlFileTitle = @"C:\Users\IWANOS\Source\Repos\Woodhouse-Dictionary\Woodhouse Dictionary\Woodhouse XML\Woodhouse Z.xml";
+                case 'ρ':
+                    xmlFileTitle = @"rho";
+                    break;
+                case 'σ':
+                    xmlFileTitle = @"sigma";
+                    break;
+                case 'τ':
+                    xmlFileTitle = @"tau";
+                    break;
+                case 'υ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'φ':
+                    xmlFileTitle = @"phi";
+                    break;
+                case 'ψ':
+                    xmlFileTitle = @"psi";
+                    break;
+                case 'χ':
+                    xmlFileTitle = @"chi";
+                    break;
+                case 'ὡ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὠ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὣ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὢ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὥ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὤ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὧ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'ὦ':
+                    xmlFileTitle = @"omega";
                     break;
             }
+
+            xmlFileTitle = $"{xmlFileTitle}.xml";
+
             return xmlFileTitle;
         }
 

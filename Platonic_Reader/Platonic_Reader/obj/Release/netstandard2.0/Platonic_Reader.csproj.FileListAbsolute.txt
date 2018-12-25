@@ -1,6 +1,7 @@
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\bin\Release\netstandard2.0\Platonic_Reader.deps.json
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\bin\Release\netstandard2.0\Platonic_Reader.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\bin\Release\netstandard2.0\Platonic_Reader.pdb
+C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\Platonic_Reader.csprojAssemblyReference.cache
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\App.xaml.g.cs
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\BooksViews\Alcibiades1.xaml.g.cs
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\BooksViews\Alcibiades2.xaml.g.cs
@@ -32,4 +33,3 @@ C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\XamlC.stamp
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\Platonic_Reader.dll
 C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\Platonic_Reader.pdb
-C:\Users\IWANOS\source\repos\Platonic_Reader\Platonic_Reader\Platonic_Reader\obj\Release\netstandard2.0\Platonic_Reader.csprojAssemblyReference.cache

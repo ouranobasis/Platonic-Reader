@@ -7,7 +7,8 @@ namespace Platonic_Reader
     class SentenceItem
     {
         public string parseInfo { get; set; }
-        public string lemma { get; set; }
         public string item { get; set; }
+        public string lemma { get; set; }
+        public string definition { get; set; }
     }
 }

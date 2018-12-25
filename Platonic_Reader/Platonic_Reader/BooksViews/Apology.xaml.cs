@@ -39,7 +39,7 @@ namespace Platonic_Reader
             }
             sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            page.Children.RemoveAt(2);
+            page.Children.RemoveAt(0);
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
@@ -56,7 +56,7 @@ namespace Platonic_Reader
 
             sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            page.Children.RemoveAt(2);
+            page.Children.RemoveAt(0);
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
@@ -65,17 +65,23 @@ namespace Platonic_Reader
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
             var dictionaryEntries = new StackLayout()
             {
-                Margin = new Thickness(50, 0),                
+                Margin = new Thickness(50, 0),
             };
 
+            int wordNumber = 1;
             foreach (var item in fullSentence)
             {
                 Label label;
+                Label definitionLabel;
+
                 if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";")
                 {
-                    label = new Label { Text = $"{item.lemma}",  TextColor = Color.Red, FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
+                    label = new Label { Text = $" {wordNumber}. {item.lemma}",  TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
+                    definitionLabel = new Label { Text = $"- {item.definition}.", Margin= new Thickness(20,0,0,0), TextColor = Color.FromHex("#303030"), FontSize = 15, FontFamily = "Crimson-Italic.ttf#Crimson" }; 
                     dictionaryEntries.Children.Add(label);
+                    dictionaryEntries.Children.Add(definitionLabel);
                 }
+                wordNumber++;
             }
             return dictionaryEntries;
         }

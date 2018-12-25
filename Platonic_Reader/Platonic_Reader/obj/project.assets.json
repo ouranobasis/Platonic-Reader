@@ -59,10 +59,11 @@
   },
   "libraries": {
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
@@ -200,10 +201,11 @@
       ]
     },
     "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
-      "sha512": "yvn/+6JLuP+9NfjVLNPjGR7P2+wqgsxCA9aG1xBxrmsIDWgEY/xwsvdtNiNKlLXwDbu8PL9J1qLLcQH1PzvKGQ==",
+      "sha512": "/LkB4RSHM+b02EMmJy0PiDlZKhmtbL+52/nb328xaYAcArTQ/vAiEF5c1FrjlVp6kExae5xCP9In7JIeTtTdaA==",
       "type": "package",
       "path": "xam.plugins.forms.imagecircle/3.0.0.6-beta",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "lib/monoandroid71/ImageCircle.Forms.Plugin.dll",
         "lib/monoandroid71/ImageCircle.Forms.Plugin.xml",
@@ -221,10 +223,11 @@
       ]
     },
     "Xamarin.Forms/3.4.0.1008975": {
-      "sha512": "036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
+      "sha512": "tM9syeev45u92OFENGjq+Zw8WiEwLJFiXe317XpL9SY2RRk9sm2fc1lDVjzwz0da+5ZP5fi24NAPsPQdxBdMwQ==",
       "type": "package",
       "path": "xamarin.forms/3.4.0.1008975",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "build/Xamarin.Forms.DefaultItems.props",
         "build/Xamarin.Forms.DefaultItems.targets",

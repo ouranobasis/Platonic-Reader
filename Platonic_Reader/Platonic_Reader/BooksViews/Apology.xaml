@@ -10,9 +10,10 @@
             <Image Source="greekCoils.png"/>            
         </StackLayout>
         <ScrollView>
-            <StackLayout x:Name="page" Margin="20,0">
+            <StackLayout Margin="20,0">
                 <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
                 <Label x:Name="sentence" FontSize="30" FontAttributes="Italic"/>
+                <StackLayout x:Name="page"></StackLayout>
             </StackLayout>
         </ScrollView>
 
