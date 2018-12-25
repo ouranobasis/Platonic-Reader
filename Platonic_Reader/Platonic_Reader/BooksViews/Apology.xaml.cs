@@ -71,7 +71,7 @@ namespace Platonic_Reader
             foreach (var item in fullSentence)
             {
                 Label label;
-                if (item.lemma != "," && item.lemma != "·" )
+                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";")
                 {
                     label = new Label { Text = $"{item.lemma}",  TextColor = Color.Red, FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
                     dictionaryEntries.Children.Add(label);

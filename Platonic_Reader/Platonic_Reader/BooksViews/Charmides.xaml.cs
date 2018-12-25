@@ -19,10 +19,12 @@ namespace Platonic_Reader
         public string bookNumber = "Charmides";
 
 		public Charmides ()
-		{
-            InitializeComponent();           
+        {
+            InitializeComponent();
+            sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = CreateFormatedString(sentenceNumber, bookNumber);
-		}
+            page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
+        }
 
         private void OnNextButtonClick(object sender, EventArgs e)
         {
@@ -30,33 +32,57 @@ namespace Platonic_Reader
 
             var formattedString = CreateFormatedString(sentenceNumber, bookNumber);
 
-            if(sentenceNumber > 1)
+            if (sentenceNumber > 1)
             {
-                previous.IsVisible = true;
+                previous.TextColor = Color.FromHex("#292b29");
+                previous.IsEnabled = true;
             }
-
+            sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            //textLayout.Children.Add(new Label { FormattedText = formattedString });
+            page.Children.RemoveAt(2);
+            page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
         private void OnPreviousButtonClick(object sender, EventArgs e)
-        {           
+        {
             sentenceNumber--;
             var formattedString = CreateFormatedString(sentenceNumber, bookNumber);
 
-            if(sentenceNumber < 2)
+            if (sentenceNumber < 2)
             {
-                previous.IsVisible = false;
+                previous.TextColor = Color.FromHex("#999999");
+                previous.IsEnabled = false;
             }
 
+            sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            //textLayout.Children.Add(new Label { FormattedText = formattedString });
+            page.Children.RemoveAt(2);
+            page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
+        }
+
+        private StackLayout CreateDictionaryEntries(int sentenceNumber, string bookNumber)
+        {
+            var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
+            var dictionaryEntries = new StackLayout()
+            {
+                Margin = new Thickness(50, 0),
+            };
+
+            foreach (var item in fullSentence)
+            {
+                Label label;
+                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";")
+                {
+                    label = new Label { Text = $"{item.lemma}", TextColor = Color.Red, FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
+                    dictionaryEntries.Children.Add(label);
+                }
+            }
+            return dictionaryEntries;
         }
 
         public FormattedString CreateFormatedString(int sentenceNumber, string bookNumber)
         {
             var tapGestureRecognizer = new TapGestureRecognizer();
-            //var layout = new StackLayout { Padding = new Thickness(5, 10) };
             var formattedString = new FormattedString();
 
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
@@ -64,8 +90,15 @@ namespace Platonic_Reader
             foreach (var item in fullSentence)
             {
                 string humanReadableGrammarDescription = Utilities.ParseInterpreter(item.parseInfo);
-                var span = new Span { Text = $"{item.item} ", ForegroundColor = Color.FromHex("#292b29"), FontFamily = "GFSBaskerville.ttf#GFS Porson", FontSize = 30 };
+                var span = new Span
+                {
+                    Text = $"{item.item} ",
+                    ForegroundColor = Color.FromHex("#292b29"),
+                    FontSize = 30,
+                    FontFamily = "GFSBaskerville.ttf#GFS Porson"
+                };
                 span.GestureRecognizers.Add(new TapGestureRecognizer { Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", humanReadableGrammarDescription, "OK")) });
+
                 formattedString.Spans.Add(span);
             }
             return formattedString;

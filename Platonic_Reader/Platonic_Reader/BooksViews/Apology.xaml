@@ -17,8 +17,8 @@
         </ScrollView>
 
         <StackLayout Margin="20, 0" VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal" BackgroundColor="Transparent">
-            <Button Text="Back" x:Name="previous" Clicked="OnPreviousButtonClick" BackgroundColor="Transparent" FontAttributes="Bold" FontSize="20" TextColor="#999999"/>
-            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick" BackgroundColor="Transparent" FontAttributes="Bold" FontSize="20" TextColor="#292b29"/>
+            <Button Text="Back" x:Name="previous" Clicked="OnPreviousButtonClick" BackgroundColor="Transparent" FontFamily="Crimson-Italic.ttf#Crimson" FontAttributes="Bold" FontSize="20" TextColor="#999999"/>
+            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick" BackgroundColor="Transparent" FontFamily="Crimson-Italic.ttf#Crimson" FontAttributes="Bold" FontSize="20" TextColor="#292b29"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>

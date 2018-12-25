@@ -6,16 +6,19 @@
              Title="First Alcibiades">
 
     <StackLayout>
+        <StackLayout>
+            <Image Source="greekCoils.png"/>
+        </StackLayout>
         <ScrollView>
-            <StackLayout x:Name="textLayout" Padding="20, 100, 20, 0">
-                <Label x:Name="sentence"/>
+            <StackLayout x:Name="page" Margin="20,0">
+                <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
+                <Label x:Name="sentence" FontSize="30" FontAttributes="Italic"/>
             </StackLayout>
         </ScrollView>
-        
-        <StackLayout VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal">
 
-             <Button Text="Previous" x:Name="previous" Clicked="OnPreviousButtonClick" IsVisible="False"/>
-            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick"/>
+        <StackLayout Margin="20, 0" VerticalOptions="EndAndExpand" HorizontalOptions="Center" Orientation="Horizontal" BackgroundColor="Transparent">
+            <Button Text="Back" x:Name="previous" Clicked="OnPreviousButtonClick" BackgroundColor="Transparent" FontFamily="Crimson-Italic.ttf#Crimson" FontAttributes="Bold" FontSize="20" TextColor="#999999"/>
+            <Button Text="Next" x:Name="next" Clicked="OnNextButtonClick" BackgroundColor="Transparent" FontFamily="Crimson-Italic.ttf#Crimson" FontAttributes="Bold" FontSize="20" TextColor="#292b29"/>
         </StackLayout>
     </StackLayout>
 </ContentPage>
