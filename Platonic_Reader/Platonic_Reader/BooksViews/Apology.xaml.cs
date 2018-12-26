@@ -72,14 +72,15 @@ namespace Platonic_Reader
             foreach (var item in fullSentence)
             {
                 Label label;
-                Label definitionLabel;
 
-                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";")
+                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";" && item.lemma != "—")
                 {
                     label = new Label { Text = $" {wordNumber}. {item.lemma}",  TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
-                    definitionLabel = new Label { Text = $"- {item.definition}.", Margin= new Thickness(20,0,0,0), TextColor = Color.FromHex("#303030"), FontSize = 15, FontFamily = "Crimson-Italic.ttf#Crimson" }; 
+                    label.GestureRecognizers.Add(new TapGestureRecognizer
+                    {
+                        Command = new Command(async () => await DisplayAlert("DICTIONARY LOOKUP", $"{Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                    });
                     dictionaryEntries.Children.Add(label);
-                    dictionaryEntries.Children.Add(definitionLabel);
                 }
                 wordNumber++;
             }
@@ -96,13 +97,17 @@ namespace Platonic_Reader
             foreach (var item in fullSentence)
             {
                 string humanReadableGrammarDescription = Utilities.ParseInterpreter(item.parseInfo);
-                var span = new Span {
-                                      Text = $"{item.item} ",
-                                      ForegroundColor = Color.FromHex("#292b29"),
-                                      FontSize = 30,
-                                      FontFamily = "GFSBaskerville.ttf#GFS Porson"                                      
-                                    };
-                span.GestureRecognizers.Add(new TapGestureRecognizer { Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", humanReadableGrammarDescription, "OK")) });
+                var span = new Span
+                {
+                    Text = $"{item.item} ",
+                    ForegroundColor = Color.FromHex("#292b29"),
+                    FontSize = 30,
+                    FontFamily = "GFSBaskerville.ttf#GFS Porson"                                      
+                };
+                span.GestureRecognizers.Add(new TapGestureRecognizer
+                {
+                    Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", $"{humanReadableGrammarDescription} \n {Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                });
                 
                 formattedString.Spans.Add(span);
             }

@@ -9,6 +9,5 @@ namespace Platonic_Reader
         public string parseInfo { get; set; }
         public string item { get; set; }
         public string lemma { get; set; }
-        public string definition { get; set; }
     }
 }

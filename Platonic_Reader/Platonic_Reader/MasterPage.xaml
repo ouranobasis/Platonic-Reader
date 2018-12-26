@@ -54,10 +54,10 @@
                     <ViewCell>
                         <StackLayout VerticalOptions="Center" Orientation="Horizontal">
                             <Image VerticalOptions="Center" Source="Scroll.png" HeightRequest="20" WidthRequest="30" Margin=" 10,0,10,0"/>
-                            <Label VerticalTextAlignment="Center" Text="{Binding Title}" HorizontalTextAlignment="Center" TextColor="White" FontSize="30">
+                            <Label VerticalTextAlignment="Center" Text="{Binding Title}" HorizontalTextAlignment="Center" TextColor="Black" FontSize="30">
                                 <Label.FontFamily>
                                     <OnPlatform x:TypeArguments="x:String">
-                                        <On Platform="Android">Crimson-Roman.ttf#Crimson</On>
+                                        <On Platform="Android">Crimson-Italic.ttf#Crimson</On>
                                     </OnPlatform>
                                 </Label.FontFamily>
                             </Label>

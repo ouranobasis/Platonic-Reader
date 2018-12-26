@@ -45,7 +45,6 @@ namespace Platonic_Reader
                             sentenceItem.item = sentenceInfo[0];
                             sentenceItem.lemma = sentenceInfo[1];
 
-                            sentenceItem.definition = CreateDictionaryDefinition(sentenceInfo[1]);
                             fullSentence.Add(sentenceItem);
 
                         } while (reader.ReadToNextSibling("t"));
@@ -268,25 +267,35 @@ namespace Platonic_Reader
             return interpretedCode;
         }
 
-        public static string CreateDictionaryDefinition(string greekWord)
+        public static string CallDictionaryDefinition(string greekWord)
         {
-            var assembly = typeof(MainPage).GetTypeInfo().Assembly;
-            var stream = assembly.GetManifestResourceStream($"Platonic_Reader.Dictionary.{GetDictionarySegmentFile(greekWord)}");
-
             string definition = "";
 
-            //using (XmlReader reader = XmlReader.Create(stream))
-            //{
-            //    while (reader.Read())
-            //    {
-            //        if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
-            //        {
-            //            //GetDictionaryDefinition(reader.ReadSubtree());
-            //        }
-            //    }
-            //}
+            if (greekWord !="," && greekWord != "·" && greekWord != "." && greekWord != ";" && greekWord != "—")
+            { 
+                var assembly = typeof(MainPage).GetTypeInfo().Assembly;
+                var stream = assembly.GetManifestResourceStream($"Platonic_Reader.Dictionary.{GetDictionarySegmentFile(greekWord)}");
 
-            return GetDictionarySegmentFile(greekWord);
+                using (XmlReader reader = XmlReader.Create(stream))
+                {
+                    while (reader.Read())
+                    {
+                        if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
+                        {
+                            reader.ReadToDescendant("English-Entry");
+                            reader.Read();
+                            definition = reader.Value;
+                            break;
+                        }
+                        else
+                        {
+                            definition = $"This Root Lemma: {greekWord} Is Not In My Dictionary";
+                        }
+                    }
+                }
+            }
+            return definition;
+
         }
 
         public static string GetDictionaryDefinition(XmlReader definitionReader)
@@ -298,7 +307,7 @@ namespace Platonic_Reader
                 {
                     definitionReader.Read();
                     //definition = definitionReader.Value.Trim();
-                    definition = "hello";
+                    definition = definitionReader.Name;
                 }
             }
             return definition;
@@ -312,6 +321,9 @@ namespace Platonic_Reader
             var xmlFileTitle = "";
             switch (firstLetter)
             {
+                case 'α':
+                    xmlFileTitle = @"alpha";
+                    break;
                 case 'ἀ':
                     xmlFileTitle = @"alpha";
                     break;
@@ -339,6 +351,9 @@ namespace Platonic_Reader
                 case 'δ':
                     xmlFileTitle = @"delta";
                     break;
+                case 'ε':
+                    xmlFileTitle = @"epsilon";
+                    break;
                 case 'ἐ':
                     xmlFileTitle = @"epsilon";
                     break;
@@ -350,6 +365,9 @@ namespace Platonic_Reader
                     break;
                 case 'ζ':
                     xmlFileTitle = @"zeta";
+                    break;
+                case 'η':
+                    xmlFileTitle = @"eta";
                     break;
                 case 'ἡ':
                     xmlFileTitle = @"eta";
@@ -368,6 +386,9 @@ namespace Platonic_Reader
                     break;
                 case 'θ':
                     xmlFileTitle = @"eta";
+                    break;
+                case 'ι':
+                    xmlFileTitle = @"iota";
                     break;
                 case 'ἵ':
                     xmlFileTitle = @"iota";
@@ -395,6 +416,9 @@ namespace Platonic_Reader
                     break;
                 case 'ξ':
                     xmlFileTitle = @"xsi";
+                    break;
+                case 'ο':
+                    xmlFileTitle = @"omicron";
                     break;
                 case 'ὁ':
                     xmlFileTitle = @"omicron";
@@ -429,6 +453,30 @@ namespace Platonic_Reader
                 case 'υ':
                     xmlFileTitle = @"upsilon";
                     break;
+                case 'ὑ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὐ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὓ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὒ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὕ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὔ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὗ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'ὖ':
+                    xmlFileTitle = @"upsilon";
+                    break;
                 case 'φ':
                     xmlFileTitle = @"phi";
                     break;
@@ -437,6 +485,9 @@ namespace Platonic_Reader
                     break;
                 case 'χ':
                     xmlFileTitle = @"chi";
+                    break;
+                case 'ω':
+                    xmlFileTitle = @"omega";
                     break;
                 case 'ὡ':
                     xmlFileTitle = @"omega";
