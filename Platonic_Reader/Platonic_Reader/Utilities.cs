@@ -1,11 +1,8 @@
-﻿using System;
+﻿using System.Collections.Generic;
 using System.IO;
-using System.Xml;
-using System.Reflection;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Reflection;
+using System.Xml;
 
 namespace Platonic_Reader
 {
@@ -282,9 +279,16 @@ namespace Platonic_Reader
                     {
                         if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
                         {
-                            reader.ReadToDescendant("English-Entry");
-                            reader.Read();
-                            definition = reader.Value;
+                            if (reader.ReadToDescendant("English-Entry"))
+                            {
+                                definition = reader.Name;
+                                //do
+                                //{
+                                //    //reader.Read();
+                                //    definition = reader.ReadContentAsString();
+
+                                //} while (reader.ReadToNextSibling("English-Entry"));
+                            }
                             break;
                         }
                         else
@@ -295,7 +299,6 @@ namespace Platonic_Reader
                 }
             }
             return definition;
-
         }
 
         public static string GetDictionaryDefinition(XmlReader definitionReader)
@@ -306,6 +309,7 @@ namespace Platonic_Reader
                 if(definitionReader.IsStartElement() && definitionReader.Name == "English-Entry")
                 {
                     definitionReader.Read();
+                    
                     //definition = definitionReader.Value.Trim();
                     definition = definitionReader.Name;
                 }
