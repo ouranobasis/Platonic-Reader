@@ -6,11 +6,11 @@
 	  <English-Entry>B., son and grandson of B.,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γα1">
+  <Greek-Entry key="γα">
 	  <English-Entry>, τύγα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γᾶ2">
+  <Greek-Entry key="γᾶ">
 	  <English-Entry>γῆ</English-Entry>
   </Greek-Entry>
 
@@ -154,7 +154,7 @@
 	  <English-Entry>γάλα, ἄλλοι ὄξος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάδος1">
+  <Greek-Entry key="γάδος">
 	  <English-Entry>fish</English-Entry>
   </Greek-Entry>
 
@@ -648,11 +648,11 @@
 	  <English-Entry>colore mustelino</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γαλῆ1">
+  <Greek-Entry key="γαλῆ">
 	  <English-Entry>γαλέη</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάλη2">
+  <Greek-Entry key="γάλη">
 	  <English-Entry>ἐξέδρας εἶδος, καὶ ἐν ᾗ</English-Entry>
 	  <English-Entry>γαλῆ</English-Entry>
 	  <English-Entry>γαλέα τὸ ζῷον</English-Entry>
@@ -1120,11 +1120,11 @@
 	  <English-Entry>ἀγγεῖον σκύφῳ παραπλήσιον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάνα1">
+  <Greek-Entry key="γάνα">
 	  <English-Entry>γυνή</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάνα2">
+  <Greek-Entry key="γάνα">
 	  <English-Entry>: χέρσος, γῆ</English-Entry>
   </Greek-Entry>
 
@@ -1150,7 +1150,7 @@
 	  <English-Entry>ὁ πολλὰ εἰδὼς καὶ πανοῦργος: τινὲς δὲ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάδος2">
+  <Greek-Entry key="γάδος">
 	  <English-Entry>πυροί, ἄλευρα</English-Entry>
 	  <English-Entry>κήπους</English-Entry>
 	  <English-Entry>κόπους</English-Entry>
@@ -1165,7 +1165,7 @@
   <Greek-Entry key="γάννυα">
   </Greek-Entry>
 
-  <Greek-Entry key="γάνος1">
+  <Greek-Entry key="γάνος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>γαίω</English-Entry>
 	  <English-Entry>γάνυμαι</English-Entry>
@@ -1176,7 +1176,7 @@
 	  <English-Entry>water</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γάνος2">
+  <Greek-Entry key="γάνος">
 	  <English-Entry>: παράδεισος</English-Entry>
 	  <English-Entry>γάνεα</English-Entry>
 	  <English-Entry>Ber. Sächs.Gesellsch.</English-Entry>
@@ -4033,10 +4033,10 @@
   <Greek-Entry key="γηραός">
   </Greek-Entry>
 
-  <Greek-Entry key="γηράς1">
+  <Greek-Entry key="γηράς">
   </Greek-Entry>
 
-  <Greek-Entry key="γῆρας2">
+  <Greek-Entry key="γῆρας">
 	  <English-Entry>γήρατι</English-Entry>
 	  <English-Entry>γῆρος</English-Entry>
 	  <English-Entry>old age</English-Entry>
@@ -4355,116 +4355,30 @@
   </Greek-Entry>
 
   <Greek-Entry key="γίγνομαι">
-	  <English-Entry>γιγν-</English-Entry>
-	  <English-Entry>γενήσομαι</English-Entry>
-	  <English-Entry>ἐγενόμην</English-Entry>
-	  <English-Entry>γέγᾰα</English-Entry>
-	  <English-Entry>γεγᾱ́κᾰσιν</English-Entry>
-	  <English-Entry>ἐκ-γεγάτην [ᾰ</English-Entry>
-	  <English-Entry>γεγάμεν [ᾰ</English-Entry>
-	  <English-Entry>γεγᾰώς -ᾰυῖα</English-Entry>
-	  <English-Entry>ἐκγεγάασθε</English-Entry>
-	  <English-Entry>ἐκ-γεγάονται</English-Entry>
-	  <English-Entry>γενηθήσομαι</English-Entry>
-	  <English-Entry>οὔτε γενήσεται, οὔτε γενηθήσεται</English-Entry>
-	  <English-Entry>γείνομαι</English-Entry>
 	  <English-Entry>come into a new state of being</English-Entry>
 	  <English-Entry>come into being</English-Entry>
 	  <English-Entry>to be born</English-Entry>
-	  <English-Entry>born</English-Entry>
-	  <English-Entry>born</English-Entry>
-	  <English-Entry>living</English-Entry>
-	  <English-Entry>at our birth</English-Entry>
 	  <English-Entry>to have been born</English-Entry>
-	  <English-Entry>those of an age</English-Entry>
 	  <English-Entry>to be produced</English-Entry>
-	  <English-Entry>were the produce of</English-Entry>
-	  <English-Entry>were worth</English-Entry>
 	  <English-Entry>produced by</English-Entry>
-	  <English-Entry>total</English-Entry>
 	  <English-Entry>amount to</English-Entry>
-	  <English-Entry>products</English-Entry>
-	  <English-Entry>multiplied</English-Entry>
-	  <English-Entry>elapse</English-Entry>
-	  <English-Entry>falldue</English-Entry>
-	  <English-Entry>dues,</English-Entry>
-	  <English-Entry>regular, normal</English-Entry>
-	  <English-Entry>usual number</English-Entry>
 	  <English-Entry>take place, come to pass</English-Entry>
 	  <English-Entry>to be</English-Entry>
-	  <English-Entry>are held</English-Entry>
-	  <English-Entry>is passed</English-Entry>
-	  <English-Entry>are given</English-Entry>
-	  <English-Entry>taken</English-Entry>
-	  <English-Entry>God forbid</English-Entry>
-	  <English-Entry>suppose it done</English-Entry>
-	  <English-Entry>it is done,</English-Entry>
-	  <English-Entry>take place</English-Entry>
-	  <English-Entry>were favourable</English-Entry>
-	  <English-Entry>the event, the fact</English-Entry>
-	  <English-Entry>the facts</English-Entry>
-	  <English-Entry>the past</English-Entry>
-	  <English-Entry>the future</English-Entry>
 	  <English-Entry>to have passed</English-Entry>
 	  <English-Entry>it happened, came to pass</English-Entry>
 	  <English-Entry>it came to pass</English-Entry>
 	  <English-Entry>it is possible</English-Entry>
 	  <English-Entry>it came to pass</English-Entry>
-	  <English-Entry>come into</English-Entry>
-	  <English-Entry>become</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>turning</English-Entry>
-	  <English-Entry>;</English-Entry>
 	  <English-Entry>am I to become</English-Entry>
-	  <English-Entry>having ceased to be</English-Entry>
-	  <English-Entry>ex</English-Entry>
-	  <English-Entry>former</English-Entry>
 	  <English-Entry>it goes</English-Entry>
 	  <English-Entry>to be parted from</English-Entry>
 	  <English-Entry>to be</English-Entry>
-	  <English-Entry>become one of</English-Entry>
 	  <English-Entry>fall to, belong to</English-Entry>
-	  <English-Entry>to be under control of</English-Entry>
-	  <English-Entry>to be at</English-Entry>
-	  <English-Entry>cost</English-Entry>
-	  <English-Entry>fall to</English-Entry>
-	  <English-Entry>have done</English-Entry>
 	  <English-Entry>to be separated</English-Entry>
-	  <English-Entry>turn</English-Entry>
-	  <English-Entry>comes</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>disappear</English-Entry>
-	  <English-Entry>to be engaged</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>arrive</English-Entry>
-	  <English-Entry>be</English-Entry>
-	  <English-Entry>fall into</English-Entry>
-	  <English-Entry>be in</English-Entry>
-	  <English-Entry>to be set</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be multiplied</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>opposite to</English-Entry>
-	  <English-Entry>to be formed</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
 	  <English-Entry>to be present</English-Entry>
-	  <English-Entry>to depend</English-Entry>
 	  <English-Entry>to be engaged</English-Entry>
-	  <English-Entry>go</English-Entry>
 	  <English-Entry>to be at</English-Entry>
-	  <English-Entry>near</English-Entry>
 	  <English-Entry>to be engaged</English-Entry>
-	  <English-Entry>meditate</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>to be</English-Entry>
-	  <English-Entry>jánati</English-Entry>
-	  <English-Entry>jánas</English-Entry>
-	  <English-Entry>gigno, gnatus.</English-Entry>
   </Greek-Entry>
 
   <Greek-Entry key="γιγνώσκω">
@@ -4725,7 +4639,7 @@
 	  <English-Entry>grey-eyed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γλαυκός1">
+  <Greek-Entry key="γλαυκός">
 	  <English-Entry>gleaming</English-Entry>
 	  <English-Entry>bluish green</English-Entry>
 	  <English-Entry>grey</English-Entry>
@@ -4733,7 +4647,7 @@
 	  <English-Entry>Aër.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γλαῦκος2">
+  <Greek-Entry key="γλαῦκος">
 	  <English-Entry>fish of grey colour</English-Entry>
   </Greek-Entry>
 
@@ -6249,14 +6163,14 @@
 	  <English-Entry>γνοτέρα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γνωτός1">
+  <Greek-Entry key="γνωτός">
 	  <English-Entry>, όν</English-Entry>
 	  <English-Entry>γνωστός</English-Entry>
 	  <English-Entry>perceived, understood, known</English-Entry>
 	  <English-Entry>well-known</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γνωτός2">
+  <Greek-Entry key="γνωτός">
 	  <English-Entry>kinsman, kinswoman</English-Entry>
 	  <English-Entry>brothers</English-Entry>
 	  <English-Entry>sisters</English-Entry>
@@ -8112,11 +8026,11 @@
   <Greek-Entry key="γρυνόν">
   </Greek-Entry>
 
-  <Greek-Entry key="γρυνός1">
+  <Greek-Entry key="γρυνός">
 	  <English-Entry>fagot, firebrand</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γρῦνος2">
+  <Greek-Entry key="γρῦνος">
   </Greek-Entry>
 
   <Greek-Entry key="γρύξ">
@@ -9123,12 +9037,12 @@
 	  <English-Entry>, ̔γῦρις̓</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γυρός1">
+  <Greek-Entry key="γυρός">
 	  <English-Entry>rounded, curved, crooked,</English-Entry>
 	  <English-Entry>round-</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="γῦρος2">
+  <Greek-Entry key="γῦρος">
 	  <English-Entry>ring, circle,</English-Entry>
 	  <English-Entry>ornament, bangle,</English-Entry>
 	  <English-Entry>trench</English-Entry>

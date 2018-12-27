@@ -859,19 +859,19 @@
 	  <English-Entry>forgetful, heedless, foolish</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάθος1">
+  <Greek-Entry key="λάθος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>escape from detection</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λᾶθος2">
+  <Greek-Entry key="λᾶθος">
 	  <English-Entry>λῆθος,</English-Entry>
   </Greek-Entry>
 
   <Greek-Entry key="λαθοσύνα">
   </Greek-Entry>
 
-  <Greek-Entry key="λάθρα1">
+  <Greek-Entry key="λάθρα">
 	  <English-Entry>αἱ δίκαι</English-Entry>
   </Greek-Entry>
 
@@ -910,7 +910,7 @@
 	  <English-Entry>unknown to</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάθρα2">
+  <Greek-Entry key="λάθρα">
   </Greek-Entry>
 
   <Greek-Entry key="λαθρίδιος">
@@ -973,11 +973,11 @@
 	  <English-Entry>pulse, chickling, Lathyrus sativus</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαί1">
+  <Greek-Entry key="λαί">
 	  <English-Entry>ἐπὶ τῆς αἰσχρουργίας</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαι2">
+  <Greek-Entry key="λαι">
 	  <English-Entry>λαίμαργος, λαίσκαπρος, λαίσπαις</English-Entry>
   </Greek-Entry>
 
@@ -1136,12 +1136,12 @@
 	  <English-Entry>gushing from the throat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαιμός1">
+  <Greek-Entry key="λαιμός">
 	  <English-Entry>throat, gullet</English-Entry>
 	  <English-Entry>neck</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαιμός2">
+  <Greek-Entry key="λαιμός">
 	  <English-Entry>λαιμὰ βακχεύειν</English-Entry>
 	  <English-Entry>impudently</English-Entry>
   </Greek-Entry>
@@ -1213,11 +1213,11 @@
 	  <English-Entry>left-footed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαιός1">
+  <Greek-Entry key="λαιός">
 	  <English-Entry>blue thrush, Petrocichla cyanus</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαιός2">
+  <Greek-Entry key="λαιός">
 	  <English-Entry>left</English-Entry>
 	  <English-Entry>on the left</English-Entry>
 	  <English-Entry>on the left</English-Entry>
@@ -1882,10 +1882,10 @@
 	  <English-Entry>vitta,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάμνα1">
+  <Greek-Entry key="λάμνα">
   </Greek-Entry>
 
-  <Greek-Entry key="λᾶμνα2">
+  <Greek-Entry key="λᾶμνα">
 	  <English-Entry>lāmina,</English-Entry>
   </Greek-Entry>
 
@@ -2032,7 +2032,7 @@
 	  <English-Entry>shining</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαμπάς1">
+  <Greek-Entry key="λαμπάς">
 	  <English-Entry>torch</English-Entry>
 	  <English-Entry>beacon-light</English-Entry>
 	  <English-Entry>torches</English-Entry>
@@ -2046,7 +2046,7 @@
 	  <English-Entry>the race</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαμπάς2">
+  <Greek-Entry key="λαμπάς">
 	  <English-Entry>torch-lit</English-Entry>
   </Greek-Entry>
 
@@ -2583,7 +2583,7 @@
 	  <English-Entry>λεωργός</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαός1">
+  <Greek-Entry key="λαός">
 	  <English-Entry>λαός</English-Entry>
 	  <English-Entry>λαός</English-Entry>
 	  <English-Entry>men</English-Entry>
@@ -2611,7 +2611,7 @@
 	  <English-Entry>stone</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λᾶος2">
+  <Greek-Entry key="λᾶος">
 	  <English-Entry>λᾶας</English-Entry>
 	  <English-Entry>stone</English-Entry>
   </Greek-Entry>
@@ -2817,12 +2817,12 @@
 	  <English-Entry>frankincense</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαρινός1">
+  <Greek-Entry key="λαρινός">
 	  <English-Entry>fatted, fat</English-Entry>
 	  <English-Entry>grow fat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάρινος2">
+  <Greek-Entry key="λάρινος">
 	  <English-Entry>ᾱ],</English-Entry>
 	  <English-Entry>sea-fish</English-Entry>
   </Greek-Entry>
@@ -2892,12 +2892,12 @@
 	  <English-Entry>like a sea-mew</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάρος1">
+  <Greek-Entry key="λάρος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>sea-mew, gull</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαρός2">
+  <Greek-Entry key="λαρός">
 	  <English-Entry>pleasant to the taste, dainty, sweet</English-Entry>
 	  <English-Entry>sweet</English-Entry>
 	  <English-Entry>pleasant to the smell</English-Entry>
@@ -3422,10 +3422,10 @@
 	  <English-Entry>britia</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Λαφρία1">
+  <Greek-Entry key="Λαφρία">
   </Greek-Entry>
 
-  <Greek-Entry key="Λάφρια2">
+  <Greek-Entry key="Λάφρια">
   </Greek-Entry>
 
   <Greek-Entry key="Λαφριάδαι">
@@ -3721,13 +3721,13 @@
 	  <English-Entry>, ̔λαχεῖν̓</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λαχμός1">
+  <Greek-Entry key="λαχμός">
   </Greek-Entry>
 
-  <Greek-Entry key="λαχμός2">
+  <Greek-Entry key="λαχμός">
   </Greek-Entry>
 
-  <Greek-Entry key="λαχμός3">
+  <Greek-Entry key="λαχμός">
   </Greek-Entry>
 
   <Greek-Entry key="λαχναῖος">
@@ -3762,11 +3762,11 @@
 	  <English-Entry>downy</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάχνος1">
+  <Greek-Entry key="λάχνος">
 	  <English-Entry>wool</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάχνος2">
+  <Greek-Entry key="λάχνος">
 	  <English-Entry>glutton,</English-Entry>
   </Greek-Entry>
 
@@ -3813,19 +3813,19 @@
 	  <English-Entry>λαμβάνω</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάω1">
+  <Greek-Entry key="λάω">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>γηθήσειε λάων</English-Entry>
 	  <English-Entry>λάετε: σκοπεῖτε, βλέπετε</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάω2">
+  <Greek-Entry key="λάω">
 	  <English-Entry>seize, hold</English-Entry>
 	  <English-Entry>gripping</English-Entry>
 	  <English-Entry>gripped</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λάω3">
+  <Greek-Entry key="λάω">
   </Greek-Entry>
 
   <Greek-Entry key="λαώδης">
@@ -4000,11 +4000,11 @@
 	  <English-Entry>lewd</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέγω1">
+  <Greek-Entry key="λέγω">
 	  <English-Entry>lay</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέγω2">
+  <Greek-Entry key="λέγω">
 	  <English-Entry>pick up</English-Entry>
 	  <English-Entry>gather, pick up</English-Entry>
 	  <English-Entry>picking out stones for building</English-Entry>
@@ -4110,11 +4110,11 @@
 	  <English-Entry>ᾰ],</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεία1">
+  <Greek-Entry key="λεία">
 	  <English-Entry>tool for smoothing stone</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεία2">
+  <Greek-Entry key="λεία">
 	  <English-Entry>booty, plunder</English-Entry>
 	  <English-Entry>prey</English-Entry>
 	  <English-Entry>booty</English-Entry>
@@ -4558,7 +4558,7 @@
 	  <English-Entry>ὁ ἰσχνὸς καὶ ὠχρός. καὶ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ληρίας1">
+  <Greek-Entry key="ληρίας">
 	  <English-Entry>λέγουσι κύνας, τὰς κατισχνωμένας καὶ ἀποβαλούσας τρίχας. ἢ τὸν μικρὸν λαγών</English-Entry>
   </Greek-Entry>
 
@@ -4834,11 +4834,11 @@
 	  <English-Entry>peasepudding-seller</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέκιθος1">
+  <Greek-Entry key="λέκιθος">
 	  <English-Entry>gruel</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέκιθος2">
+  <Greek-Entry key="λέκιθος">
 	  <English-Entry>yolk of an egg</English-Entry>
   </Greek-Entry>
 
@@ -5339,11 +5339,11 @@
 	  <English-Entry>feathers</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέπας1">
+  <Greek-Entry key="λέπας">
 	  <English-Entry>bare rock, scaur</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεπάς2">
+  <Greek-Entry key="λεπάς">
 	  <English-Entry>limpet</English-Entry>
   </Greek-Entry>
 
@@ -6684,14 +6684,14 @@
 	  <English-Entry>white-nosed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεῦκος1">
+  <Greek-Entry key="λεῦκος">
 	  <English-Entry>a fish</English-Entry>
   </Greek-Entry>
 
   <Greek-Entry key="Λεῦκος">
   </Greek-Entry>
 
-  <Greek-Entry key="λευκός2">
+  <Greek-Entry key="λευκός">
 	  <English-Entry>light, bright, clear</English-Entry>
 	  <English-Entry>glassy</English-Entry>
 	  <English-Entry>clear, limpid</English-Entry>
@@ -7107,12 +7107,12 @@
 	  <English-Entry>λειόβατος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεώδης1">
+  <Greek-Entry key="λεώδης">
 	  <English-Entry>, ̔λεώς̓</English-Entry>
 	  <English-Entry>popular, common,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεώδης2">
+  <Greek-Entry key="λεώδης">
 	  <English-Entry>λεώλης</English-Entry>
   </Greek-Entry>
 
@@ -7153,11 +7153,11 @@
 	  <English-Entry>villainous</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λεώς1">
+  <Greek-Entry key="λεώς">
 	  <English-Entry>λαός</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λέως2">
+  <Greek-Entry key="λέως">
 	  <English-Entry>entirely, wholly, at all</English-Entry>
 	  <English-Entry>utterly destroyed</English-Entry>
 	  <English-Entry>utterly destroyed</English-Entry>
@@ -7362,13 +7362,13 @@
 	  <English-Entry>dwelling in the country,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λήϊον1">
+  <Greek-Entry key="λήϊον">
 	  <English-Entry>standing crop</English-Entry>
 	  <English-Entry>corn-field</English-Entry>
 	  <English-Entry>booty</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λήϊον2">
+  <Greek-Entry key="λήϊον">
 	  <English-Entry>λῄδιον</English-Entry>
   </Greek-Entry>
 
@@ -7729,7 +7729,7 @@
   <Greek-Entry key="ληνοποιός">
   </Greek-Entry>
 
-  <Greek-Entry key="ληνός1">
+  <Greek-Entry key="ληνός">
 	  <English-Entry>anything shaped like a tub</English-Entry>
 	  <English-Entry>trough</English-Entry>
 	  <English-Entry>winevat</English-Entry>
@@ -7744,7 +7744,7 @@
 	  <English-Entry>the lower parts of the nose</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆνος2">
+  <Greek-Entry key="λῆνος">
 	  <English-Entry>wool</English-Entry>
 	  <English-Entry>fillet</English-Entry>
 	  <English-Entry>fleece</English-Entry>
@@ -7767,7 +7767,7 @@
 	  <English-Entry>allaying fever</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆξις1">
+  <Greek-Entry key="λῆξις">
 	  <English-Entry>determination</English-Entry>
 	  <English-Entry>appointment by lot</English-Entry>
 	  <English-Entry>portion assigned by lot, allotment</English-Entry>
@@ -7786,7 +7786,7 @@
 	  <English-Entry>to be put in legal possession of an inheritance</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆξις2">
+  <Greek-Entry key="λῆξις">
 	  <English-Entry>cessation</English-Entry>
 	  <English-Entry>death, decase,</English-Entry>
 	  <English-Entry>termination</English-Entry>
@@ -7855,7 +7855,7 @@
 	  <English-Entry>dotage</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ληρίας2">
+  <Greek-Entry key="ληρίας">
   </Greek-Entry>
 
   <Greek-Entry key="Ληρόκριτος">
@@ -7865,7 +7865,7 @@
 	  <English-Entry>ληρώδη</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆρος1">
+  <Greek-Entry key="λῆρος">
 	  <English-Entry>trash, trumpery</English-Entry>
 	  <English-Entry>no good</English-Entry>
 	  <English-Entry>mere trash</English-Entry>
@@ -7879,7 +7879,7 @@
 	  <English-Entry>silly</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆρος2">
+  <Greek-Entry key="λῆρος">
 	  <English-Entry>gold ornament</English-Entry>
   </Greek-Entry>
 
@@ -7907,12 +7907,12 @@
 	  <English-Entry>taking men unawares, cheat, thief,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆσις1">
+  <Greek-Entry key="λῆσις">
 	  <English-Entry>, ̔λήθὠ</English-Entry>
 	  <English-Entry>λύσις</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῆσις2">
+  <Greek-Entry key="λῆσις">
 	  <English-Entry>, ̔λῶ̓</English-Entry>
   </Greek-Entry>
 
@@ -8116,10 +8116,10 @@
 	  <English-Entry>loosened</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιάζω1">
+  <Greek-Entry key="λιάζω">
   </Greek-Entry>
 
-  <Greek-Entry key="λιάζω2">
+  <Greek-Entry key="λιάζω">
 	  <English-Entry>to be over-enthusiastic</English-Entry>
   </Greek-Entry>
 
@@ -8254,7 +8254,7 @@
 	  <English-Entry>prepared with frankincense</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιβανωτίς1">
+  <Greek-Entry key="λιβανωτίς">
 	  <English-Entry>rosemary frankincense</English-Entry>
 	  <English-Entry>Lecokia cretica</English-Entry>
 	  <English-Entry>Ferulago galbanifera</English-Entry>
@@ -8263,7 +8263,7 @@
 	  <English-Entry>rosemary, Rosmarinus officinalis</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιβανωτίς2">
+  <Greek-Entry key="λιβανωτίς">
 	  <English-Entry>Cultes Égyptiens</English-Entry>
   </Greek-Entry>
 
@@ -8335,11 +8335,11 @@
 	  <English-Entry>a wind between south-west and south</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιβός1">
+  <Greek-Entry key="λιβός">
 	  <English-Entry>λίψ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίβος2">
+  <Greek-Entry key="λίβος">
 	  <English-Entry>ῐ],</English-Entry>
 	  <English-Entry>tears</English-Entry>
 	  <English-Entry>libum</English-Entry>
@@ -8548,7 +8548,7 @@
   <Greek-Entry key="λιγυρόπνοος">
   </Greek-Entry>
 
-  <Greek-Entry key="λιγυρός1">
+  <Greek-Entry key="λιγυρός">
 	  <English-Entry>clear, shrill</English-Entry>
 	  <English-Entry>which vent themselves in shrill wailings</English-Entry>
 	  <English-Entry>clear, sweet</English-Entry>
@@ -8556,7 +8556,7 @@
 	  <English-Entry>pliant, flexible</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίγυρος2">
+  <Greek-Entry key="λίγυρος">
   </Greek-Entry>
 
   <Greek-Entry key="λιγυρότης">
@@ -9401,10 +9401,10 @@
   <Greek-Entry key="λιμβεύω">
   </Greek-Entry>
 
-  <Greek-Entry key="λίμβος1">
+  <Greek-Entry key="λίμβος">
   </Greek-Entry>
 
-  <Greek-Entry key="λιμβός2">
+  <Greek-Entry key="λιμβός">
 	  <English-Entry>limbus</English-Entry>
   </Greek-Entry>
 
@@ -9489,11 +9489,11 @@
 	  <English-Entry>the source of birth, womb</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιμηρός1">
+  <Greek-Entry key="λιμηρός">
 	  <English-Entry>hungry, causing hunger</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιμηρός2">
+  <Greek-Entry key="λιμηρός">
 	  <English-Entry>furnished with a good harbour</English-Entry>
   </Greek-Entry>
 
@@ -10313,13 +10313,13 @@
 	  <English-Entry>one must be importunate</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιπαρία1">
+  <Greek-Entry key="λιπαρία">
 	  <English-Entry>-ιη</English-Entry>
 	  <English-Entry>persistence, perseverance</English-Entry>
 	  <English-Entry>importunity</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιπαρία2">
+  <Greek-Entry key="λιπαρία">
 	  <English-Entry>fatness</English-Entry>
   </Greek-Entry>
 
@@ -10831,12 +10831,12 @@
 	  <English-Entry>lewd-eyed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίς1">
+  <Greek-Entry key="λίς">
 	  <English-Entry>λέων</English-Entry>
 	  <English-Entry>lion</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίς2">
+  <Greek-Entry key="λίς">
 	  <English-Entry>smooth</English-Entry>
   </Greek-Entry>
 
@@ -11042,7 +11042,7 @@
   <Greek-Entry key="λίτομαι">
   </Greek-Entry>
 
-  <Greek-Entry key="λιτός1">
+  <Greek-Entry key="λιτός">
 	  <English-Entry>simple, inexpensive, frugal</English-Entry>
 	  <English-Entry>frugal</English-Entry>
 	  <English-Entry>simple</English-Entry>
@@ -11058,12 +11058,12 @@
 	  <English-Entry>slightly</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιτός2">
+  <Greek-Entry key="λιτός">
 	  <English-Entry>γαῖα</English-Entry>
 	  <English-Entry>λιτὴ χθών: ἀπὸ τοῦ προσκυνεῖσθαι καὶ λιτανεύεσθαι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λιτός3">
+  <Greek-Entry key="λιτός">
 	  <English-Entry>suppliant, supplicatory</English-Entry>
   </Greek-Entry>
 
@@ -11275,7 +11275,7 @@
   <Greek-Entry key="λιχνώδης">
   </Greek-Entry>
 
-  <Greek-Entry key="λίψ1">
+  <Greek-Entry key="λίψ">
 	  <English-Entry>λιβός</English-Entry>
 	  <English-Entry>the SW. wind</English-Entry>
 	  <English-Entry>the South</English-Entry>
@@ -11284,14 +11284,14 @@
 	  <English-Entry>on the W. horizon</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίψ2">
+  <Greek-Entry key="λίψ">
 	  <English-Entry>λιβάς</English-Entry>
 	  <English-Entry>λίβος</English-Entry>
 	  <English-Entry>stream</English-Entry>
 	  <English-Entry>libation</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λίψ3">
+  <Greek-Entry key="λίψ">
 	  <English-Entry>: ἐπιθυμία</English-Entry>
 	  <English-Entry>λίπτομαι</English-Entry>
 	  <English-Entry>, πέτρα ἀφ" ἧς ὕδωρ στάζει</English-Entry>
@@ -11359,14 +11359,14 @@
 	  <English-Entry>account,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λογάς1">
+  <Greek-Entry key="λογάς">
 	  <English-Entry>picked, chosen</English-Entry>
 	  <English-Entry>picked men</English-Entry>
 	  <English-Entry>chosen</English-Entry>
 	  <English-Entry>unhewn stones, taken just as they were picked</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λογάς2">
+  <Greek-Entry key="λογάς">
 	  <English-Entry>whites of the eyes</English-Entry>
 	  <English-Entry>eyes,</English-Entry>
   </Greek-Entry>
@@ -12126,7 +12126,7 @@
 	  <English-Entry>pierce with a spear,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λόγχη1">
+  <Greek-Entry key="λόγχη">
 	  <English-Entry>spear-head</English-Entry>
 	  <English-Entry>the point with its barbs</English-Entry>
 	  <English-Entry>the spear-head</English-Entry>
@@ -12136,7 +12136,7 @@
 	  <English-Entry>troop of spearmen</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λόγχη2">
+  <Greek-Entry key="λόγχη">
 	  <English-Entry>λάχος</English-Entry>
 	  <English-Entry>lot</English-Entry>
   </Greek-Entry>
@@ -12259,13 +12259,13 @@
 	  <English-Entry>balefully gleaming</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λοιγός1">
+  <Greek-Entry key="λοιγός">
 	  <English-Entry>ruin, havoc</English-Entry>
 	  <English-Entry>destruction</English-Entry>
 	  <English-Entry>pa-liegti</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λοιγός2">
+  <Greek-Entry key="λοιγός">
   </Greek-Entry>
 
   <Greek-Entry key="λοιγωντίαν">
@@ -12444,13 +12444,13 @@
 	  <English-Entry>last.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λοῖσθος1">
+  <Greek-Entry key="λοῖσθος">
 	  <English-Entry>left behind, last</English-Entry>
 	  <English-Entry>last of all</English-Entry>
 	  <English-Entry>the last</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λοῖσθος2">
+  <Greek-Entry key="λοῖσθος">
 	  <English-Entry>beam</English-Entry>
 	  <English-Entry>boom, gaff</English-Entry>
 	  <English-Entry>spar</English-Entry>
@@ -13207,14 +13207,14 @@
   <Greek-Entry key="λόχονδε">
   </Greek-Entry>
 
-  <Greek-Entry key="λοχός1">
+  <Greek-Entry key="λοχός">
 	  <English-Entry>λεχώ</English-Entry>
 	  <English-Entry>λοχοῖς</English-Entry>
 	  <English-Entry>λόχος</English-Entry>
 	  <English-Entry>λοχώ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λόχος2">
+  <Greek-Entry key="λόχος">
 	  <English-Entry>ambush</English-Entry>
 	  <English-Entry>place for lying in wait</English-Entry>
 	  <English-Entry>ambuscade</English-Entry>
@@ -13391,7 +13391,7 @@
   <Greek-Entry key="λυγμώδης">
   </Greek-Entry>
 
-  <Greek-Entry key="λύγξ1">
+  <Greek-Entry key="λύγξ">
 	  <English-Entry>λυγκός</English-Entry>
 	  <English-Entry>λύγγα</English-Entry>
 	  <English-Entry>λύγγιος</English-Entry>
@@ -13402,7 +13402,7 @@
 	  <English-Entry>lúšis.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λύγξ2">
+  <Greek-Entry key="λύγξ">
 	  <English-Entry>λυγγός,</English-Entry>
 	  <English-Entry>hiccup</English-Entry>
 	  <English-Entry>retching</English-Entry>
@@ -13629,11 +13629,11 @@
 	  <English-Entry>an open place</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λυκῆ1">
+  <Greek-Entry key="λυκῆ">
 	  <English-Entry>λυκέη</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λύκη2">
+  <Greek-Entry key="λύκη">
 	  <English-Entry>ῠ],</English-Entry>
 	  <English-Entry>morning twilight</English-Entry>
   </Greek-Entry>
@@ -13890,7 +13890,7 @@
 	  <English-Entry>wolf-like</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῦμα1">
+  <Greek-Entry key="λῦμα">
 	  <English-Entry>water used in washing</English-Entry>
 	  <English-Entry>dirt removed by washing, offscourings</English-Entry>
 	  <English-Entry>purgations</English-Entry>
@@ -13899,16 +13899,16 @@
 	  <English-Entry>ruin</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λῦμα2">
+  <Greek-Entry key="λῦμα">
 	  <English-Entry>, ̔λύὠ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λυμαίνομαι1">
+  <Greek-Entry key="λυμαίνομαι">
 	  <English-Entry>λῦμα</English-Entry>
 	  <English-Entry>cleanse from dirt</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λυμαίνομαι2">
+  <Greek-Entry key="λυμαίνομαι">
 	  <English-Entry>λελύμασμαι</English-Entry>
 	  <English-Entry>διαλυμαίνομαι</English-Entry>
 	  <English-Entry>outrage, maltreat</English-Entry>
@@ -14648,7 +14648,7 @@
 	  <English-Entry>of a lamp</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λυχνεύς1">
+  <Greek-Entry key="λυχνεύς">
 	  <English-Entry>ὁ διαυγὴς λίθος</English-Entry>
   </Greek-Entry>
 
@@ -14689,7 +14689,7 @@
 	  <English-Entry>lamp-oil</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="λυχνεύς2">
+  <Greek-Entry key="λυχνεύς">
   </Greek-Entry>
 
   <Greek-Entry key="λυχνεών">

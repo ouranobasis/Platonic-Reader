@@ -13,51 +13,51 @@
 	  <English-Entry>iota demonstrativum</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἵ1">
+  <Greek-Entry key="ἵ">
 	  <English-Entry>οὗ</English-Entry>
 	  <English-Entry>sui</English-Entry>
 	  <English-Entry>sibi ipsi</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἷ2">
+  <Greek-Entry key="ἷ">
 	  <English-Entry>εἷ</English-Entry>
   </Greek-Entry>
-
+  
   <Greek-Entry key="ἴ">
 	  <English-Entry>ἤ</English-Entry>
 	  <English-Entry>or</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰά1">
+  <Greek-Entry key="ἰά">
 	  <English-Entry>ἰωή</English-Entry>
 	  <English-Entry>voice, cry</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴα1">
+  <Greek-Entry key="ἴα">
 	  <English-Entry>ἰῆς, ἰῇ, ἴᾰν</English-Entry>
 	  <English-Entry>one</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰά2">
+  <Greek-Entry key="ἰά">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>ἰός</English-Entry>
 	  <English-Entry>arrow</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴα2">
+  <Greek-Entry key="ἴα">
 	  <English-Entry>ῐ],</English-Entry>
 	  <English-Entry>ἴον</English-Entry>
 	  <English-Entry>violet,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰάζω1">
+  <Greek-Entry key="ἰάζω">
   </Greek-Entry>
 
-  <Greek-Entry key="ἰάζω2">
+  <Greek-Entry key="ἰάζω">
 	  <English-Entry>cry aloud</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰάζω3">
+  <Greek-Entry key="ἰάζω">
 	  <English-Entry>to be of a violet colour</English-Entry>
 	  <English-Entry>to be green</English-Entry>
   </Greek-Entry>
@@ -347,13 +347,13 @@
   <Greek-Entry key="ἰαππαπαιάξ">
   </Greek-Entry>
 
-  <Greek-Entry key="ἰάπτω1">
+  <Greek-Entry key="ἰάπτω">
 	  <English-Entry>hurt, spoil</English-Entry>
 	  <English-Entry>mar</English-Entry>
 	  <English-Entry>wound, pierce</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰάπτω2">
+  <Greek-Entry key="ἰάπτω">
 	  <English-Entry>send, drive on</English-Entry>
 	  <English-Entry>send forth, shoot</English-Entry>
 	  <English-Entry>throw</English-Entry>
@@ -882,7 +882,7 @@
   <Greek-Entry key="ἵδδιος">
   </Greek-Entry>
 
-  <Greek-Entry key="ἰδέ1">
+  <Greek-Entry key="ἰδέ">
 	  <English-Entry>ἠδέ</English-Entry>
 	  <English-Entry>and</English-Entry>
 	  <English-Entry>then, in that case,</English-Entry>
@@ -890,12 +890,12 @@
 	  <English-Entry>is</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴδε1">
+  <Greek-Entry key="ἴδε">
 	  <English-Entry>εἶδον</English-Entry>
 	  <English-Entry>behold</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴδε2">
+  <Greek-Entry key="ἴδε">
 	  <English-Entry>εἶδον</English-Entry>
 	  <English-Entry>saw</English-Entry>
   </Greek-Entry>
@@ -955,7 +955,7 @@
 	  <English-Entry>know</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴδη1">
+  <Greek-Entry key="ἴδη">
 	  <English-Entry>ἴδα,</English-Entry>
 	  <English-Entry>timber-tree</English-Entry>
 	  <English-Entry>wood</English-Entry>
@@ -968,7 +968,7 @@
 	  <English-Entry>of the forest</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴδη2">
+  <Greek-Entry key="ἴδη">
 	  <English-Entry>sheen of metal</English-Entry>
   </Greek-Entry>
 
@@ -1519,14 +1519,14 @@
   <Greek-Entry key="ἰδομαλιάδαι">
   </Greek-Entry>
 
-  <Greek-Entry key="ἶδος1">
+  <Greek-Entry key="ἶδος">
 	  <English-Entry>sweat</English-Entry>
 	  <English-Entry>sweats</English-Entry>
 	  <English-Entry>warmth</English-Entry>
 	  <English-Entry>violent heat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰδός2">
+  <Greek-Entry key="ἰδός">
 	  <English-Entry>ὁδός, σῶμα</English-Entry>
   </Greek-Entry>
 
@@ -1705,12 +1705,12 @@
 	  <English-Entry>ἴκτις</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰέ1">
+  <Greek-Entry key="ἰέ">
 	  <English-Entry>ἰή</English-Entry>
 	  <English-Entry>b</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴε2">
+  <Greek-Entry key="ἴε">
 	  <English-Entry>εἶμι</English-Entry>
 	  <English-Entry>ibo</English-Entry>
 	  <English-Entry>ibo</English-Entry>
@@ -1911,14 +1911,14 @@
 	  <English-Entry>bearer of holy vessels</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱέρεια1">
+  <Greek-Entry key="ἱέρεια">
 	  <English-Entry>-εῐα</English-Entry>
 	  <English-Entry>ἱαρεαι</English-Entry>
 	  <English-Entry>ἱερεύς</English-Entry>
 	  <English-Entry>a priestess</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱερεία2">
+  <Greek-Entry key="ἱερεία">
 	  <English-Entry>sacrifice, festival</English-Entry>
 	  <English-Entry>j</English-Entry>
 	  <English-Entry>sanctuary</English-Entry>
@@ -2713,7 +2713,7 @@
 	  <English-Entry>settle down, subside</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰή1">
+  <Greek-Entry key="ἰή">
 	  <English-Entry>ἰή, ἰή, ἰή</English-Entry>
 	  <English-Entry>ἰὴ παιών</English-Entry>
 	  <English-Entry>ἰέ</English-Entry>
@@ -2722,7 +2722,7 @@
 	  <English-Entry>ἵημι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰή2">
+  <Greek-Entry key="ἰή">
   </Greek-Entry>
 
   <Greek-Entry key="ἰηγορεῖν">
@@ -3081,7 +3081,7 @@
 	  <English-Entry>hanging perpendicularly</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰθύς1">
+  <Greek-Entry key="ἰθύς">
 	  <English-Entry>ῑ], ἰθεῖα, ἰθύ</English-Entry>
 	  <English-Entry>ἰθείης, ῃ,</English-Entry>
 	  <English-Entry>ἰθύντερος</English-Entry>
@@ -3105,7 +3105,7 @@
 	  <English-Entry>straightway</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰθύς2">
+  <Greek-Entry key="ἰθύς">
 	  <English-Entry>ῑθῡ],</English-Entry>
 	  <English-Entry>ἰθύν</English-Entry>
 	  <English-Entry>ἀν" ἰθύν</English-Entry>
@@ -3462,13 +3462,13 @@
 	  <English-Entry>ἰκμάς</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰκμάω1">
+  <Greek-Entry key="ἰκμάω">
 	  <English-Entry>λικμάω</English-Entry>
 	  <English-Entry>ἐφορμῆσαι</English-Entry>
 	  <English-Entry>νικμάω, ν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰκμάω2">
+  <Greek-Entry key="ἰκμάω">
 	  <English-Entry>wounded,</English-Entry>
 	  <English-Entry>ico.</English-Entry>
   </Greek-Entry>
@@ -3598,17 +3598,17 @@
 	  <English-Entry>ἱκέσιος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴκταρ1">
+  <Greek-Entry key="ἴκταρ">
 	  <English-Entry>close together, thickly</English-Entry>
 	  <English-Entry>close to, hard by</English-Entry>
 	  <English-Entry>near</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴκταρ2">
+  <Greek-Entry key="ἴκταρ">
 	  <English-Entry>pudendum muliebre</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴκταρ3">
+  <Greek-Entry key="ἴκταρ">
 	  <English-Entry>fish</English-Entry>
 	  <English-Entry>albula,</English-Entry>
   </Greek-Entry>
@@ -3788,12 +3788,12 @@
 	  <English-Entry>to be joyful, exult</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱλαρία1">
+  <Greek-Entry key="ἱλαρία">
 	  <English-Entry>, ̔ἱλαρός̓</English-Entry>
 	  <English-Entry>γαλῆ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱλάρια2">
+  <Greek-Entry key="ἱλάρια">
 	  <English-Entry>ἱερά</English-Entry>
 	  <English-Entry>hilaria, festival of rejoicing</English-Entry>
   </Greek-Entry>
@@ -4078,12 +4078,12 @@
   <Greek-Entry key="ἰλλίς">
   </Greek-Entry>
 
-  <Greek-Entry key="ἰλλός1">
+  <Greek-Entry key="ἰλλός">
 	  <English-Entry>squinting</English-Entry>
 	  <English-Entry>squint</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴλλος2">
+  <Greek-Entry key="ἴλλος">
   </Greek-Entry>
 
   <Greek-Entry key="ἴλλοψ">
@@ -5205,14 +5205,14 @@
 	  <English-Entry>μιξόδης</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰός1">
+  <Greek-Entry key="ἰός">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>ἰοί</English-Entry>
 	  <English-Entry>arrow</English-Entry>
 	  <English-Entry>í[snull ]</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰός2">
+  <Greek-Entry key="ἰός">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>poison</English-Entry>
 	  <English-Entry>venom</English-Entry>
@@ -5220,7 +5220,7 @@
 	  <English-Entry>vīrus.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰός3">
+  <Greek-Entry key="ἰός">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>rust</English-Entry>
 	  <English-Entry>verdigris</English-Entry>
@@ -6404,7 +6404,7 @@
 	  <English-Entry>maker of the Trojan horse</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱππότης1">
+  <Greek-Entry key="ἱππότης">
 	  <English-Entry>driver</English-Entry>
 	  <English-Entry>rider of horses, horseman, knight</English-Entry>
 	  <English-Entry>on</English-Entry>
@@ -6412,7 +6412,7 @@
 	  <English-Entry>the horse</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἱππότης2">
+  <Greek-Entry key="ἱππότης">
 	  <English-Entry>horse-nature, the concept of horse</English-Entry>
   </Greek-Entry>
 
@@ -6755,7 +6755,7 @@
 	  <English-Entry>priesthood</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴς1">
+  <Greek-Entry key="ἴς">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>ἰνός</English-Entry>
 	  <English-Entry>ἶνα</English-Entry>
@@ -6770,7 +6770,7 @@
 	  <English-Entry>fibre</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴς2">
+  <Greek-Entry key="ἴς">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>ἶνα</English-Entry>
 	  <English-Entry>ἶν"</English-Entry>
@@ -7186,12 +7186,12 @@
 	  <English-Entry>κίσκος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴσκω1">
+  <Greek-Entry key="ἴσκω">
 	  <English-Entry>εἶμι</English-Entry>
 	  <English-Entry>go</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴσκω2">
+  <Greek-Entry key="ἴσκω">
 	  <English-Entry>ἐί̈σκω</English-Entry>
 	  <English-Entry>ἴσκε</English-Entry>
 	  <English-Entry>make like</English-Entry>
@@ -9553,13 +9553,13 @@
 	  <English-Entry>strong, powerful</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἶφι1">
+  <Greek-Entry key="ἶφι">
 	  <English-Entry>ἴς</English-Entry>
 	  <English-Entry>by force</English-Entry>
 	  <English-Entry>might</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἶφι2">
+  <Greek-Entry key="ἶφι">
   </Greek-Entry>
 
   <Greek-Entry key="ἰφιγένειᾰ">
@@ -10116,21 +10116,21 @@
 	  <English-Entry>: τὸ δεσμωτήριον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴψος1">
+  <Greek-Entry key="ἴψος">
 	  <English-Entry>cork-oak, Quercus Suber</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴψος2">
+  <Greek-Entry key="ἴψος">
 	  <English-Entry>ὕψος</English-Entry>
 	  <English-Entry>ἴψοι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἴω1">
+  <Greek-Entry key="ἴω">
 	  <English-Entry>εἶμι</English-Entry>
 	  <English-Entry>ibo</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἰώ2">
+  <Greek-Entry key="ἰώ">
 	  <English-Entry>ἰ. μάκαρες, ἰ. θεοί</English-Entry>
 	  <English-Entry>oh!</English-Entry>
   </Greek-Entry>

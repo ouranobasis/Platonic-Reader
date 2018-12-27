@@ -2,21 +2,9 @@
 <document>
   <Greek-Entry key="Υυ">
     <English-Entry>τὸ ὖ</English-Entry>
-    <English-Entry>ταῦ, ὖ</English-Entry>
-    <English-Entry>τό τ" ὖ</English-Entry>
-    <English-Entry>τό θ" ὗ</English-Entry>
-    <English-Entry>τοῦ ῡ</English-Entry>
     <English-Entry>τὸ υ ψιλόν</English-Entry>
     <English-Entry>τὸ ψιλὸν υ</English-Entry>
-    <English-Entry>ὕαλος, υἱός,</English-Entry>
-    <English-Entry>ἡ ο̄ῑ δίφθογγος, υ</English-Entry>
-    <English-Entry>ὗ</English-Entry>
-    <English-Entry>he</English-Entry>
-    <English-Entry>hiun</English-Entry>
-    <English-Entry>alii dicunt Hyadas dictas vel ab Y littera, vel</English-Entry>
-    <English-Entry>hy</English-Entry>
-    <English-Entry>Ypsae, BMus.Cat.Republ.Coins, Plate</English-Entry>
-    <English-Entry>Hupsae,</English-Entry>
+    <English-Entry>ὕαλος, υἱός,</English-Entry>    
   </Greek-Entry>
 
   <Greek-Entry key="ὗ">
@@ -128,10 +116,10 @@
     <English-Entry>of glass,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑάλη1">
+  <Greek-Entry key="ὑάλη">
   </Greek-Entry>
 
-  <Greek-Entry key="ὑάλη2">
+  <Greek-Entry key="ὑάλη">
     <English-Entry>σκωληκιᾷ</English-Entry>
     <English-Entry>εὐλή, εὐλάζει</English-Entry>
     <English-Entry>σκωληκιᾷ</English-Entry>
@@ -150,11 +138,11 @@
     <English-Entry>ὑανέοος.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑαλικὸς1">
+  <Greek-Entry key="ὑαλικὸς">
     <English-Entry>κώμη: Διονύσιος,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑαλικός2">
+  <Greek-Entry key="ὑαλικός">
     <English-Entry>of</English-Entry>
     <English-Entry>for glass,</English-Entry>
     <English-Entry>for making glass,</English-Entry>
@@ -175,7 +163,7 @@
     <English-Entry>vitreous,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑελῖτις1">
+  <Greek-Entry key="ὑελῖτις">
   </Greek-Entry>
 
   <Greek-Entry key="ὑαλκάδαι">
@@ -285,11 +273,11 @@
     <English-Entry>become humpbacked,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑβός1">
+  <Greek-Entry key="ὑβός">
     <English-Entry>humpbacked,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὗβος2">
+  <Greek-Entry key="ὗβος">
     <English-Entry>hump</English-Entry>
   </Greek-Entry>
 
@@ -323,7 +311,7 @@
     <English-Entry>show indignation at</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕβρις1">
+  <Greek-Entry key="ὕβρις">
     <English-Entry>[ῠ</English-Entry>
     <English-Entry>wanton violence,</English-Entry>
     <English-Entry>insolence,</English-Entry>
@@ -341,7 +329,7 @@
     <English-Entry>a violent, overbearing man,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑβρίς2">
+  <Greek-Entry key="ὑβρίς">
     <English-Entry>the great eagle owl, Strix bubo,</English-Entry>
   </Greek-Entry>
 
@@ -1779,12 +1767,12 @@
     <English-Entry>carrying of water,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑδροφορία1">
+  <Greek-Entry key="ὑδροφορία">
     <English-Entry>the office of</English-Entry>
     <English-Entry>carrying of water,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑδροφόρια2">
+  <Greek-Entry key="ὑδροφόρια">
     <English-Entry>water-carrying,</English-Entry>
   </Greek-Entry>
 
@@ -1980,7 +1968,7 @@
     <English-Entry>small mirror,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑελῖτις2">
+  <Greek-Entry key="ὑελῖτις">
   </Greek-Entry>
 
   <Greek-Entry key="ὑελοψικός">
@@ -2139,11 +2127,11 @@
     <English-Entry>granddaughter,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑί̈διον1">
+  <Greek-Entry key="ὑί̈διον">
     <English-Entry>ὗς,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑί̈διον2">
+  <Greek-Entry key="ὑί̈διον">
     <English-Entry>υἱός,</English-Entry>
     <English-Entry>υἱίδιον</English-Entry>
   </Greek-Entry>
@@ -2999,11 +2987,11 @@
     <English-Entry>proclaim by hymns,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑμνολογία1">
+  <Greek-Entry key="ὑμνολογία">
     <English-Entry>hymn-singing,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑμνολόγια2">
+  <Greek-Entry key="ὑμνολόγια">
     <English-Entry>Carmentalia,</English-Entry>
   </Greek-Entry>
 
@@ -4119,7 +4107,7 @@
     <English-Entry>ὑφάπτω</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕπαρ1">
+  <Greek-Entry key="ὕπαρ">
     <English-Entry>ὕπαρος,</English-Entry>
     <English-Entry>real appearance seen in a state of waking, waking vision,</English-Entry>
     <English-Entry>a (vision of) reality,</English-Entry>
@@ -4134,7 +4122,7 @@
     <English-Entry>in reality, actually,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπάρ2">
+  <Greek-Entry key="ὑπάρ">
     <English-Entry>ὑπέρ,</English-Entry>
   </Greek-Entry>
 
@@ -4658,7 +4646,7 @@
     <English-Entry>keep shut,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕπειμι1">
+  <Greek-Entry key="ὕπειμι">
     <English-Entry>εἰμί</English-Entry>
     <English-Entry>sum) to be under,</English-Entry>
     <English-Entry>are under</English-Entry>
@@ -4679,7 +4667,7 @@
     <English-Entry>subjects,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕπειμι2">
+  <Greek-Entry key="ὕπειμι">
     <English-Entry>εἶμι</English-Entry>
     <English-Entry>ibo</English-Entry>
     <English-Entry>steal secretly upon</English-Entry>
@@ -8423,12 +8411,12 @@
     <English-Entry>contemptuous, disdainful,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπέροπτος1">
+  <Greek-Entry key="ὑπέροπτος">
     <English-Entry>disdainful,</English-Entry>
     <English-Entry>great, excessive,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπέροπτος2">
+  <Greek-Entry key="ὑπέροπτος">
     <English-Entry>ὀπτάὠ,</English-Entry>
     <English-Entry>over-heated,</English-Entry>
   </Greek-Entry>
@@ -10232,130 +10220,12 @@
   </Greek-Entry>
 
   <Greek-Entry key="ὑπό">
-    <English-Entry>λ ν ρ ϝ</English-Entry>
-    <English-Entry>ὑπὸ</English-Entry>
-    <English-Entry>ποσσὶ δ" ὑπὸ</English-Entry>
-    <English-Entry>ὑπαὶ νεφέων</English-Entry>
-    <English-Entry>ὑπαιφοινίσσω</English-Entry>
-    <English-Entry>ὑπό</English-Entry>
-    <English-Entry>úpa</English-Entry>
-    <English-Entry>uf</English-Entry>
-    <English-Entry>from under,</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>from the consequences of,</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>under</English-Entry>
     <English-Entry>under, beneath,</English-Entry>
-    <English-Entry>in under</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>NT;</English-Entry>
-    <English-Entry>from under</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>before</English-Entry>
-    <English-Entry>from</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>accompanying</English-Entry>
-    <English-Entry>attendant,</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>accompanied by</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>in</English-Entry>
-    <English-Entry>with</English-Entry>
-    <English-Entry>with</English-Entry>
-    <English-Entry>the angle</English-Entry>
-    <English-Entry>the rectangle contained by</English-Entry>
-    <English-Entry>laden with</English-Entry>
-    <English-Entry>NT,</English-Entry>
-    <English-Entry>under,</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>foot,</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>next below</English-Entry>
-    <English-Entry>under,</English-Entry>
-    <English-Entry>yoked to,</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>*Deff.</English-Entry>
-    <English-Entry>down under</English-Entry>
-    <English-Entry>behind,</English-Entry>
-    <English-Entry>under the cover</English-Entry>
-    <English-Entry>protection of,</English-Entry>
-    <English-Entry>under whose hand, power,</English-Entry>
-    <English-Entry>influence,</English-Entry>
-    <English-Entry>by</English-Entry>
-    <English-Entry>through which</English-Entry>
-    <English-Entry>before</English-Entry>
-    <English-Entry>subjection</English-Entry>
-    <English-Entry>dependence,</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>power,</English-Entry>
+    <English-Entry>by means of</English-Entry>
+    <English-Entry>from the consequences of,</English-Entry>
     <English-Entry>subordinate, subject to</English-Entry>
-    <English-Entry>under the eye of</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>command,</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>to the music of</English-Entry>
-    <English-Entry>escorted by</English-Entry>
-    <English-Entry>escorted by</English-Entry>
-    <English-Entry>towards and under</English-Entry>
-    <English-Entry>under,</English-Entry>
-    <English-Entry>into,</English-Entry>
-    <English-Entry>under shelter</English-Entry>
-    <English-Entry>behind</English-Entry>
-    <English-Entry>close up under</English-Entry>
-    <English-Entry>up to</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>the nadir,</English-Entry>
-    <English-Entry>base</English-Entry>
-    <English-Entry>*Mens.</English-Entry>
-    <English-Entry>holding</English-Entry>
-    <English-Entry>up to</English-Entry>
-    <English-Entry>close to</English-Entry>
-    <English-Entry>next to</English-Entry>
-    <English-Entry>inscribed in</English-Entry>
-    <English-Entry>subtending</English-Entry>
-    <English-Entry>under</English-Entry>
-    <English-Entry>in the category of</English-Entry>
-    <English-Entry>subjection, control, dependence,</English-Entry>
     <English-Entry>in the course of, during,</English-Entry>
-    <English-Entry>duration,</English-Entry>
-    <English-Entry>throughout</English-Entry>
-    <English-Entry>during</English-Entry>
-    <English-Entry>about,</English-Entry>
-    <English-Entry>at,</English-Entry>
-    <English-Entry>about</English-Entry>
-    <English-Entry>at the time of,</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>in</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>in</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>at</English-Entry>
-    <English-Entry>at the time of</English-Entry>
-    <English-Entry>just at</English-Entry>
     <English-Entry>at the very time of</English-Entry>
-    <English-Entry>laden with</English-Entry>
-    <English-Entry>under, below, beneath,</English-Entry>
-    <English-Entry>under the mother,</English-Entry>
-    <English-Entry>at the breast,</English-Entry>
-    <English-Entry>behind,</English-Entry>
-    <English-Entry>under,</English-Entry>
-    <English-Entry>casing</English-Entry>
-    <English-Entry>covering</English-Entry>
-    <English-Entry>agency</English-Entry>
-    <English-Entry>influence under which</English-Entry>
     <English-Entry>somewhat, a little,</English-Entry>
     <English-Entry>underhand, secretly,</English-Entry>
   </Greek-Entry>
@@ -11155,7 +11025,7 @@
   <Greek-Entry key="ὑποδέδρομε">
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποδεής1">
+  <Greek-Entry key="ὑποδεής">
     <English-Entry>somewhat deficient, inferior;</English-Entry>
     <English-Entry>lower in degree,</English-Entry>
     <English-Entry>younger,</English-Entry>
@@ -11164,7 +11034,7 @@
     <English-Entry>inferior</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποδεής2">
+  <Greek-Entry key="ὑποδεής">
     <English-Entry>somewhat fearful,</English-Entry>
   </Greek-Entry>
 
@@ -11785,13 +11655,13 @@
     <English-Entry>cringing,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπόδρομος1">
+  <Greek-Entry key="ὑπόδρομος">
     <English-Entry>running under,</English-Entry>
     <English-Entry>in the way of</English-Entry>
     <English-Entry>spider,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπόδρομος2">
+  <Greek-Entry key="ὑπόδρομος">
     <English-Entry>a place</English-Entry>
     <English-Entry>to run into, cove,</English-Entry>
   </Greek-Entry>
@@ -12926,14 +12796,14 @@
     <English-Entry>gradually,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποκλάζω1">
+  <Greek-Entry key="ὑποκλάζω">
     <English-Entry>bend the knees under one, sink down,</English-Entry>
     <English-Entry>bow the knee before</English-Entry>
     <English-Entry>declining</English-Entry>
     <English-Entry>bow down before</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποκλάζω2">
+  <Greek-Entry key="ὑποκλάζω">
     <English-Entry>cry out a little, groan,</English-Entry>
   </Greek-Entry>
 
@@ -13804,14 +13674,14 @@
     <English-Entry>one must take into account,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπόλογος1">
+  <Greek-Entry key="ὑπόλογος">
     <English-Entry>held accountable</English-Entry>
     <English-Entry>liable,</English-Entry>
     <English-Entry>responsibly, as a responsible person,</English-Entry>
     <English-Entry>reckoned to one"s account,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑπόλογος2">
+  <Greek-Entry key="ὑπόλογος">
     <English-Entry>a taking into account, reckoning, account,</English-Entry>
     <English-Entry>credit for</English-Entry>
     <English-Entry>credit for</English-Entry>
@@ -15938,7 +15808,7 @@
     <English-Entry>fashion</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποσκϋφισμός1">
+  <Greek-Entry key="ὑποσκϋφισμός">
     <English-Entry>σκαφίς</English-Entry>
     <English-Entry>cleaning of corn with a shovel, winnowing,</English-Entry>
     <English-Entry>scraping lightly</English-Entry>
@@ -16041,7 +15911,7 @@
     <English-Entry>pericranium,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποσκυφισμός2">
+  <Greek-Entry key="ὑποσκυφισμός">
     <English-Entry>περισκυφισμός</English-Entry>
   </Greek-Entry>
 
@@ -17020,7 +16890,7 @@
     <English-Entry>undermine,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποτείνω1">
+  <Greek-Entry key="ὑποτείνω">
     <English-Entry>stretch under, put under,</English-Entry>
     <English-Entry>fixed</English-Entry>
     <English-Entry>to strengthen</English-Entry>
@@ -17038,7 +16908,7 @@
     <English-Entry>has as its subjects,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑποτείνω2">
+  <Greek-Entry key="ὑποτείνω">
   </Greek-Entry>
 
   <Greek-Entry key="ὑποτειχίζω">
@@ -18883,13 +18753,13 @@
     <English-Entry>sallow,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕραξ1">
+  <Greek-Entry key="ὕραξ">
     <English-Entry>mouse</English-Entry>
     <English-Entry>shrew-mouse,</English-Entry>
     <English-Entry>sorex</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑράξ2">
+  <Greek-Entry key="ὑράξ">
     <English-Entry>promiscuously,</English-Entry>
   </Greek-Entry>
 
@@ -18967,10 +18837,10 @@
     <English-Entry>jar,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὕς1">
+  <Greek-Entry key="ὕς">
   </Greek-Entry>
 
-  <Greek-Entry key="ὗς1">
+  <Greek-Entry key="ὗς">
     <English-Entry>ὗν,</English-Entry>
     <English-Entry>ὑός</English-Entry>
     <English-Entry>σῦς, σῦν,</English-Entry>
@@ -19006,7 +18876,7 @@
     <English-Entry>sū-s</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὗς2">
+  <Greek-Entry key="ὗς">
     <English-Entry>οἷ,</English-Entry>
     <English-Entry>whither,</English-Entry>
   </Greek-Entry>
@@ -20575,12 +20445,12 @@
     <English-Entry>ὑψιπέτᾰλος,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑψιπέτης1">
+  <Greek-Entry key="ὑψιπέτης">
     <English-Entry>, ὁ</English-Entry>
     <English-Entry>high-flying, soaring,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ὑψιπετής2">
+  <Greek-Entry key="ὑψιπετής">
     <English-Entry>fallen from heaven,</English-Entry>
     <English-Entry>lofty,</English-Entry>
   </Greek-Entry>

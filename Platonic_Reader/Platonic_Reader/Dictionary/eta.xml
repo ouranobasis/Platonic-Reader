@@ -8,7 +8,7 @@
 	  <English-Entry>ē</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤ1">
+  <Greek-Entry key="ἤ">
 	  <English-Entry>ἤ</English-Entry>
 	  <English-Entry>ἠέ</English-Entry>
 	  <English-Entry>ἦ</English-Entry>
@@ -29,20 +29,20 @@
 	  <English-Entry>than</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤ2">
+  <Greek-Entry key="ἤ">
 	  <English-Entry>ἢ ἤ: τί δρᾶς</English-Entry>
 	  <English-Entry>ποῦ Ξανθίας; ἢ Ξανθία</English-Entry>
 	  <English-Entry>hi</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤ3">
+  <Greek-Entry key="ἤ">
 	  <English-Entry>if,</English-Entry>
 	  <English-Entry>when, after</English-Entry>
 	  <English-Entry>after</English-Entry>
 	  <English-Entry>from the time of</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἦ1">
+  <Greek-Entry key="ἦ">
 	  <English-Entry>ἦε</English-Entry>
 	  <English-Entry>in truth, of a surety</English-Entry>
 	  <English-Entry>it is true that . .</English-Entry>
@@ -52,7 +52,7 @@
 	  <English-Entry>whether . .</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἦ2">
+  <Greek-Entry key="ἦ">
 	  <English-Entry>ἔφη</English-Entry>
 	  <English-Entry>ἠμί</English-Entry>
 	  <English-Entry>ἦν</English-Entry>
@@ -527,7 +527,7 @@
 	  <English-Entry>ἡδύς</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤδη1">
+  <Greek-Entry key="ἤδη">
 	  <English-Entry>already, by this time</English-Entry>
 	  <English-Entry>already</English-Entry>
 	  <English-Entry>forthwith, immediately</English-Entry>
@@ -544,7 +544,7 @@
 	  <English-Entry>now</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤδη2">
+  <Greek-Entry key="ἤδη">
 	  <English-Entry>ἡδύς</English-Entry>
   </Greek-Entry>
 
@@ -609,7 +609,7 @@
 	  <English-Entry>vinegar</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἦ3">
+  <Greek-Entry key="ἦ">
 	  <English-Entry>ἔφη ἐκεῖνος</English-Entry>
   </Greek-Entry>
 
@@ -1258,14 +1258,14 @@
 	  <English-Entry>αἰεί</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤϊα1">
+  <Greek-Entry key="ἤϊα">
 	  <English-Entry>provisions for a journey</English-Entry>
 	  <English-Entry>food</English-Entry>
 	  <English-Entry>husks</English-Entry>
 	  <English-Entry>chaff</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤϊα2">
+  <Greek-Entry key="ἤϊα">
 	  <English-Entry>ᾔειν</English-Entry>
 	  <English-Entry>εἶμι</English-Entry>
 	  <English-Entry>ibo</English-Entry>
@@ -1602,11 +1602,11 @@
 	  <English-Entry>daughters of the Sun</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἡλίασις1">
+  <Greek-Entry key="ἡλίασις">
 	  <English-Entry>exposure to the sun</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἡλίασις2">
+  <Greek-Entry key="ἡλίασις">
 	  <English-Entry>sitting in the</English-Entry>
   </Greek-Entry>
 
@@ -2085,11 +2085,11 @@
 	  <English-Entry>wart, callus</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἦλος1">
+  <Greek-Entry key="ἦλος">
 	  <English-Entry>barren spot</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἠλός2">
+  <Greek-Entry key="ἠλός">
 	  <English-Entry>ἠλέ</English-Entry>
 	  <English-Entry>ἠλεός</English-Entry>
   </Greek-Entry>
@@ -4234,16 +4234,16 @@
 	  <English-Entry>thrower, darter</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤν1">
+  <Greek-Entry key="ἤν">
 	  <English-Entry>εἰ ἄν</English-Entry>
 	  <English-Entry>ἐάν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤν2">
+  <Greek-Entry key="ἤν">
 	  <English-Entry>see there!</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἦν3">
+  <Greek-Entry key="ἦν">
 	  <English-Entry>sum</English-Entry>
   </Greek-Entry>
 
@@ -4294,7 +4294,7 @@
 	  <English-Entry>ἦλθον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἡνία1">
+  <Greek-Entry key="ἡνία">
 	  <English-Entry>, τά</English-Entry>
 	  <English-Entry>reins</English-Entry>
 	  <English-Entry>bit</English-Entry>
@@ -4303,7 +4303,7 @@
 	  <English-Entry>éssi</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἡνία2">
+  <Greek-Entry key="ἡνία">
 	  <English-Entry>bridle, reins</English-Entry>
 	  <English-Entry>one rein</English-Entry>
 	  <English-Entry>to the left</English-Entry>
@@ -4839,13 +4839,13 @@
 	  <English-Entry>ἔαρ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἤρα1">
+  <Greek-Entry key="ἤρα">
 	  <English-Entry>ἐράω</English-Entry>
 	  <English-Entry>ἤρω</English-Entry>
 	  <English-Entry>αἴρω</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἠρα1">
+  <Greek-Entry key="ἠρα">
 	  <English-Entry>αἴρω</English-Entry>
 	  <English-Entry>ἤραο</English-Entry>
 	  <English-Entry>ἤρω</English-Entry>
@@ -4854,7 +4854,7 @@
 	  <English-Entry>ἆρα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ἠρα2">
+  <Greek-Entry key="ἠρα">
 	  <English-Entry>χάριν</English-Entry>
 	  <English-Entry>service, gratification</English-Entry>
 	  <English-Entry>for the sake of, on account of, for</English-Entry>

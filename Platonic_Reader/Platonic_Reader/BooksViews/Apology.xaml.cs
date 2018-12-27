@@ -106,7 +106,7 @@ namespace Platonic_Reader
                 };
                 span.GestureRecognizers.Add(new TapGestureRecognizer
                 {
-                    Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", $"{humanReadableGrammarDescription} \n {Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                    Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", $"{humanReadableGrammarDescription}", "OK"))
                 });
                 
                 formattedString.Spans.Add(span);

@@ -4,20 +4,20 @@
 	<English-Entry>πρῶτος</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀ1">
+<Greek-Entry key="ἀ">
 	<English-Entry>want</English-Entry>
 	<English-Entry>absence</English-Entry>
 	<English-Entry>un</English-Entry>
 		<English-Entry>spiritus asper</English-Entry>	
 </Greek-Entry>
 
-<Greek-Entry key="ἀ2">
+<Greek-Entry key="ἀ">
 	<English-Entry>ἀ-βληχρός, ἀ-σπαίρω;</English-Entry>
 	<English-Entry>ἀ-μέλγω;</English-Entry>
 	<English-Entry>ἀ-ϝείδω. [ᾰ.]</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆ3">
+<Greek-Entry key="ἆ">
 	<English-Entry>ἆ δειλέ, ἆ δειλώ, ἆ δειλοί</English-Entry>
 	<English-Entry>ἆ, μηδαμῶς</English-Entry>
 </Greek-Entry>
@@ -132,11 +132,11 @@
 	<English-Entry>dishonourer</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄατος1">
+<Greek-Entry key="ἄατος">
 	<English-Entry>insatiate</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄατος2">
+<Greek-Entry key="ἄατος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀάτυλον">
@@ -456,13 +456,13 @@
 	<English-Entry>σπέρμα ἐμφερές</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄβιος1">
+<Greek-Entry key="ἄβιος">
 	<English-Entry>not to be survived</English-Entry>
 	<English-Entry>without a living, starving</English-Entry>
 	<English-Entry>having no fixed subsistence, nomad</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄβιος2">
+<Greek-Entry key="ἄβιος">
 	<English-Entry>wealthy</English-Entry>
 </Greek-Entry>
 
@@ -1108,12 +1108,12 @@
 	<English-Entry>ἀνά</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγα1">
+<Greek-Entry key="ἀγα">
 	<English-Entry>very</English-Entry>
 	<English-Entry>mˆga</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγα2">
+<Greek-Entry key="ἄγα">
 	<English-Entry>ἄγη.</English-Entry>
 </Greek-Entry>
 
@@ -1350,11 +1350,11 @@
 	<English-Entry>admire</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγαῖος1">
+<Greek-Entry key="ἀγαῖος">
 	<English-Entry>enviable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγαῖος2">
+<Greek-Entry key="ἀγαῖος">
 	<English-Entry>leading the procession</English-Entry>
 	<English-Entry>SIG2</English-Entry>
 </Greek-Entry>
@@ -1651,14 +1651,14 @@
 	<English-Entry>ἀγην-.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγανός1">
+<Greek-Entry key="ἀγανός">
 	<English-Entry>, όν</English-Entry>
 	<English-Entry>ἀγᾱνοῖσιν</English-Entry>
 	<English-Entry>mild, gentle</English-Entry>
 	<English-Entry>bringing an easy death</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγανος2">
+<Greek-Entry key="ἄγανος">
 	<English-Entry>broken</English-Entry>
 	<English-Entry>broken for firewood</English-Entry>
 </Greek-Entry>
@@ -2454,13 +2454,13 @@
 	<English-Entry>for neglect of tillage</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγη1">
+<Greek-Entry key="ἄγη">
 	<English-Entry>wonder, amazement</English-Entry>
 	<English-Entry>envy, malice</English-Entry>
 	<English-Entry>jealousy</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγή1">
+<Greek-Entry key="ἀγή">
 	<English-Entry>, ̔ἄγνυμἰ</English-Entry>
 	<English-Entry>breakage:</English-Entry>
 	<English-Entry>fragment, splinter</English-Entry>
@@ -2471,11 +2471,11 @@
 	<English-Entry>wound</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγή2">
+<Greek-Entry key="ἀγή">
 	<English-Entry>, ̔ἄγὠ</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγη2">
+<Greek-Entry key="ἄγη">
 	<English-Entry>ἐάγη</English-Entry>
 	<English-Entry>ἄγνυμι.</English-Entry>
 </Greek-Entry>
@@ -2541,11 +2541,11 @@
 	<English-Entry>pot-marjoram, Origanum Onites</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγήρατος1">
+<Greek-Entry key="ἀγήρατος">
 	<English-Entry>ageless</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγήρατος2">
+<Greek-Entry key="ἀγήρατος">
 	<English-Entry>stone</English-Entry>
 </Greek-Entry>
 
@@ -4080,11 +4080,11 @@
 	<English-Entry>ἀγορά, ἄθροισις</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγός1">
+<Greek-Entry key="ἀγός">
 	<English-Entry>leader, chief</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγος1">
+<Greek-Entry key="ἄγος">
 	<English-Entry>any matter of religious awe</English-Entry>
 	<English-Entry>pollution, guilt</English-Entry>
 	<English-Entry>person</English-Entry>
@@ -4092,7 +4092,7 @@
 	<English-Entry>expiation, sacrifice</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγος2">
+<Greek-Entry key="ἄγος">
 	<English-Entry>fragment</English-Entry>
 </Greek-Entry>
 
@@ -5232,13 +5232,13 @@
 	<English-Entry>near of kin</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγχιστεία1">
+<Greek-Entry key="ἀγχιστεία">
 	<English-Entry>close kinship</English-Entry>
 	<English-Entry>rights of kin, right of inheritance</English-Entry>
 	<English-Entry>exclusion by descent</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγχιστεῖα2">
+<Greek-Entry key="ἀγχιστεῖα">
 </Greek-Entry>
 
 <Greek-Entry key="ἀγχιστεύς">
@@ -5393,18 +5393,18 @@
 	<English-Entry>πένης</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγχουρος1">
+<Greek-Entry key="ἄγχουρος">
 	<English-Entry>ἄγχι, οὖρος</English-Entry>
 	<English-Entry>ὅρος</English-Entry>
 	<English-Entry>neighbouring</English-Entry>
 	<English-Entry>bordering on</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγχουρος2">
+<Greek-Entry key="ἄγχουρος">
 	<English-Entry>gold</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγχοῦρος3">
+<Greek-Entry key="ἀγχοῦρος">
 	<English-Entry>dawn</English-Entry>
 </Greek-Entry>
 
@@ -5697,7 +5697,7 @@
 <Greek-Entry key="ἀγωνικός">
 </Greek-Entry>
 
-<Greek-Entry key="ἀγώνιος1">
+<Greek-Entry key="ἀγώνιος">
 	<English-Entry>of</English-Entry>
 	<English-Entry>belonging to the contest</English-Entry>
 	<English-Entry>its</English-Entry>
@@ -5709,7 +5709,7 @@
 	<English-Entry>strenuous rest</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀγώνιος2">
+<Greek-Entry key="ἀγώνιος">
 	<English-Entry>without angle</English-Entry>
 </Greek-Entry>
 
@@ -5815,11 +5815,11 @@
 	<English-Entry>laborious discussion</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγωνος1">
+<Greek-Entry key="ἄγωνος">
 	<English-Entry>without angle</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄγωνος2">
+<Greek-Entry key="ἄγωνος">
 	<English-Entry>ἀγών</English-Entry>
 </Greek-Entry>
 
@@ -6038,7 +6038,7 @@
 	<English-Entry>erase, deface</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀδεής1">
+<Greek-Entry key="ἀδεής">
 	<English-Entry>ἀδεές</English-Entry>
 	<English-Entry>ἀδϝεές</English-Entry>
 	<English-Entry>fearless</English-Entry>
@@ -6052,7 +6052,7 @@
 	<English-Entry>with impunity</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀδεής2">
+<Greek-Entry key="ἀδεής">
 	<English-Entry>not in want</English-Entry>
 </Greek-Entry>
 
@@ -6062,7 +6062,7 @@
 	<English-Entry>inexorable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄδεια1">
+<Greek-Entry key="ἄδεια">
 	<English-Entry>ἀδεής Ἀ</English-Entry>
 	<English-Entry>freedom from fear</English-Entry>
 	<English-Entry>safe conduct, amnesty, indemnity</English-Entry>
@@ -6072,7 +6072,7 @@
 	<English-Entry>licence</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄδεια2">
+<Greek-Entry key="ἄδεια">
 	<English-Entry>Δέμαι</English-Entry>
 	<English-Entry>abundance, plenty</English-Entry>
 </Greek-Entry>
@@ -7553,15 +7553,15 @@
 	<English-Entry>without body-guard</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅδος1">
+<Greek-Entry key="ἅδος">
 	<English-Entry>satiety, loathing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅδος2">
+<Greek-Entry key="ἅδος">
 	<English-Entry>decree</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἇδος3">
+<Greek-Entry key="ἇδος">
 	<English-Entry>ἧδος, ἡδοσύνη</English-Entry>
 </Greek-Entry>
 
@@ -9021,11 +9021,11 @@
 	<English-Entry>evaporate</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀεροπετής1">
+<Greek-Entry key="ἀεροπετής">
 	<English-Entry>fallen from the sky</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀεροπέτης2">
+<Greek-Entry key="ἀεροπέτης">
 	<English-Entry>flying in air</English-Entry>
 </Greek-Entry>
 
@@ -9419,12 +9419,12 @@
 	<English-Entry>ὕλη</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀζος1">
+<Greek-Entry key="ἀζος">
 	<English-Entry>ἄοζος</English-Entry>
 	<English-Entry>a servant</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄζος2">
+<Greek-Entry key="ἄζος">
 	<English-Entry>dry</English-Entry>
 </Greek-Entry>
 
@@ -9463,12 +9463,12 @@
 	<English-Entry>ἅζομαι.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄζω1">
+<Greek-Entry key="ἄζω">
 	<English-Entry>dry up, parch</English-Entry>
 	<English-Entry>drying</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄζω2">
+<Greek-Entry key="ἄζω">
 	<English-Entry>cry</English-Entry>
 	<English-Entry>groan, sigh</English-Entry>
 	<English-Entry>breathe hard</English-Entry>
@@ -9697,10 +9697,10 @@
 	<English-Entry>creating</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄητος1">
+<Greek-Entry key="ἄητος">
 </Greek-Entry>
 
-<Greek-Entry key="ἄητος2">
+<Greek-Entry key="ἄητος">
 	<English-Entry>ἀκόρεστοι, ἄπληστοι</English-Entry>
 	<English-Entry>μεγάλας</English-Entry>
 	<English-Entry>ὁ ἀκατάπαυστος</English-Entry>
@@ -9970,7 +9970,7 @@
 <Greek-Entry key="ἀθεμιτοφάγος">
 </Greek-Entry>
 
-<Greek-Entry key="ἄθεος1">
+<Greek-Entry key="ἄθεος">
 	<English-Entry>without God, denying the gods</English-Entry>
 	<English-Entry>godless, ungodly</English-Entry>
 	<English-Entry>abandoned of the gods</English-Entry>
@@ -9980,7 +9980,7 @@
 	<English-Entry>in most unholy wise</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄθεος2">
+<Greek-Entry key="ἄθεος">
 	<English-Entry>without vision</English-Entry>
 	<English-Entry>unseen</English-Entry>
 </Greek-Entry>
@@ -10625,7 +10625,7 @@
 	<English-Entry>copious drinking</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀθρόος1">
+<Greek-Entry key="ἀθρόος">
 	<English-Entry>θρόος</English-Entry>
 	<English-Entry>in crowds, heaps</English-Entry>
 	<English-Entry>masses, crowded together</English-Entry>
@@ -10661,7 +10661,7 @@
 	<English-Entry>suddenly</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄθροος2">
+<Greek-Entry key="ἄθροος">
 	<English-Entry>noiseless</English-Entry>
 </Greek-Entry>
 
@@ -10851,31 +10851,31 @@
 	<English-Entry>acquittal</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰ1">
+<Greek-Entry key="αἰ">
 	<English-Entry>εἰ</English-Entry>
 	<English-Entry>if</English-Entry>
 	<English-Entry>if only, so that</English-Entry>
 	<English-Entry>O that! would that!</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἴ2">
+<Greek-Entry key="αἴ">
 	<English-Entry>αἰαῖ</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key="ἀί̈">
 </Greek-Entry>
 
-<Greek-Entry key="αἶα1">
+<Greek-Entry key="αἶα">
 	<English-Entry>γαῖα</English-Entry>
 	<English-Entry>Αἶα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἶα2">
+<Greek-Entry key="αἶα">
 	<English-Entry>ὑπὸ Κυρηναίων τηθὶς καὶ μαῖα, καὶ ἀδελφὴ Κρήτης: καὶ φυτόν τι. ἔτι δὲ ὁ καρπὸς αὐτῷ ὁμώνυμος</English-Entry>
 	<English-Entry>avia.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἶα3">
+<Greek-Entry key="αἶα">
 </Greek-Entry>
 
 <Greek-Entry key="αἴαγμα">
@@ -11173,10 +11173,10 @@
 	<English-Entry>browsed by goats</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἴγινος1">
+<Greek-Entry key="αἴγινος">
 </Greek-Entry>
 
-<Greek-Entry key="αἴγινος2">
+<Greek-Entry key="αἴγινος">
 </Greek-Entry>
 
 <Greek-Entry key="αἰγίοθος">
@@ -11781,11 +11781,11 @@
 	<English-Entry>αἰᾱνής</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἴητος1">
+<Greek-Entry key="αἴητος">
 	<English-Entry>πέλωρ</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰητός2">
+<Greek-Entry key="αἰητός">
 	<English-Entry>ἀετός, αἰετός.</English-Entry>
 </Greek-Entry>
 
@@ -11964,11 +11964,11 @@
 	<English-Entry>pustule, pimple</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰθος1">
+<Greek-Entry key="αἰθος">
 	<English-Entry>burning heat, fire</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰθός2">
+<Greek-Entry key="αἰθός">
 	<English-Entry>burnt</English-Entry>
 	<English-Entry>shining</English-Entry>
 	<English-Entry>red-brown</English-Entry>
@@ -13057,7 +13057,7 @@
 <Greek-Entry key="αἰνόποτμος">
 </Greek-Entry>
 
-<Greek-Entry key="αἶνος1">
+<Greek-Entry key="αἶνος">
 	<English-Entry>Αἰν</English-Entry>
 	<English-Entry>tale, story</English-Entry>
 	<English-Entry>a tale</English-Entry>
@@ -13068,7 +13068,7 @@
 	<English-Entry>decree, resolution</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰνός2">
+<Greek-Entry key="αἰνός">
 	<English-Entry>dread, horrible</English-Entry>
 	<English-Entry>dread, terrible</English-Entry>
 	<English-Entry>terribly</English-Entry>
@@ -13364,13 +13364,13 @@
 	<English-Entry>goatherd</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἶπος1">
+<Greek-Entry key="αἶπος">
 	<English-Entry>height, steep</English-Entry>
 	<English-Entry>hill</English-Entry>
 	<English-Entry>weariness</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αἰπός2">
+<Greek-Entry key="αἰπός">
 	<English-Entry>high, lofty</English-Entry>
 	<English-Entry>falling sheer down</English-Entry>
 </Greek-Entry>
@@ -14470,7 +14470,7 @@
 	<English-Entry>in haste</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀί̈ω1">
+<Greek-Entry key="ἀί̈ω">
 	<English-Entry>perceive</English-Entry>
 	<English-Entry>hear</English-Entry>
 	<English-Entry>perceive</English-Entry>
@@ -14482,7 +14482,7 @@
 	<English-Entry>au-dio.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀί̈ω2">
+<Greek-Entry key="ἀί̈ω">
 	<English-Entry>ᾱ]</English-Entry>
 	<English-Entry>breathe</English-Entry>
 	<English-Entry>I was breathing out</English-Entry>
@@ -14766,12 +14766,12 @@
 	<English-Entry>guileless, gracious</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκακία1">
+<Greek-Entry key="ἀκακία">
 	<English-Entry>shittah tree, Acacia arabica</English-Entry>
 	<English-Entry>Genista acanthoclada.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκακία2">
+<Greek-Entry key="ἀκακία">
 	<English-Entry>guilelessness</English-Entry>
 </Greek-Entry>
 
@@ -16049,10 +16049,10 @@
 	<English-Entry>capite deminutus.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκέω1">
+<Greek-Entry key="ἀκέω">
 </Greek-Entry>
 
-<Greek-Entry key="ἀκέω2">
+<Greek-Entry key="ἀκέω">
 	<English-Entry>to be silent</English-Entry>
 </Greek-Entry>
 
@@ -16060,17 +16060,17 @@
 	<English-Entry>softly, silently</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκή1">
+<Greek-Entry key="ἀκή">
 	<English-Entry>ἀκίς</English-Entry>
 	<English-Entry>point</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκή2">
+<Greek-Entry key="ἀκή">
 	<English-Entry>ἀκᾷ</English-Entry>
 	<English-Entry>silence</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκή3">
+<Greek-Entry key="ἀκή">
 	<English-Entry>ἀκέομαι</English-Entry>
 	<English-Entry>healing</English-Entry>
 </Greek-Entry>
@@ -16183,7 +16183,7 @@
 	<English-Entry>unmixed</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκήριος1">
+<Greek-Entry key="ἀκήριος">
 	<English-Entry>unharmed by the</English-Entry>
 	<English-Entry>unharmed</English-Entry>
 	<English-Entry>free from power of the Fates</English-Entry>
@@ -16192,7 +16192,7 @@
 	<English-Entry>harmless</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκήριος2">
+<Greek-Entry key="ἀκήριος">
 	<English-Entry>without heart</English-Entry>
 	<English-Entry>lifeless</English-Entry>
 	<English-Entry>heartless, spiritless</English-Entry>
@@ -16687,11 +16687,11 @@
 	<English-Entry>much</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκμηνός1">
+<Greek-Entry key="ἀκμηνός">
 	<English-Entry>full-grown</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄκμηνος2">
+<Greek-Entry key="ἄκμηνος">
 	<English-Entry>fasting from</English-Entry>
 	<English-Entry>Fr.anon.</English-Entry>
 </Greek-Entry>
@@ -17643,12 +17643,12 @@
 	<English-Entry>end of the axle</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρασία1">
+<Greek-Entry key="ἀκρασία">
 	<English-Entry>bad mixture, ill temperature</English-Entry>
 	<English-Entry>unwholesome</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρασία2">
+<Greek-Entry key="ἀκρασία">
 </Greek-Entry>
 
 <Greek-Entry key="ἀκρασίων">
@@ -17874,11 +17874,11 @@
 	<English-Entry>accompanied by bilious vomiting</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρία1">
+<Greek-Entry key="ἀκρία">
 	<English-Entry>goddess of the citadel</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄκρια2">
+<Greek-Entry key="ἄκρια">
 	<English-Entry>adjoin</English-Entry>
 </Greek-Entry>
 
@@ -18028,13 +18028,13 @@
 	<English-Entry>ῥίον</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄκρις1">
+<Greek-Entry key="ἄκρις">
 	<English-Entry>hill-top, mountain peak</English-Entry>
 	<English-Entry>mountain tops</English-Entry>
 	<English-Entry>hill-country</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρίς2">
+<Greek-Entry key="ἀκρίς">
 	<English-Entry>grasshopper, locust, cricket</English-Entry>
 </Greek-Entry>
 
@@ -18602,11 +18602,11 @@
 	<English-Entry>nightfall</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρόνυχος1">
+<Greek-Entry key="ἀκρόνυχος">
 	<English-Entry>at nightfall</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκρόνυχος2">
+<Greek-Entry key="ἀκρόνυχος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀκροξιφίς">
@@ -19221,7 +19221,7 @@
 	<English-Entry>ἄταφοι, αἱ κράνιοι ῥάβδοι</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκτή1">
+<Greek-Entry key="ἀκτή">
 	<English-Entry>headland, foreland, promontory</English-Entry>
 	<English-Entry>rugged banks</English-Entry>
 	<English-Entry>strand</English-Entry>
@@ -19230,12 +19230,12 @@
 	<English-Entry>ak</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκτή2">
+<Greek-Entry key="ἀκτή">
 	<English-Entry>corn</English-Entry>
 	<English-Entry>corn</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκτῆ3">
+<Greek-Entry key="ἀκτῆ">
 	<English-Entry>ἀκτέα</English-Entry>
 </Greek-Entry>
 
@@ -19436,13 +19436,13 @@
 	<English-Entry>ἄφοβον καὶ ἄ</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκύμων1">
+<Greek-Entry key="ἀκύμων">
 	<English-Entry>ῡ]</English-Entry>
 	<English-Entry>, ̔κῦμἀ</English-Entry>
 	<English-Entry>οὐρανός</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀκύμων2">
+<Greek-Entry key="ἀκύμων">
 	<English-Entry>ῡ]</English-Entry>
 	<English-Entry>without fruit, barren</English-Entry>
 </Greek-Entry>
@@ -19577,12 +19577,12 @@
 	<English-Entry>not ridiculed.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄκων1">
+<Greek-Entry key="ἄκων">
 	<English-Entry>ἀκή</English-Entry>
 	<English-Entry>javelin, dart</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄκων2">
+<Greek-Entry key="ἄκων">
 	<English-Entry>, ἄκουσα, ἆκον</English-Entry>
 	<English-Entry>ἀέκων</English-Entry>
 </Greek-Entry>
@@ -19805,12 +19805,12 @@
 	<English-Entry>wander, roam about</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλάλητος1">
+<Greek-Entry key="ἀλάλητος">
 	<English-Entry>λᾰ]</English-Entry>
 	<English-Entry>unspeakable, unutterable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλαλητός2">
+<Greek-Entry key="ἀλαλητός">
 	<English-Entry>shout of victory</English-Entry>
 	<English-Entry>war-cry, battle-shout</English-Entry>
 	<English-Entry>loud shouting</English-Entry>
@@ -20173,11 +20173,11 @@
 	<English-Entry>fomentations</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλεάζω1">
+<Greek-Entry key="ἀλεάζω">
 	<English-Entry>to be warm</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλεάζω2">
+<Greek-Entry key="ἀλεάζω">
 	<English-Entry>: κρύπτειν, ἢ προβάλλειν, καὶ εἴργειν, ἀφανίζειν</English-Entry>
 	<English-Entry>-άζων: δικαζόμενος</English-Entry>
 	<English-Entry>ἀθροίζω</English-Entry>
@@ -20340,12 +20340,12 @@
 	<English-Entry>like an</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλειπτός1">
+<Greek-Entry key="ἀλειπτός">
 	<English-Entry>anointed, smeared</English-Entry>
 	<English-Entry>ointments</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλειπτος2">
+<Greek-Entry key="ἄλειπτος">
 	<English-Entry>not left behind, unconquered</English-Entry>
 	<English-Entry>perfectly</English-Entry>
 </Greek-Entry>
@@ -20533,7 +20533,7 @@
 	<English-Entry>hen</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλέκτωρ1">
+<Greek-Entry key="ἀλέκτωρ">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>ἀλεκτρυών</English-Entry>
 	<English-Entry>cock</English-Entry>
@@ -20542,7 +20542,7 @@
 	<English-Entry>ad Lyc.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλέκτωρ2">
+<Greek-Entry key="ἀλέκτωρ">
 	<English-Entry>ἀ-</English-Entry>
 	<English-Entry>λέγω</English-Entry>
 </Greek-Entry>
@@ -20852,7 +20852,7 @@
 	<English-Entry>one that divines from flour</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλευρον1">
+<Greek-Entry key="ἄλευρον">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>ἄλευρα</English-Entry>
 	<English-Entry>ἀλέω</English-Entry>
@@ -20861,7 +20861,7 @@
 	<English-Entry>meal</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλευρον2">
+<Greek-Entry key="ἄλευρον">
 	<English-Entry>: τάφος</English-Entry>
 </Greek-Entry>
 
@@ -20900,7 +20900,7 @@
 	<English-Entry>Ἄλεψον</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλέω1">
+<Greek-Entry key="ἀλέω">
 	<English-Entry>ἄλεσσα</English-Entry>
 	<English-Entry>grind, bruise</English-Entry>
 	<English-Entry>civilized</English-Entry>
@@ -20909,7 +20909,7 @@
 	<English-Entry>grind ! Carm. Pop.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλέω2">
+<Greek-Entry key="ἀλέω">
 	<English-Entry>ἀλέομαι</English-Entry>
 </Greek-Entry>
 
@@ -21106,12 +21106,12 @@
 	<English-Entry>without booty</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄληκτος1">
+<Greek-Entry key="ἄληκτος">
 	<English-Entry>unceasing</English-Entry>
 	<English-Entry>interminable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄληκτος2">
+<Greek-Entry key="ἄληκτος">
 	<English-Entry>ἄλλ-</English-Entry>
 	<English-Entry>ᾰλ]</English-Entry>
 	<English-Entry>ἀλέω</English-Entry>
@@ -21225,12 +21225,12 @@
 	<English-Entry>meal</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλητός1">
+<Greek-Entry key="ἀλητός">
 	<English-Entry>ἀλετός, εἰς ἀ. ἐπράθη</English-Entry>
 	<English-Entry>to grind</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλητός2">
+<Greek-Entry key="ἀλητός">
 	<English-Entry>ground</English-Entry>
 </Greek-Entry>
 
@@ -21284,14 +21284,14 @@
 	<English-Entry>healing, medicine</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλία1">
+<Greek-Entry key="ἁλία">
 	<English-Entry>-ιη</English-Entry>
 	<English-Entry>ᾱλ]</English-Entry>
 	<English-Entry>assembly of people</English-Entry>
 	<English-Entry>meeting, assembly</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλία2">
+<Greek-Entry key="ἁλία">
 	<English-Entry>ᾰλ]</English-Entry>
 	<English-Entry>salt-cellar</English-Entry>
 	<English-Entry>the salt-cellar</English-Entry>
@@ -21330,14 +21330,14 @@
 	<English-Entry>salted</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλιάς1">
+<Greek-Entry key="ἁλιάς">
 	<English-Entry>of</English-Entry>
 	<English-Entry>belonging to sea</English-Entry>
 	<English-Entry>fishing-boat</English-Entry>
 	<English-Entry>bark</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλιας2">
+<Greek-Entry key="ἅλιας">
 	<English-Entry>πρασιάς, πλινθείας</English-Entry>
 </Greek-Entry>
 
@@ -21524,7 +21524,7 @@
 	<English-Entry>abele</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλίζω1">
+<Greek-Entry key="ἁλίζω">
 	<English-Entry>ἡλ-</English-Entry>
 	<English-Entry>gather together, assemble</English-Entry>
 	<English-Entry>collect</English-Entry>
@@ -21533,7 +21533,7 @@
 	<English-Entry>collect</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλίζω2">
+<Greek-Entry key="ἁλίζω">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>salt</English-Entry>
 	<English-Entry>to be salted</English-Entry>
@@ -21762,20 +21762,20 @@
 	<English-Entry>victor in the</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλιος1">
+<Greek-Entry key="ἅλιος">
 	<English-Entry>ἅλς</English-Entry>
 	<English-Entry>of the sea</English-Entry>
 	<English-Entry>sea</English-Entry>
 	<English-Entry>sea</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλιος2">
+<Greek-Entry key="ἅλιος">
 	<English-Entry>ἠλίθιος</English-Entry>
 	<English-Entry>fruitless, idle</English-Entry>
 	<English-Entry>in vain</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλιος3">
+<Greek-Entry key="ἅλιος">
 	<English-Entry>ἥλιος</English-Entry>
 	<English-Entry>nine</English-Entry>
 </Greek-Entry>
@@ -21913,7 +21913,7 @@
 	<English-Entry>surging sea"s</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλις1">
+<Greek-Entry key="ἅλις">
 	<English-Entry>[ᾰ</English-Entry>
 	<English-Entry>in crowds, in plenty</English-Entry>
 	<English-Entry>sufficiently, enough</English-Entry>
@@ -21926,7 +21926,7 @@
 	<English-Entry>enough of</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁλίς2">
+<Greek-Entry key="ἁλίς">
 	<English-Entry>, ̔ἅλς̓</English-Entry>
 </Greek-Entry>
 
@@ -22247,7 +22247,7 @@
 	<English-Entry>deeds of prowess</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀλκή1">
+<Greek-Entry key="ἀλκή">
 	<English-Entry>ἀλέξω</English-Entry>
 	<English-Entry>strength</English-Entry>
 	<English-Entry>prowess, courage</English-Entry>
@@ -22264,7 +22264,7 @@
 	<English-Entry>battle, fight</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλκη2">
+<Greek-Entry key="ἄλκη">
 	<English-Entry>elk</English-Entry>
 </Greek-Entry>
 
@@ -22598,13 +22598,13 @@
 	<English-Entry>allegorically</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλληκτος1">
+<Greek-Entry key="ἄλληκτος">
 	<English-Entry>ἄληκτος</English-Entry>
 	<English-Entry>unceasing, ceaseless</English-Entry>
 	<English-Entry>implacable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλληκτος2">
+<Greek-Entry key="ἄλληκτος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀλληλανάδοχος">
@@ -22756,14 +22756,14 @@
 	<English-Entry>reciprocal</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλλην1">
+<Greek-Entry key="ἄλλην">
 	<English-Entry>ἄλλος</English-Entry>
 	<English-Entry>ὁδόν</English-Entry>
 	<English-Entry>elsewhither</English-Entry>
 	<English-Entry>again and again</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλλην2">
+<Greek-Entry key="ἄλλην">
 	<English-Entry>λάχανον</English-Entry>
 </Greek-Entry>
 
@@ -23074,7 +23074,7 @@
 	<English-Entry>changeful, successive</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλλος1">
+<Greek-Entry key="ἄλλος">
 	<English-Entry>, ο</English-Entry>
 	<English-Entry>ἀλ</English-Entry>
 	<English-Entry>y</English-Entry>
@@ -23114,7 +23114,7 @@
 	<English-Entry>unworthy</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆλλος2">
+<Greek-Entry key="ἆλλος">
 </Greek-Entry>
 
 <Greek-Entry key="ἄλλοσε">
@@ -23767,13 +23767,13 @@
 	<English-Entry>Ἀλόγχους μιμεῖσθαι, ὅ ἐστι ἔθνος Θρᾳκῶν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλογχος1">
+<Greek-Entry key="ἄλογχος">
 	<English-Entry>without lances</English-Entry>
 	<English-Entry>weapons</English-Entry>
 	<English-Entry>without a head</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄλογχος2">
+<Greek-Entry key="ἄλογχος">
 	<English-Entry>λογχή</English-Entry>
 	<English-Entry>unlucky</English-Entry>
 </Greek-Entry>
@@ -24063,7 +24063,7 @@
 	<English-Entry>volup.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλς1">
+<Greek-Entry key="ἅλς">
 	<English-Entry>ἁλός</English-Entry>
 	<English-Entry>ἅλασιν</English-Entry>
 	<English-Entry>salt</English-Entry>
@@ -24076,7 +24076,7 @@
 	<English-Entry>sales, wit</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅλς2">
+<Greek-Entry key="ἅλς">
 	<English-Entry>ἁλός</English-Entry>
 	<English-Entry>sea</English-Entry>
 	<English-Entry>in sea-water</English-Entry>
@@ -24937,7 +24937,7 @@
 	<English-Entry>ἀμπαύω</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅμα1">
+<Greek-Entry key="ἅμα">
 	<English-Entry>at once, at the same time</English-Entry>
 	<English-Entry>partly . . partly . . </English-Entry>
 	<English-Entry>no sooner . . than . . </English-Entry>
@@ -24956,7 +24956,7 @@
 	<English-Entry>sṃ-</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁμᾶ2">
+<Greek-Entry key="ἁμᾶ">
 	<English-Entry>ἅμα</English-Entry>
 	<English-Entry>ἁμᾷ</English-Entry>
 </Greek-Entry>
@@ -25179,12 +25179,12 @@
 <Greek-Entry key="ἀμαλλοδέτης">
 </Greek-Entry>
 
-<Greek-Entry key="ἄμαλλος1">
+<Greek-Entry key="ἄμαλλος">
 	<English-Entry>without fleece</English-Entry>
 	<English-Entry>nap</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄμαλλος2">
+<Greek-Entry key="ἄμαλλος">
 	<English-Entry>πέρδιξ</English-Entry>
 	<English-Entry>φυτὰ σικύων ἢ τῶν ὁμοίων</English-Entry>
 </Greek-Entry>
@@ -25809,7 +25809,7 @@
 	<English-Entry>εἶδος ἀκάνθης</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμάω1">
+<Greek-Entry key="ἀμάω">
 	<English-Entry>ἄμησα</English-Entry>
 	<English-Entry>ἤμημαι</English-Entry>
 	<English-Entry>ᾰ;</English-Entry>
@@ -25819,7 +25819,7 @@
 	<English-Entry>mow down</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμάω2">
+<Greek-Entry key="ἀμάω">
 	<English-Entry>draw, gather</English-Entry>
 	<English-Entry>pouring</English-Entry>
 	<English-Entry>sémti</English-Entry>
@@ -26085,11 +26085,11 @@
 	<English-Entry>protuberant</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμβολά1">
+<Greek-Entry key="ἀμβολά">
 	<English-Entry>ἀναβολή.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄμβολα2">
+<Greek-Entry key="ἄμβολα">
 	<English-Entry>middle of ship"syard</English-Entry>
 </Greek-Entry>
 
@@ -26282,7 +26282,7 @@
 <Greek-Entry key="ἀμείβοντες">
 </Greek-Entry>
 
-<Greek-Entry key="ἀμείβω1">
+<Greek-Entry key="ἀμείβω">
 	<English-Entry>ἤμειψα</English-Entry>
 	<English-Entry>ἄμειψα [ᾰ</English-Entry>
 	<English-Entry>ἄμ</English-Entry>
@@ -26340,7 +26340,7 @@
 	<English-Entry>convoys, accompanies</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμειβώ2">
+<Greek-Entry key="ἀμειβώ">
 </Greek-Entry>
 
 <Greek-Entry key="ἀμειδής">
@@ -26500,7 +26500,7 @@
 	<English-Entry>carelessly</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμελής1">
+<Greek-Entry key="ἀμελής">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>careless, negligent</English-Entry>
 	<English-Entry>carelessly</English-Entry>
@@ -26510,7 +26510,7 @@
 	<English-Entry>pains</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμελής2">
+<Greek-Entry key="ἀμελής">
 	<English-Entry>unmelodious</English-Entry>
 </Greek-Entry>
 
@@ -27171,12 +27171,12 @@
 	<English-Entry>ajowan, Carum copticum</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμία1">
+<Greek-Entry key="ἀμία">
 	<English-Entry>tunny</English-Entry>
 	<English-Entry>bonito</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμία2">
+<Greek-Entry key="ἀμία">
 	<English-Entry>: φυλακία</English-Entry>
 </Greek-Entry>
 
@@ -27565,7 +27565,7 @@
 	<English-Entry>results of such washing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμμορία1">
+<Greek-Entry key="ἀμμορία">
 	<English-Entry>-ιη</English-Entry>
 	<English-Entry>ἀμορία</English-Entry>
 	<English-Entry>Ζεὺς οἶδε μοῖράν τ" ἀμμορίην τ" ἀνθρώπων</English-Entry>
@@ -27573,7 +27573,7 @@
 	<English-Entry>bad</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμμορία2">
+<Greek-Entry key="ἀμμορία">
 	<English-Entry>-ιη</English-Entry>
 </Greek-Entry>
 
@@ -27586,13 +27586,13 @@
 	<English-Entry>smor-</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄμμος1">
+<Greek-Entry key="ἄμμος">
 	<English-Entry>ὕφ-αμμος</English-Entry>
 	<English-Entry>sand</English-Entry>
 	<English-Entry>sandy ground, racecourse</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄμμος2">
+<Greek-Entry key="ἄμμος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀμμοσκοπία">
@@ -28048,14 +28048,14 @@
 	<English-Entry>σύλλεγμα, ἄρτυμα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμοργός1">
+<Greek-Entry key="ἀμοργός">
 	<English-Entry>one who squeezes</English-Entry>
 	<English-Entry>drains</English-Entry>
 	<English-Entry>which protect</English-Entry>
 	<English-Entry>from</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμοργός2">
+<Greek-Entry key="ἀμοργός">
 </Greek-Entry>
 
 <Greek-Entry key="Ἀμοργός">
@@ -28114,7 +28114,7 @@
 	<English-Entry>unfigured</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁμός1">
+<Greek-Entry key="ἁμός">
 	<English-Entry>ᾱ]</English-Entry>
 	<English-Entry>ὑμός</English-Entry>
 	<English-Entry>ὑμέτερος, σφός</English-Entry>
@@ -28123,7 +28123,7 @@
 	<English-Entry>ἀμός</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁμός2">
+<Greek-Entry key="ἁμός">
 	<English-Entry>ἁμοῦ, ἁμῆ, ἁμοῖ, ἁμῶς, ἁμόθεν, ἁμόθι</English-Entry>
 	<English-Entry>οὐδαμός</English-Entry>
 	<English-Entry>sṃ-</English-Entry>
@@ -28960,11 +28960,11 @@
 	<English-Entry>let him be driven away</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀμύξ1">
+<Greek-Entry key="ἀμύξ">
 	<English-Entry>scratching, tearing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄμυξ2">
+<Greek-Entry key="ἄμυξ">
 	<English-Entry>ἀμυχή</English-Entry>
 </Greek-Entry>
 
@@ -31989,7 +31989,7 @@
 	<English-Entry>μότα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄν1">
+<Greek-Entry key="ἄν">
 	<English-Entry>ἄν</English-Entry>
 	<English-Entry>ἄν</English-Entry>
 	<English-Entry>ἄν</English-Entry>
@@ -32083,15 +32083,7 @@
 	<English-Entry>should</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄν2">
-	<English-Entry>ἂν θεὸς θέλῃ</English-Entry>
-</Greek-Entry>
-
-<Greek-Entry key="ἄν3">
-	<English-Entry>ἀνά</English-Entry>
-</Greek-Entry>
-
-<Greek-Entry key="ἄν4">
+<Greek-Entry key="ἄν'">
 	<English-Entry>ἄνα</English-Entry>
 	<English-Entry>ἀνά</English-Entry>
 </Greek-Entry>
@@ -32100,17 +32092,7 @@
 	<English-Entry>ἃ ἄν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀν5">
-	<English-Entry>ἀ-</English-Entry>
-</Greek-Entry>
-
-<Greek-Entry key="ἀνά1">
-	<English-Entry>ἀνά</English-Entry>
-	<English-Entry>ἄν</English-Entry>
-	<English-Entry>ἂν τὸν ὀδελόν; ἄγ</English-Entry>
-	<English-Entry>ἂγ γύαλα; ἄμ</English-Entry>
-	<English-Entry>ἂμ βωμοῖσι, ἂμ πέτραις</English-Entry>
-	<English-Entry>ἀνὰ νηὸς βαίνειν</English-Entry>
+<Greek-Entry key="ἀνά">
 	<English-Entry>on board</English-Entry>
 	<English-Entry>on, upon</English-Entry>
 	<English-Entry>upon</English-Entry>
@@ -32126,9 +32108,7 @@
 	<English-Entry>continually in</English-Entry>
 	<English-Entry>in</English-Entry>
 	<English-Entry>among</English-Entry>
-	<English-Entry>among</English-Entry>
 	<English-Entry>throughout</English-Entry>
-	<English-Entry>all</English-Entry>
 	<English-Entry>through</English-Entry>
 	<English-Entry>in course of</English-Entry>
 	<English-Entry>in</English-Entry>
@@ -32143,7 +32123,6 @@
 	<English-Entry>each.</English-Entry>
 	<English-Entry>at the rate of</English-Entry>
 	<English-Entry>in each</English-Entry>
-	<English-Entry>apiece, Ev. Matt.</English-Entry>
 	<English-Entry>amounting to</English-Entry>
 	<English-Entry>multiplied by</English-Entry>
 	<English-Entry>up to</English-Entry>
@@ -32168,12 +32147,12 @@
 	<English-Entry>and up stood . . arose</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνα1">
+<Greek-Entry key="ἄνα">
 	<English-Entry>ἄναξ</English-Entry>
 	<English-Entry>king</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνα2">
+<Greek-Entry key="ἄνα">
 	<English-Entry>ἄνη.</English-Entry>
 </Greek-Entry>
 
@@ -33376,12 +33355,12 @@
 	<English-Entry>delivery, payment</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναγώγια1">
+<Greek-Entry key="ἀναγώγια">
 	<English-Entry>ἱερά</English-Entry>
 	<English-Entry>offerings made on embarkation</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναγωγία2">
+<Greek-Entry key="ἀναγωγία">
 	<English-Entry>ἀ-</English-Entry>
 	<English-Entry>ἀγωγή</English-Entry>
 	<English-Entry>want of discipline, dissoluteness, corruption</English-Entry>
@@ -33394,14 +33373,14 @@
 	<English-Entry>reward for restoration of a fugitive slave</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναγωγός1">
+<Greek-Entry key="ἀναγωγός">
 	<English-Entry>bringing up, eliciting</English-Entry>
 	<English-Entry>raising</English-Entry>
 	<English-Entry>conveying up</English-Entry>
 	<English-Entry>uplifting the soul, elevating</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνάγωγος2">
+<Greek-Entry key="ἀνάγωγος">
 	<English-Entry>ill-bred</English-Entry>
 	<English-Entry>tasteless</English-Entry>
 	<English-Entry>unlearned</English-Entry>
@@ -34340,11 +34319,11 @@
 	<English-Entry>dress</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναθύω1">
+<Greek-Entry key="ἀναθύω">
 	<English-Entry>dart up, burst forth</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναθύω2">
+<Greek-Entry key="ἀναθύω">
 	<English-Entry>sacrifice again</English-Entry>
 	<English-Entry>dedicate</English-Entry>
 </Greek-Entry>
@@ -36377,12 +36356,12 @@
 <Greek-Entry key="ἀναλόω">
 </Greek-Entry>
 
-<Greek-Entry key="ἄναλτος1">
+<Greek-Entry key="ἄναλτος">
 	<English-Entry>not to be filled, insatiate</English-Entry>
 	<English-Entry>alo</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄναλτος2">
+<Greek-Entry key="ἄναλτος">
 	<English-Entry>ἅλς</English-Entry>
 	<English-Entry>not salted</English-Entry>
 </Greek-Entry>
@@ -36427,11 +36406,11 @@
 	<English-Entry>dissoluble</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναλύω1">
+<Greek-Entry key="ἀναλύω">
 	<English-Entry>cause to wander, unsettle</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναλύω2">
+<Greek-Entry key="ἀναλύω">
 	<English-Entry>λύω</English-Entry>
 	<English-Entry>ἀλλύουσα, ἀλλύεσκε</English-Entry>
 	<English-Entry>unloose, undo</English-Entry>
@@ -37253,11 +37232,11 @@
 	<English-Entry>drying up</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναξία1">
+<Greek-Entry key="ἀναξία">
 	<English-Entry>command, behest</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναξία2">
+<Greek-Entry key="ἀναξία">
 	<English-Entry>lack of value: inferiority</English-Entry>
 </Greek-Entry>
 
@@ -37294,7 +37273,7 @@
 	<English-Entry>unworthy of credit</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνάξιος1">
+<Greek-Entry key="ἀνάξιος">
 	<English-Entry>unworthy, not deemed</English-Entry>
 	<English-Entry>held worthy;</English-Entry>
 	<English-Entry>too good for</English-Entry>
@@ -37306,7 +37285,7 @@
 	<English-Entry>worthless</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνάξιος2">
+<Greek-Entry key="ἀνάξιος">
 	<English-Entry>kingly, royal</English-Entry>
 </Greek-Entry>
 
@@ -38568,11 +38547,11 @@
 <Greek-Entry key="ἀνάπωτις">
 </Greek-Entry>
 
-<Greek-Entry key="ἄναρ1">
+<Greek-Entry key="ἄναρ">
 	<English-Entry>ὄναρ</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀναρ2">
+<Greek-Entry key="ἀναρ">
 	<English-Entry>ἀνά</English-Entry>
 	<English-Entry>ἀναρραί̈ζω</English-Entry>
 </Greek-Entry>
@@ -40499,7 +40478,7 @@
 	<English-Entry>without passage-money</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄναυλος1">
+<Greek-Entry key="ἄναυλος">
 	<English-Entry>without the flute</English-Entry>
 	<English-Entry>unaccompanied by flutes</English-Entry>
 	<English-Entry>joyless</English-Entry>
@@ -40507,7 +40486,7 @@
 	<English-Entry>unskilled in flute-playing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄναυλος2">
+<Greek-Entry key="ἄναυλος">
 	<English-Entry>weary of its stall</English-Entry>
 </Greek-Entry>
 
@@ -41573,14 +41552,14 @@
 	<English-Entry>husband"s sister</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνδρακάς1">
+<Greek-Entry key="ἀνδρακάς">
 	<English-Entry>man by man</English-Entry>
 	<English-Entry>apart</English-Entry>
 	<English-Entry>-śás</English-Entry>
 	<English-Entry>dviśás</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνδρακάς2">
+<Greek-Entry key="ἀνδρακάς">
 	<English-Entry>a man"s portion</English-Entry>
 </Greek-Entry>
 
@@ -42700,7 +42679,7 @@
 	<English-Entry>exempt from taxation</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνέκαθεν1">
+<Greek-Entry key="ἀνέκαθεν">
 </Greek-Entry>
 
 <Greek-Entry key="ἀνείσφορθε">
@@ -42716,15 +42695,15 @@
 	<English-Entry>ἀνεβάλλετο, ἀνήρχετο, ἀνεφέρετο</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνεκάς1">
+<Greek-Entry key="ἀνεκάς">
 	<English-Entry>upwards</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνέκας2">
+<Greek-Entry key="ἀνέκας">
 	<English-Entry>ὀνομάζειν καὶ</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνέκαθεν2">
+<Greek-Entry key="ἀνέκαθεν">
 	<English-Entry>τὸ ἄνωθεν</English-Entry>
 	<English-Entry>-κάς</English-Entry>
 	<English-Entry>ἀνδρα-κάς</English-Entry>
@@ -42792,11 +42771,11 @@
 	<English-Entry>unendurable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνεκκλησίαστος1">
+<Greek-Entry key="ἀνεκκλησίαστος">
 	<English-Entry>not used for assemblies of the people</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνεκκλησίαστος2">
+<Greek-Entry key="ἀνεκκλησίαστος">
 	<English-Entry>unchallenged</English-Entry>
 </Greek-Entry>
 
@@ -43075,11 +43054,11 @@
 	<English-Entry>suppurate afresh</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνελκτος1">
+<Greek-Entry key="ἄνελκτος">
 	<English-Entry>inextensible</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνελκτός2">
+<Greek-Entry key="ἀνελκτός">
 	<English-Entry>up-drawn</English-Entry>
 </Greek-Entry>
 
@@ -45035,12 +45014,12 @@
 	<English-Entry>boil again</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνέω1">
+<Greek-Entry key="ἀνέω">
 	<English-Entry>ἀλεῖν</English-Entry>
 	<English-Entry>αἵνω, ἀφᾱνέω.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνεω2">
+<Greek-Entry key="ἀνεω">
 	<English-Entry>without a sound, in silence</English-Entry>
 </Greek-Entry>
 
@@ -45354,11 +45333,11 @@
 	<English-Entry>gentle</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνήνιος1">
+<Greek-Entry key="ἀνήνιος">
 	<English-Entry>unbridled</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνήνιος2">
+<Greek-Entry key="ἀνήνιος">
 	<English-Entry>without pain</English-Entry>
 </Greek-Entry>
 
@@ -45812,10 +45791,10 @@
 <Greek-Entry key="ἀνθήλιος">
 </Greek-Entry>
 
-<Greek-Entry key="ἄνθημα1">
+<Greek-Entry key="ἄνθημα">
 </Greek-Entry>
 
-<Greek-Entry key="ἄνθημα2">
+<Greek-Entry key="ἄνθημα">
 	<English-Entry>ἀνάθημα</English-Entry>
 	<English-Entry>offering</English-Entry>
 </Greek-Entry>
@@ -46142,7 +46121,7 @@
 	<English-Entry>corresponding boundary-stone</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνθος1">
+<Greek-Entry key="ἄνθος">
 	<English-Entry>, τό.</English-Entry>
 	<English-Entry>ἀνθέων</English-Entry>
 	<English-Entry>ἀνθῶν</English-Entry>
@@ -46169,7 +46148,7 @@
 	<English-Entry>dye</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνθος2">
+<Greek-Entry key="ἄνθος">
 	<English-Entry>bird</English-Entry>
 	<English-Entry>the yellow wagtail</English-Entry>
 </Greek-Entry>
@@ -47777,12 +47756,12 @@
 <Greek-Entry key="ἀνόδοντος">
 </Greek-Entry>
 
-<Greek-Entry key="ἄνοδος1">
+<Greek-Entry key="ἄνοδος">
 	<English-Entry>having no way</English-Entry>
 	<English-Entry>road, impassable</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνοδος2">
+<Greek-Entry key="ἄνοδος">
 	<English-Entry>way up</English-Entry>
 	<English-Entry>journey inland</English-Entry>
 	<English-Entry>rising</English-Entry>
@@ -48042,11 +48021,11 @@
 	<English-Entry>pitiless</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνοικτός1">
+<Greek-Entry key="ἀνοικτός">
 	<English-Entry>capable of being opened</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνοικτος2">
+<Greek-Entry key="ἄνοικτος">
 	<English-Entry>pitiless, ruthless</English-Entry>
 	<English-Entry>without pity, without being pitied</English-Entry>
 </Greek-Entry>
@@ -50919,11 +50898,11 @@
 	<English-Entry>adhere</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄντη1">
+<Greek-Entry key="ἄντη">
 	<English-Entry>prayer</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀντῆ2">
+<Greek-Entry key="ἀντῆ">
 	<English-Entry>δῶρον ἱκέσιον</English-Entry>
 </Greek-Entry>
 
@@ -53325,10 +53304,10 @@
 	<English-Entry>scrape in turn</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀντίον1">
+<Greek-Entry key="ἀντίον">
 </Greek-Entry>
 
-<Greek-Entry key="ἀντίον2">
+<Greek-Entry key="ἀντίον">
 	<English-Entry>loom</English-Entry>
 </Greek-Entry>
 
@@ -56866,7 +56845,7 @@
 	<English-Entry>sanoti</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνω1">
+<Greek-Entry key="ἄνω">
 	<English-Entry>ἄνων</English-Entry>
 	<English-Entry>ἦνον</English-Entry>
 	<English-Entry>ἤνες"</English-Entry>
@@ -56877,7 +56856,7 @@
 	<English-Entry>waning</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄνω2">
+<Greek-Entry key="ἄνω">
 	<English-Entry>upwards</English-Entry>
 	<English-Entry>up</English-Entry>
 	<English-Entry>upward</English-Entry>
@@ -57020,11 +56999,11 @@
 	<English-Entry>unlooked for</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνώϊστος1">
+<Greek-Entry key="ἀνώϊστος">
 	<English-Entry>unlooked for, unexpected</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀνώϊστος2">
+<Greek-Entry key="ἀνώϊστος">
 	<English-Entry>referred</English-Entry>
 	<English-Entry>referred to . .</English-Entry>
 	<English-Entry>lifted up, raised</English-Entry>
@@ -57443,11 +57422,11 @@
 	<English-Entry>well worth seeing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀξιόθεος1">
+<Greek-Entry key="ἀξιόθεος">
 	<English-Entry>worthy of God</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀξιόθεος2">
+<Greek-Entry key="ἀξιόθεος">
 	<English-Entry>worth seeing</English-Entry>
 </Greek-Entry>
 
@@ -57905,13 +57884,13 @@
 	<English-Entry>service</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄοζος1">
+<Greek-Entry key="ἄοζος">
 	<English-Entry>servant, attendant</English-Entry>
 	<English-Entry>sṃ-sod-yos</English-Entry>
 	<English-Entry>sed-</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄοζος2">
+<Greek-Entry key="ἄοζος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀοῖα">
@@ -59262,12 +59241,12 @@
 	<English-Entry>to be deprived of sight</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπαμάω1">
+<Greek-Entry key="ἀπαμάω">
 	<English-Entry>-ήσω</English-Entry>
 	<English-Entry>cut off</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπαμάω2">
+<Greek-Entry key="ἀπαμάω">
 	<English-Entry>sweep away</English-Entry>
 </Greek-Entry>
 
@@ -60782,11 +60761,11 @@
 	<English-Entry>month</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="Ἀπατούρια1">
+<Greek-Entry key="Ἀπατούρια">
 	<English-Entry>the Apaturia</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="Ἀπατουρία2">
+<Greek-Entry key="Ἀπατουρία">
 	<English-Entry>-ούριον</English-Entry>
 	<English-Entry>τὸ τῆς Ἀφροδίτης ἱερόν</English-Entry>
 	<English-Entry>ἀ-</English-Entry>
@@ -61168,14 +61147,14 @@
 <Greek-Entry key="ἀπεικότως">
 </Greek-Entry>
 
-<Greek-Entry key="ἀπειλέω1">
+<Greek-Entry key="ἀπειλέω">
 	<English-Entry>keep away</English-Entry>
 	<English-Entry>brought</English-Entry>
 	<English-Entry>forced</English-Entry>
 	<English-Entry>unroll, roll off</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπειλέω2">
+<Greek-Entry key="ἀπειλέω">
 	<English-Entry>ἀπειλήτην</English-Entry>
 	<English-Entry>ἠπειλείτην</English-Entry>
 	<English-Entry>hold out</English-Entry>
@@ -61222,7 +61201,7 @@
 <Greek-Entry key="ἀπείλλω">
 </Greek-Entry>
 
-<Greek-Entry key="ἄπειμι1">
+<Greek-Entry key="ἄπειμι">
 	<English-Entry>εἰμί</English-Entry>
 	<English-Entry>sum</English-Entry>
 	<English-Entry>to be away</English-Entry>
@@ -61233,7 +61212,7 @@
 	<English-Entry>not being counted</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄπειμι2">
+<Greek-Entry key="ἄπειμι">
 	<English-Entry>εἶμι</English-Entry>
 	<English-Entry>ibo</English-Entry>
 	<English-Entry>go away, depart</English-Entry>
@@ -61333,11 +61312,11 @@
 	<English-Entry>untried</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπείρατος1">
+<Greek-Entry key="ἀπείρατος">
 	<English-Entry>ἀπείρητος.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπείρατος2">
+<Greek-Entry key="ἀπείρατος">
 	<English-Entry>-ṇ-τος</English-Entry>
 	<English-Entry>πειραίνω</English-Entry>
 	<English-Entry>impenetrable</English-Entry>
@@ -61406,14 +61385,14 @@
 	<English-Entry>untried, unattempted</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπειρία1">
+<Greek-Entry key="ἀπειρία">
 	<English-Entry>ἄπειρος</English-Entry>
 	<English-Entry>ἐμπειρία</English-Entry>
 	<English-Entry>want of skill, inexperience, ignorance</English-Entry>
 	<English-Entry>want of skill</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπειρία2">
+<Greek-Entry key="ἀπειρία">
 	<English-Entry>ἄπειρος</English-Entry>
 	<English-Entry>infinity, infinitude</English-Entry>
 	<English-Entry>eternity</English-Entry>
@@ -61547,7 +61526,7 @@
 	<English-Entry>unused to toil</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄπειρος1">
+<Greek-Entry key="ἄπειρος">
 	<English-Entry>without trial</English-Entry>
 	<English-Entry>experience of</English-Entry>
 	<English-Entry>unused to, unacquainted with</English-Entry>
@@ -61555,7 +61534,7 @@
 	<English-Entry>inexperienced, ignorant</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄπειρος2">
+<Greek-Entry key="ἄπειρος">
 	<English-Entry>boundless, infinite</English-Entry>
 	<English-Entry>countless</English-Entry>
 	<English-Entry>the Infinite</English-Entry>
@@ -61594,12 +61573,12 @@
 	<English-Entry>knowing not the pains of child-birth</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπείρων1">
+<Greek-Entry key="ἀπείρων">
 	<English-Entry>, ̔πεῖρἀ</English-Entry>
 	<English-Entry>without experience, ignorant</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπείρων2">
+<Greek-Entry key="ἀπείρων">
 	<English-Entry>ἄπειρος</English-Entry>
 	<English-Entry>boundless, endless</English-Entry>
 	<English-Entry>countless</English-Entry>
@@ -62181,12 +62160,12 @@
 	<English-Entry>one must vomit</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπέρατος1">
+<Greek-Entry key="ἀπέρατος">
 	<English-Entry>not to be crossed</English-Entry>
 	<English-Entry>passed</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπέρατος2">
+<Greek-Entry key="ἀπέρατος">
 	<English-Entry>boundless</English-Entry>
 </Greek-Entry>
 
@@ -63402,14 +63381,14 @@
 	<English-Entry>pear-tree</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄπιος1">
+<Greek-Entry key="ἄπιος">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>pear-tree, Pyrus communis</English-Entry>
 	<English-Entry>pear</English-Entry>
 	<English-Entry>Euphorbia Apios, tuberous spurge</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄπιος2">
+<Greek-Entry key="ἄπιος">
 	<English-Entry>far away, far off, distant</English-Entry>
 	<English-Entry>Apian</English-Entry>
 	<English-Entry>Peloponnesian</English-Entry>
@@ -63938,11 +63917,11 @@
 	<English-Entry>make plain</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπλυσία1">
+<Greek-Entry key="ἀπλυσία">
 	<English-Entry>filthiness, filth</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπλυσία2">
+<Greek-Entry key="ἀπλυσία">
 	<English-Entry>sponge</English-Entry>
 	<English-Entry>cannot be cleaned</English-Entry>
 </Greek-Entry>
@@ -64184,11 +64163,11 @@
 	<English-Entry>go away</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποβάθρα1">
+<Greek-Entry key="ἀποβάθρα">
 	<English-Entry>ladder for disembarking, gangway</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπόβαθρα2">
+<Greek-Entry key="ἀπόβαθρα">
 	<English-Entry>sacrifices on disembarkation</English-Entry>
 </Greek-Entry>
 
@@ -65313,12 +65292,12 @@
 	<English-Entry>sustain, hold out against</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποδέω1">
+<Greek-Entry key="ἀποδέω">
 	<English-Entry>bind fast, tie up</English-Entry>
 	<English-Entry>bind</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποδέω2">
+<Greek-Entry key="ἀποδέω">
 	<English-Entry>to be in want of, lack</English-Entry>
 	<English-Entry>lacking</English-Entry>
 	<English-Entry>save</English-Entry>
@@ -67387,13 +67366,13 @@
 	<English-Entry>lop off the branches</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποκλάζω1">
+<Greek-Entry key="ἀποκλάζω">
 	<English-Entry>-έκλαγξα</English-Entry>
 	<English-Entry>ring</English-Entry>
 	<English-Entry>shout forth</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποκλάζω2">
+<Greek-Entry key="ἀποκλάζω">
 	<English-Entry>bend one"s knees</English-Entry>
 	<English-Entry>rest</English-Entry>
 </Greek-Entry>
@@ -67427,12 +67406,12 @@
 	<English-Entry>loud wailing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποκλάω1">
+<Greek-Entry key="ἀποκλάω">
 	<English-Entry>break off</English-Entry>
 	<English-Entry>dress vines</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀποκλάω2">
+<Greek-Entry key="ἀποκλάω">
 	<English-Entry>[ᾱ</English-Entry>
 	<English-Entry>ἀποκλαίω.</English-Entry>
 </Greek-Entry>
@@ -70010,12 +69989,12 @@
 	<English-Entry>pass away from</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπονέω1">
+<Greek-Entry key="ἀπονέω">
 	<English-Entry>unload</English-Entry>
 	<English-Entry>throw off a load from</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπονέω2">
+<Greek-Entry key="ἀπονέω">
 	<English-Entry>to be without pain</English-Entry>
 </Greek-Entry>
 
@@ -70900,14 +70879,14 @@
 	<English-Entry>ἐμπλοκαί</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπόπλοος1">
+<Greek-Entry key="ἀπόπλοος">
 	<English-Entry>-πλους</English-Entry>
 	<English-Entry>sailing away</English-Entry>
 	<English-Entry>voyage home</English-Entry>
 	<English-Entry>back</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπόπλοος2">
+<Greek-Entry key="ἀπόπλοος">
 	<English-Entry>-πλους</English-Entry>
 	<English-Entry>starting on a voyage</English-Entry>
 	<English-Entry>unseaworthy</English-Entry>
@@ -71439,11 +71418,11 @@
 	<English-Entry>pathless</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπορέω1">
+<Greek-Entry key="ἀπορέω">
 	<English-Entry>ἀφοράω.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπορέω2">
+<Greek-Entry key="ἀπορέω">
 	<English-Entry>ἀπορηθήσομαι</English-Entry>
 	<English-Entry>ἠπορήθην</English-Entry>
 	<English-Entry>ἠπόρημαι</English-Entry>
@@ -74315,11 +74294,11 @@
 	<English-Entry>unhappy, ill-starred</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπότοκος1">
+<Greek-Entry key="ἀπότοκος">
 	<English-Entry>propagation</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπότοκος2">
+<Greek-Entry key="ἀπότοκος">
 	<English-Entry>resulting from</English-Entry>
 </Greek-Entry>
 
@@ -74956,7 +74935,7 @@
 	<English-Entry>ἡ ἑταίρα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπόφασις1">
+<Greek-Entry key="ἀπόφασις">
 	<English-Entry>denial, negation</English-Entry>
 	<English-Entry>a predication</English-Entry>
 	<English-Entry>away from</English-Entry>
@@ -74966,7 +74945,7 @@
 	<English-Entry>sign of negation</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπόφασις2">
+<Greek-Entry key="ἀπόφασις">
 	<English-Entry>, ̔ἀποφαίνὠ</English-Entry>
 	<English-Entry>sentence, decision</English-Entry>
 	<English-Entry>award</English-Entry>
@@ -76535,13 +76514,13 @@
 	<English-Entry>μὴ προορᾶν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπρόσκοπος1">
+<Greek-Entry key="ἀπρόσκοπος">
 	<English-Entry>not stumbling, void of offence</English-Entry>
 	<English-Entry>free from harm</English-Entry>
 	<English-Entry>giving no offence</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀπρόσκοπος2">
+<Greek-Entry key="ἀπρόσκοπος">
 	<English-Entry>unseeing</English-Entry>
 	<English-Entry>unexplored</English-Entry>
 </Greek-Entry>
@@ -77321,7 +77300,7 @@
 <Greek-Entry key="ἄρ">
 </Greek-Entry>
 
-<Greek-Entry key="ἄρα1">
+<Greek-Entry key="ἄρα">
 	<English-Entry>ἦ, ὅς, γάρ</English-Entry>
 	<English-Entry>ἐπεί</English-Entry>
 	<English-Entry>i[rtilde]</English-Entry>
@@ -77347,7 +77326,7 @@
 	<English-Entry>perhaps</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆρα2">
+<Greek-Entry key="ἆρα">
 	<English-Entry>anxiety</English-Entry>
 	<English-Entry>impatience</English-Entry>
 	<English-Entry>negative</English-Entry>
@@ -77491,7 +77470,7 @@
 	<English-Entry>thinly porous, flaccid</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀραῖος1">
+<Greek-Entry key="ἀραῖος">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>prayed to</English-Entry>
 	<English-Entry>entreated</English-Entry>
@@ -77500,7 +77479,7 @@
 	<English-Entry>cursing, bringing mischief upon</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀραιός2">
+<Greek-Entry key="ἀραιός">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>thin, slender</English-Entry>
 	<English-Entry>narrow</English-Entry>
@@ -78087,7 +78066,7 @@
 	<English-Entry>white, shining</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀργής1">
+<Greek-Entry key="ἀργής">
 	<English-Entry>ἀργέτι, ἀργέτα</English-Entry>
 	<English-Entry>bright, glancing</English-Entry>
 	<English-Entry>vivid</English-Entry>
@@ -78096,7 +78075,7 @@
 	<English-Entry>chalky</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀργῆς2">
+<Greek-Entry key="ἀργῆς">
 	<English-Entry>serpent</English-Entry>
 </Greek-Entry>
 
@@ -78269,7 +78248,7 @@
 	<English-Entry>Ἀργεῖος, Ἀργολίς, Ἀργολικός</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀργός1">
+<Greek-Entry key="ἀργός">
 	<English-Entry>shining, glistening</English-Entry>
 	<English-Entry>swift-footed</English-Entry>
 	<English-Entry>white</English-Entry>
@@ -78283,7 +78262,7 @@
 	<English-Entry>possessing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀργός2">
+<Greek-Entry key="ἀργός">
 	<English-Entry>ἀεργός</English-Entry>
 	<English-Entry>not working the ground</English-Entry>
 	<English-Entry>idle, lazy</English-Entry>
@@ -78872,7 +78851,7 @@
 <Greek-Entry key="Ἀρειοπαγίτης">
 </Greek-Entry>
 
-<Greek-Entry key="Ἄρειος1">
+<Greek-Entry key="Ἄρειος">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>devoted to Ares, warlike, martial</English-Entry>
 	<English-Entry>in real war</English-Entry>
@@ -78882,7 +78861,7 @@
 	<English-Entry>ludi Martiales</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="Ἄρειος2">
+<Greek-Entry key="Ἄρειος">
 	<English-Entry>πᾰ]</English-Entry>
 	<English-Entry>the hill of Ares</English-Entry>
 	<English-Entry>Areopagite</English-Entry>
@@ -79642,10 +79621,10 @@
 <Greek-Entry key="ἀρίπρεπτος">
 </Greek-Entry>
 
-<Greek-Entry key="ἄρις1">
+<Greek-Entry key="ἄρις">
 </Greek-Entry>
 
-<Greek-Entry key="ἀρίς2">
+<Greek-Entry key="ἀρίς">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>bow-drill</English-Entry>
 	<English-Entry>shrine</English-Entry>
@@ -79725,11 +79704,11 @@
 	<English-Entry>V M</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀριστεία1">
+<Greek-Entry key="ἀριστεία">
 	<English-Entry>excellence, prowess</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀριστεῖα2">
+<Greek-Entry key="ἀριστεῖα">
 	<English-Entry>the meed of valour</English-Entry>
 	<English-Entry>the reward</English-Entry>
 	<English-Entry>for prowess</English-Entry>
@@ -80261,7 +80240,7 @@
 	<English-Entry>burdock, Arctium Lappa</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρκιος1">
+<Greek-Entry key="ἄρκιος">
 	<English-Entry>to be relied on, sure, certain</English-Entry>
 	<English-Entry>hope</English-Entry>
 	<English-Entry>certain</English-Entry>
@@ -80275,19 +80254,19 @@
 	<English-Entry>it were better . . </English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρκιος2">
+<Greek-Entry key="ἄρκιος">
 </Greek-Entry>
 
 <Greek-Entry key="ἀρκόν">
 	<English-Entry>σχολήν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρκος1">
+<Greek-Entry key="ἄρκος">
 	<English-Entry>bear</English-Entry>
 	<English-Entry>bear-berry, Arctostaphylos Uva-ursi</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρκος2">
+<Greek-Entry key="ἄρκος">
 	<English-Entry>defence</English-Entry>
 </Greek-Entry>
 
@@ -80321,18 +80300,18 @@
 	<English-Entry>bearskin</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρκτικός1">
+<Greek-Entry key="ἀρκτικός">
 	<English-Entry>near the Bear, arctic, northern</English-Entry>
 	<English-Entry>the northern constellations</English-Entry>
 	<English-Entry>connected with the Great Bear</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρκτικός2">
+<Greek-Entry key="ἀρκτικός">
 	<English-Entry>initial, placed at the beginning</English-Entry>
 	<English-Entry>originative</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρκτικός3">
+<Greek-Entry key="ἀρκτικός">
 	<English-Entry>imperious</English-Entry>
 </Greek-Entry>
 
@@ -80457,12 +80436,12 @@
 	<English-Entry>unity</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρμα1">
+<Greek-Entry key="ἄρμα">
 	<English-Entry>that which one takes: food</English-Entry>
 	<English-Entry>burden, load</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρμα2">
+<Greek-Entry key="ἄρμα">
 	<English-Entry>union, love</English-Entry>
 </Greek-Entry>
 
@@ -80958,7 +80937,7 @@
 	<English-Entry>lambing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρνειος1">
+<Greek-Entry key="ἄρνειος">
 	<English-Entry>of a lamb</English-Entry>
 	<English-Entry>sheep</English-Entry>
 </Greek-Entry>
@@ -80969,7 +80948,7 @@
 	<English-Entry>a shop where lamb is sold, butcher"s shop</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρνειός2">
+<Greek-Entry key="ἀρνειός">
 	<English-Entry>ram, wether</English-Entry>
 	<English-Entry>Aries</English-Entry>
 </Greek-Entry>
@@ -81204,7 +81183,7 @@
 	<English-Entry>capable of ploughing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄροτος1">
+<Greek-Entry key="ἄροτος">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>corn-field</English-Entry>
 	<English-Entry>crop</English-Entry>
@@ -81217,7 +81196,7 @@
 	<English-Entry>season, year</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀροτός2">
+<Greek-Entry key="ἀροτός">
 	<English-Entry>arable</English-Entry>
 </Greek-Entry>
 
@@ -81391,7 +81370,7 @@
 	<English-Entry>πᾰ]</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁρπαγή1">
+<Greek-Entry key="ἁρπαγή">
 	<English-Entry>seizure, robbery, rape</English-Entry>
 	<English-Entry>of rape</English-Entry>
 	<English-Entry>thing seized, booty, prey</English-Entry>
@@ -81400,7 +81379,7 @@
 	<English-Entry>invisible</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁρπάγη2">
+<Greek-Entry key="ἁρπάγη">
 	<English-Entry>hook</English-Entry>
 	<English-Entry>grappling-iron</English-Entry>
 	<English-Entry>rake</English-Entry>
@@ -81987,11 +81966,11 @@
 	<English-Entry>serve as</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρρηφορία1">
+<Greek-Entry key="ἀρρηφορία">
 	<English-Entry>procession of</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρρηφόρια2">
+<Greek-Entry key="ἀρρηφόρια">
 	<English-Entry>festival at which this took place</English-Entry>
 </Greek-Entry>
 
@@ -83467,7 +83446,7 @@
 	<English-Entry>ῥυτίδα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρύω1">
+<Greek-Entry key="ἀρύω">
 	<English-Entry>ἀρύσομαι [ῠ</English-Entry>
 	<English-Entry>draw</English-Entry>
 	<English-Entry>drew off</English-Entry>
@@ -83481,7 +83460,7 @@
 	<English-Entry>rising from</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρύω2">
+<Greek-Entry key="ἀρύω">
 	<English-Entry>ἀρύει: ἀντὶ τοῦ λέγει, βοᾷ</English-Entry>
 	<English-Entry>ἀρύουσαι: λέγουσαι, κελεύουσαι</English-Entry>
 	<English-Entry>ἀρύσασθαι: ἐπικαλέσασθαι</English-Entry>
@@ -83622,13 +83601,13 @@
 	<English-Entry>become ancient</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρχαιρεσία1">
+<Greek-Entry key="ἀρχαιρεσία">
 	<English-Entry>-ιη</English-Entry>
 	<English-Entry>election of magistrates</English-Entry>
 	<English-Entry>an election</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀρχαιρέσια2">
+<Greek-Entry key="ἀρχαιρέσια">
 	<English-Entry>comitia</English-Entry>
 </Greek-Entry>
 
@@ -84708,13 +84687,13 @@
 <Greek-Entry key="ἀρῳδιός">
 </Greek-Entry>
 
-<Greek-Entry key="ἄρωμα1">
+<Greek-Entry key="ἄρωμα">
 	<English-Entry>ᾰρ]</English-Entry>
 	<English-Entry>aromatic herb</English-Entry>
 	<English-Entry>spice</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄρωμα2">
+<Greek-Entry key="ἄρωμα">
 	<English-Entry>ᾰρ]</English-Entry>
 	<English-Entry>arable land, corn-land</English-Entry>
 </Greek-Entry>
@@ -84787,11 +84766,11 @@
 	<English-Entry>λυπεῖσθαι</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆσαι1">
+<Greek-Entry key="ἆσαι">
 	<English-Entry>ἀάσαι</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆσαι2">
+<Greek-Entry key="ἆσαι">
 </Greek-Entry>
 
 <Greek-Entry key="ᾆσαι">
@@ -85223,14 +85202,14 @@
 	<English-Entry>causing discomfort</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀσηρός1">
+<Greek-Entry key="ἀσηρός">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>causing discomfort</English-Entry>
 	<English-Entry>feeling disgust, disdainful</English-Entry>
 	<English-Entry>feeling discomfort</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄσηρος2">
+<Greek-Entry key="ἄσηρος">
 	<English-Entry>without worms</English-Entry>
 </Greek-Entry>
 
@@ -85892,7 +85871,7 @@
 	<English-Entry>scrip, wallet</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄσκοπος1">
+<Greek-Entry key="ἄσκοπος">
 	<English-Entry>inconsiderate, heedless</English-Entry>
 	<English-Entry>unregardful of</English-Entry>
 	<English-Entry>heedlessly</English-Entry>
@@ -85904,7 +85883,7 @@
 	<English-Entry>unconsidered</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄσκοπος2">
+<Greek-Entry key="ἄσκοπος">
 	<English-Entry>aimless</English-Entry>
 </Greek-Entry>
 
@@ -88914,12 +88893,12 @@
 	<English-Entry>root-stock of asparagus</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀσφάραγος1">
+<Greek-Entry key="ἀσφάραγος">
 	<English-Entry>φᾰ]</English-Entry>
 	<English-Entry>throat, gullet</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀσφάραγος2">
+<Greek-Entry key="ἀσφάραγος">
 	<English-Entry>φᾰ]</English-Entry>
 	<English-Entry>stone sperage, Asparagus acutifolius</English-Entry>
 	<English-Entry>the edible shoots thereof</English-Entry>
@@ -89481,13 +89460,13 @@
 <Greek-Entry key="ἀτάω">
 </Greek-Entry>
 
-<Greek-Entry key="ἅτε1">
+<Greek-Entry key="ἅτε">
 	<English-Entry>ὅστε</English-Entry>
 	<English-Entry>just as, as if, so as</English-Entry>
 	<English-Entry>inasmuch as, seeing that</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἇτε2">
+<Greek-Entry key="ἇτε">
 </Greek-Entry>
 
 <Greek-Entry key="ἄτεγκτος">
@@ -90970,12 +90949,12 @@
 	<English-Entry>intact</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄττα1">
+<Greek-Entry key="ἄττα">
 	<English-Entry>ἄσσα</English-Entry>
 	<English-Entry>ἅσσα</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄττα2">
+<Greek-Entry key="ἄττα">
 	<English-Entry>father</English-Entry>
 </Greek-Entry>
 
@@ -91913,13 +91892,13 @@
 <Greek-Entry key="αὐλητήριον">
 </Greek-Entry>
 
-<Greek-Entry key="αὐλητής1">
+<Greek-Entry key="αὐλητής">
 	<English-Entry>flute-player</English-Entry>
 	<English-Entry>wasp</English-Entry>
 	<English-Entry>engineer</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐλήτης2">
+<Greek-Entry key="αὐλήτης">
 	<English-Entry>αὐλή</English-Entry>
 </Greek-Entry>
 
@@ -92319,10 +92298,10 @@
 	<English-Entry>growing</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὖξις1">
+<Greek-Entry key="αὖξις">
 </Greek-Entry>
 
-<Greek-Entry key="αὐξίς2">
+<Greek-Entry key="αὐξίς">
 	<English-Entry>κορδύλη</English-Entry>
 	<English-Entry>σκορδύλη</English-Entry>
 	<English-Entry>young of the tunny</English-Entry>
@@ -92388,11 +92367,11 @@
 	<English-Entry>withered of limb</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐονή1">
+<Greek-Entry key="αὐονή">
 	<English-Entry>dryness, withering, drought</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐονή2">
+<Greek-Entry key="αὐονή">
 	<English-Entry>αὔω</English-Entry>
 	<English-Entry>cry</English-Entry>
 </Greek-Entry>
@@ -92824,7 +92803,7 @@
 	<English-Entry>αὐθημερόν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐτίκᾰ">
+<Greek-Entry key="αὐτίκα">
 	<English-Entry>forthwith, at once, in a moment</English-Entry>
 	<English-Entry>on the spot</English-Entry>
 	<English-Entry>immediately</English-Entry>
@@ -93596,12 +93575,12 @@
 	<English-Entry>become Emperor</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐτοκρατορία1">
+<Greek-Entry key="αὐτοκρατορία">
 	<English-Entry>sovereignty</English-Entry>
 	<English-Entry>reign of an Emperor</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὐτοκρατόρια2">
+<Greek-Entry key="αὐτοκρατόρια">
 	<English-Entry>festival in honour of the Emperor</English-Entry>
 </Greek-Entry>
 
@@ -94236,71 +94215,18 @@
 </Greek-Entry>
 
 <Greek-Entry key="αὐτός">
-	<English-Entry>αὐτή, αὐτό</English-Entry>
-	<English-Entry>self</English-Entry>
 	<English-Entry>him, her, it</English-Entry>
 	<English-Entry>the very one, the same.</English-Entry>
 	<English-Entry>self, myself, thyself</English-Entry>
+	<English-Entry>the same</English-Entry>
 	<English-Entry>one"s true self</English-Entry>
-	<English-Entry>soul</English-Entry>
-	<English-Entry>body</English-Entry>
 	<English-Entry>oneself</English-Entry>
-	<English-Entry>the Master</English-Entry>
-	<English-Entry>Ipse dixit</English-Entry>
-	<English-Entry>the Master</English-Entry>
-	<English-Entry>the result</English-Entry>
-	<English-Entry>the very</English-Entry>
 	<English-Entry>just, exactly</English-Entry>
-	<English-Entry>close</English-Entry>
-	<English-Entry>very</English-Entry>
-	<English-Entry>the point</English-Entry>
-	<English-Entry>very</English-Entry>
-	<English-Entry>even</English-Entry>
-	<English-Entry>of oneself, of one"s own accord</English-Entry>
-	<English-Entry>in person</English-Entry>
 	<English-Entry>by oneself</English-Entry>
 	<English-Entry>itself, alone</English-Entry>
-	<English-Entry>alone</English-Entry>
-	<English-Entry>without a mother</English-Entry>
 	<English-Entry>by himself</English-Entry>
-	<English-Entry>by ourselves</English-Entry>
-	<English-Entry>among friends</English-Entry>
-	<English-Entry>and no others</English-Entry>
-	<English-Entry>himself</English-Entry>
-	<English-Entry>by</English-Entry>
 	<English-Entry>in itself</English-Entry>
 	<English-Entry>the ideal, abstract</English-Entry>
-	<English-Entry>its very self</English-Entry>
-	<English-Entry>in one, together</English-Entry>
-	<English-Entry>in hand</English-Entry>
-	<English-Entry>and all</English-Entry>
-	<English-Entry>and all</English-Entry>
-	<English-Entry>and all</English-Entry>
-	<English-Entry>himself</English-Entry>
-	<English-Entry>himself</English-Entry>
-	<English-Entry>himself</English-Entry>
-	<English-Entry>the same</English-Entry>
-	<English-Entry>his very self</English-Entry>
-	<English-Entry>he, she, it</English-Entry>
-	<English-Entry>the very one, the same</English-Entry>
-	<English-Entry>the same as</English-Entry>
-	<English-Entry>in the place with</English-Entry>
-	<English-Entry>meet</English-Entry>
-	<English-Entry>face to face</English-Entry>
-	<English-Entry>the said, the above-named</English-Entry>
-	<English-Entry>simply, merely</English-Entry>
-	<English-Entry>added together, making a total</English-Entry>
-	<English-Entry>together, at the same time</English-Entry>
-	<English-Entry>just then</English-Entry>
-	<English-Entry>of</English-Entry>
-	<English-Entry>by oneself, self-</English-Entry>
-	<English-Entry>independently</English-Entry>
-	<English-Entry>as a second self, very . . , bodily</English-Entry>
-	<English-Entry>in the abstract, the ideal</English-Entry>
-	<English-Entry>precisely</English-Entry>
-	<English-Entry>in one piece with, together with</English-Entry>
-	<English-Entry>by itself</English-Entry>
-	<English-Entry>only</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key="αὑτός">
@@ -94308,7 +94234,6 @@
 </Greek-Entry>
 
 <Greek-Entry key="αὐτοσανδαράκη">
-	<English-Entry>ρᾰ]</English-Entry>
 	<English-Entry>very</English-Entry>
 </Greek-Entry>
 
@@ -94411,7 +94336,6 @@
 </Greek-Entry>
 
 <Greek-Entry key="αὐτοστράτηγος">
-	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>general in independent command</English-Entry>
 </Greek-Entry>
 
@@ -94425,9 +94349,6 @@
 
 <Greek-Entry key="αὐτοσύμμετρος">
 	<English-Entry>ideally symmetrical</English-Entry>
-</Greek-Entry>
-
-<Greek-Entry key="αὐτοσυμφυής">
 </Greek-Entry>
 
 <Greek-Entry key="αὐτοσύστατος">
@@ -94492,6 +94413,7 @@
 </Greek-Entry>
 
 <Greek-Entry key="αὐτόσχολος">
+  <English-Entry>teaching oneself</English-Entry>
 </Greek-Entry>
 
 <Greek-Entry key="αὐτοσωκράτης">
@@ -95167,14 +95089,14 @@
 <Greek-Entry key="αὖχος">
 </Greek-Entry>
 
-<Greek-Entry key="αὔω1">
+<Greek-Entry key="αὔω">
 	<English-Entry>get a light, light a fire</English-Entry>
 	<English-Entry>take fire</English-Entry>
 	<English-Entry>ausa</English-Entry>
 	<English-Entry>haurio, haustum.</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὔω2">
+<Greek-Entry key="αὔω">
 	<English-Entry>ἤϋσα</English-Entry>
 	<English-Entry>cry out, shout, call aloud</English-Entry>
 	<English-Entry>utter</English-Entry>
@@ -95183,7 +95105,7 @@
 	<English-Entry>roar</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="αὔω3">
+<Greek-Entry key="αὔω">
 	<English-Entry>ἰαύω</English-Entry>
 </Greek-Entry>
 
@@ -96353,11 +96275,11 @@
 	<English-Entry>prophet</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄφθα1">
+<Greek-Entry key="ἄφθα">
 	<English-Entry>an infantile disease, thrush</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄφθα2">
+<Greek-Entry key="ἄφθα">
 </Greek-Entry>
 
 <Greek-Entry key="ἀφθαρσία">
@@ -97883,11 +97805,11 @@
 	<English-Entry>unable to escape</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀφυλακτέω1">
+<Greek-Entry key="ἀφυλακτέω">
 	<English-Entry>bark out</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀφυλακτέω2">
+<Greek-Entry key="ἀφυλακτέω">
 	<English-Entry>to be off one"s guard</English-Entry>
 	<English-Entry>to be careless about</English-Entry>
 	<English-Entry>to be ill-guarded</English-Entry>
@@ -98498,12 +98420,12 @@
 	<English-Entry>lament</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀχέω1">
+<Greek-Entry key="ἀχέω">
 	<English-Entry>ἰᾰχέω</English-Entry>
 	<English-Entry>utter</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἀχέω2">
+<Greek-Entry key="ἀχέω">
 	<English-Entry>ἠχέω</English-Entry>
 </Greek-Entry>
 
@@ -98838,12 +98760,12 @@
 	<English-Entry>ravenous hunger</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄχος1">
+<Greek-Entry key="ἄχος">
 	<English-Entry>ᾰ]</English-Entry>
 	<English-Entry>pain, distress</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἆχος2">
+<Greek-Entry key="ἆχος">
 	<English-Entry>ἦχος.</English-Entry>
 </Greek-Entry>
 
@@ -99240,10 +99162,10 @@
 	<English-Entry>insoluble</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄχω1">
+<Greek-Entry key="ἄχω">
 </Greek-Entry>
 
-<Greek-Entry key="ἀχώ2">
+<Greek-Entry key="ἀχώ">
 	<English-Entry>ἠχώ.</English-Entry>
 </Greek-Entry>
 
@@ -99503,7 +99425,7 @@
 	<English-Entry>μέγα, πλατύ, πολύ, ἰσχυρόν</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἁψίς1">
+<Greek-Entry key="ἁψίς">
 	<English-Entry>loop, mesh</English-Entry>
 	<English-Entry>nets</English-Entry>
 	<English-Entry>felloe</English-Entry>
@@ -99520,7 +99442,7 @@
 	<English-Entry>tier</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἅψις2">
+<Greek-Entry key="ἅψις">
 	<English-Entry>touching</English-Entry>
 	<English-Entry>contact</English-Entry>
 	<English-Entry>distraction of mind</English-Entry>
@@ -99613,16 +99535,16 @@
 	<English-Entry>materialistic</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄω1">
+<Greek-Entry key="ἄω">
 	<English-Entry>blow</English-Entry>
 	<English-Entry>sleep</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄω2">
+<Greek-Entry key="ἄω">
 	<English-Entry>hurt</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄω3">
+<Greek-Entry key="ἄω">
 	<English-Entry>ἄμεναι</English-Entry>
 	<English-Entry>ἆσαι</English-Entry>
 	<English-Entry>ἆται: πληροῦται</English-Entry>
@@ -99733,7 +99655,7 @@
 	<English-Entry>at midnight</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄωρος1">
+<Greek-Entry key="ἄωρος">
 	<English-Entry>untimely, unseasonable</English-Entry>
 	<English-Entry>too late</English-Entry>
 	<English-Entry>who die untimely</English-Entry>
@@ -99745,14 +99667,14 @@
 	<English-Entry>without youthful freshness, ugly</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄωρος2">
+<Greek-Entry key="ἄωρος">
 	<English-Entry>πλεκτάναι</English-Entry>
 	<English-Entry>κρεμαστοί, ἀπὸ τοῦ αἰωρῶ</English-Entry>
 	<English-Entry>ἄωροι πόδες</English-Entry>
 	<English-Entry>fore</English-Entry>
 </Greek-Entry>
 
-<Greek-Entry key="ἄωρος3">
+<Greek-Entry key="ἄωρος">
 	<English-Entry>sleep</English-Entry>
 </Greek-Entry>
 

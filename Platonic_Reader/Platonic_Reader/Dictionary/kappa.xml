@@ -7,11 +7,11 @@
 	  <English-Entry>κά</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κα1">
+  <Greek-Entry key="κα">
 	  <English-Entry>ἄν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κα2">
+  <Greek-Entry key="κα">
 	  <English-Entry>κατά</English-Entry>
 	  <English-Entry>κα τῶννυ</English-Entry>
 	  <English-Entry>καβαίνων</English-Entry>
@@ -316,7 +316,7 @@
 	  <English-Entry>vessels</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάδος1">
+  <Greek-Entry key="κάδος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>jar</English-Entry>
 	  <English-Entry>vessel for water</English-Entry>
@@ -325,7 +325,7 @@
 	  <English-Entry>funerary urn,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κᾶδος2">
+  <Greek-Entry key="κᾶδος">
 	  <English-Entry>κῆδος</English-Entry>
 	  <English-Entry>εἶδος σταφυλῆς</English-Entry>
 	  <English-Entry>καπρανές</English-Entry>
@@ -2334,53 +2334,16 @@
   <Greek-Entry key="καθώσπερ">
   </Greek-Entry>
 
-  <Greek-Entry key="καί1">
+  <Greek-Entry key="καί">
 	  <English-Entry>and</English-Entry>
 	  <English-Entry>even, also, just</English-Entry>
-	  <English-Entry>and</English-Entry>
-	  <English-Entry>and</English-Entry>
 	  <English-Entry>and specially</English-Entry>
-	  <English-Entry>and above all . .</English-Entry>
 	  <English-Entry>or</English-Entry>
-	  <English-Entry>and</English-Entry>
 	  <English-Entry>too . .</English-Entry>
-	  <English-Entry>pray</English-Entry>
 	  <English-Entry>but</English-Entry>
 	  <English-Entry>and yet</English-Entry>
-	  <English-Entry>as</English-Entry>
-	  <English-Entry>as</English-Entry>
-	  <English-Entry>not only . . , but also . .</English-Entry>
-	  <English-Entry>even, also, just</English-Entry>
-	  <English-Entry>even</English-Entry>
-	  <English-Entry>even</English-Entry>
-	  <English-Entry>full</English-Entry>
-	  <English-Entry>or</English-Entry>
-	  <English-Entry>also</English-Entry>
-	  <English-Entry>also</English-Entry>
-	  <English-Entry>also</English-Entry>
-	  <English-Entry>likewise</English-Entry>
-	  <English-Entry>b</English-Entry>
-	  <English-Entry>a</English-Entry>
-	  <English-Entry>also . .</English-Entry>
-	  <English-Entry>also</English-Entry>
-	  <English-Entry>full</English-Entry>
-	  <English-Entry>even so much as, were it but, just</English-Entry>
-	  <English-Entry>so much as</English-Entry>
-	  <English-Entry>just</English-Entry>
-	  <English-Entry>just</English-Entry>
-	  <English-Entry>how long ago</English-Entry>
-	  <English-Entry>where</English-Entry>
-	  <English-Entry>even, just</English-Entry>
-	  <English-Entry>e"en</English-Entry>
-	  <English-Entry>even if</English-Entry>
 	  <English-Entry>although, notwithstanding that</English-Entry>
-	  <English-Entry>had</English-Entry>
-	  <English-Entry>and if . .</English-Entry>
-	  <English-Entry>although, albeit</English-Entry>
-	  <English-Entry>how much soever</English-Entry>
 	  <English-Entry>although</English-Entry>
-	  <English-Entry>and</English-Entry>
-	  <English-Entry>also</English-Entry>
   </Greek-Entry>
 
   <Greek-Entry key="καιάδας">
@@ -2394,13 +2357,13 @@
 	  <English-Entry>abysses</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καὶ1">
+  <Greek-Entry key="καὶ">
 	  <English-Entry>for also, for in fact</English-Entry>
 	  <English-Entry>for else</English-Entry>
 	  <English-Entry>for of a surety</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καὶ2">
+  <Greek-Entry key="καὶ">
 	  <English-Entry>καὶ δέ</English-Entry>
 	  <English-Entry>καὶ δὴ καί</English-Entry>
   </Greek-Entry>
@@ -2722,7 +2685,7 @@
 	  <English-Entry>renew</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καί2">
+  <Greek-Entry key="καί">
 	  <English-Entry>and now</English-Entry>
   </Greek-Entry>
 
@@ -2739,7 +2702,7 @@
 	  <English-Entry>well-armed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καὶ3">
+  <Greek-Entry key="καὶ">
 	  <English-Entry>so now</English-Entry>
   </Greek-Entry>
 
@@ -2762,7 +2725,7 @@
 	  <English-Entry>ἀξίνη</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καί3">
+  <Greek-Entry key="καί">
 	  <English-Entry>and so</English-Entry>
   </Greek-Entry>
 
@@ -2828,7 +2791,7 @@
 	  <English-Entry>watching their opportunily</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καιρός1">
+  <Greek-Entry key="καιρός">
 	  <English-Entry>due measure, proportion, fitness</English-Entry>
 	  <English-Entry>distinction</English-Entry>
 	  <English-Entry>point</English-Entry>
@@ -2871,7 +2834,7 @@
 	  <English-Entry>seven,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καῖρος2">
+  <Greek-Entry key="καῖρος">
 	  <English-Entry>row of thrums</English-Entry>
 	  <English-Entry>ravel</English-Entry>
 	  <English-Entry>make fast these threads</English-Entry>
@@ -2998,10 +2961,10 @@
 	  <English-Entry>bake</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάκ1">
+  <Greek-Entry key="κάκ">
   </Greek-Entry>
 
-  <Greek-Entry key="κάκ2">
+  <Greek-Entry key="κάκ">
 	  <English-Entry>κατά</English-Entry>
 	  <English-Entry>κὰκ κεφαλῆς, κὰκ κεφαλήν</English-Entry>
 	  <English-Entry>κάγ, κάδ</English-Entry>
@@ -3199,11 +3162,11 @@
   <Greek-Entry key="κάκιστος">
   </Greek-Entry>
 
-  <Greek-Entry key="κακκάβη1">
+  <Greek-Entry key="κακκάβη">
 	  <English-Entry>three-legged pot</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κακκάβη2">
+  <Greek-Entry key="κακκάβη">
 	  <English-Entry>partridge</English-Entry>
   </Greek-Entry>
 
@@ -4685,7 +4648,7 @@
 	  <English-Entry>with poor foliage</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Χορος1">
+  <Greek-Entry key="Χορος">
   </Greek-Entry>
 
   <Greek-Entry key="Χρήσμων">
@@ -4705,7 +4668,7 @@
 	  <English-Entry>blotches</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Χροος1">
+  <Greek-Entry key="Χροος">
 	  <English-Entry>of bad complexion</English-Entry>
 	  <English-Entry>of bad coloration</English-Entry>
 	  <English-Entry>of bad colour</English-Entry>
@@ -5536,15 +5499,15 @@
   <Greek-Entry key="κάλκιος">
   </Greek-Entry>
 
-  <Greek-Entry key="κάλλα1">
+  <Greek-Entry key="κάλλα">
 	  <English-Entry>ἢ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάννα1">
+  <Greek-Entry key="κάννα">
 	  <English-Entry>κάλαμος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καλλά2">
+  <Greek-Entry key="καλλά">
 	  <English-Entry>καλά</English-Entry>
   </Greek-Entry>
 
@@ -5917,12 +5880,12 @@
 	  <English-Entry>goodness of wine,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάλλιον1">
+  <Greek-Entry key="κάλλιον">
 	  <English-Entry>καλλίων</English-Entry>
 	  <English-Entry>καλός</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάλλιον2">
+  <Greek-Entry key="κάλλιον">
 	  <English-Entry>καλλίας</English-Entry>
 	  <English-Entry>board</English-Entry>
 	  <English-Entry>bench of magistrates</English-Entry>
@@ -6250,7 +6213,7 @@
 	  <English-Entry>with fine pigs</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Χορος2">
+  <Greek-Entry key="Χορος">
 	  <English-Entry>with fair dancing-grounds</English-Entry>
 	  <English-Entry>of</English-Entry>
 	  <English-Entry>for beautiful dances</English-Entry>
@@ -6258,7 +6221,7 @@
 	  <English-Entry>beautiful in the dance</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Χροος2">
+  <Greek-Entry key="Χροος">
 	  <English-Entry>beautiful-coloured</English-Entry>
   </Greek-Entry>
 
@@ -6562,14 +6525,14 @@
 	  <English-Entry>PMag. Leid.V.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καλόπους1">
+  <Greek-Entry key="καλόπους">
   </Greek-Entry>
 
-  <Greek-Entry key="καλόπους2">
+  <Greek-Entry key="καλόπους">
 	  <English-Entry>with beautiful feet</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καλοπούς3">
+  <Greek-Entry key="καλοπούς">
 	  <English-Entry>καλωπούς</English-Entry>
 	  <English-Entry>: εὐοφθάλμους</English-Entry>
   </Greek-Entry>
@@ -6587,10 +6550,10 @@
   <Greek-Entry key="καλορρημοσύνη">
   </Greek-Entry>
 
-  <Greek-Entry key="κάλος1">
+  <Greek-Entry key="κάλος">
   </Greek-Entry>
 
-  <Greek-Entry key="καλός2">
+  <Greek-Entry key="καλός">
 	  <English-Entry>beautiful</English-Entry>
 	  <English-Entry>beautiful</English-Entry>
 	  <English-Entry>beauteous</English-Entry>
@@ -6701,14 +6664,14 @@
   <Greek-Entry key="κάλπασος">
   </Greek-Entry>
 
-  <Greek-Entry key="κάλπη1">
+  <Greek-Entry key="κάλπη">
 	  <English-Entry>trot</English-Entry>
 	  <English-Entry>trotting</English-Entry>
 	  <English-Entry>hlaufan</English-Entry>
 	  <English-Entry>laufen.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάλπη2">
+  <Greek-Entry key="κάλπη">
 	  <English-Entry>κάλπην</English-Entry>
 	  <English-Entry>pitcher</English-Entry>
 	  <English-Entry>cinerary urn</English-Entry>
@@ -6968,11 +6931,11 @@
 	  <English-Entry>with beautiful eyes</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καλῶς1">
+  <Greek-Entry key="καλῶς">
 	  <English-Entry>καλός</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάλως2">
+  <Greek-Entry key="κάλως">
 	  <English-Entry>κάλω</English-Entry>
 	  <English-Entry>κάλων</English-Entry>
 	  <English-Entry>κάλως</English-Entry>
@@ -7474,7 +7437,7 @@
 	  <English-Entry>puppets</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καμπή1">
+  <Greek-Entry key="καμπή">
 	  <English-Entry>winding</English-Entry>
 	  <English-Entry>flexion, bending</English-Entry>
 	  <English-Entry>curved part</English-Entry>
@@ -7486,7 +7449,7 @@
 	  <English-Entry>flexure</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάμπη2">
+  <Greek-Entry key="κάμπη">
 	  <English-Entry>caterpillar</English-Entry>
 	  <English-Entry>silk-worm</English-Entry>
 	  <English-Entry>ornament</English-Entry>
@@ -7995,7 +7958,7 @@
   <Greek-Entry key="κάνιστρον">
   </Greek-Entry>
 
-  <Greek-Entry key="κάννα2">
+  <Greek-Entry key="κάννα">
 	  <English-Entry>pole-reed, Arundo Donax</English-Entry>
 	  <English-Entry>reed-mat</English-Entry>
 	  <English-Entry>reedfence</English-Entry>
@@ -8523,11 +8486,11 @@
 	  <English-Entry>altar,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κᾶπος1">
+  <Greek-Entry key="κᾶπος">
 	  <English-Entry>κῆπος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάπος2">
+  <Greek-Entry key="κάπος">
 	  <English-Entry>breath</English-Entry>
   </Greek-Entry>
 
@@ -8725,11 +8688,11 @@
 	  <English-Entry>capon,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρ1">
+  <Greek-Entry key="κάρ">
 	  <English-Entry>κατά</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρ2">
+  <Greek-Entry key="κάρ">
 	  <English-Entry>τίω δέ μιν ἐν κᾰρὸς αἴσῃ</English-Entry>
 	  <English-Entry>α . .</English-Entry>
 	  <English-Entry>s worth</English-Entry>
@@ -8737,7 +8700,7 @@
 	  <English-Entry>upwards</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κᾶρ3">
+  <Greek-Entry key="κᾶρ">
 	  <English-Entry>κήρ</English-Entry>
   </Greek-Entry>
 
@@ -8749,7 +8712,7 @@
 	  <English-Entry>experimentum facere in corpore vili</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρα1">
+  <Greek-Entry key="κάρα">
 	  <English-Entry>κεφαλή</English-Entry>
 	  <English-Entry>head</English-Entry>
 	  <English-Entry>head</English-Entry>
@@ -8765,7 +8728,7 @@
 	  <English-Entry>hjarne</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρα2">
+  <Greek-Entry key="κάρα">
 	  <English-Entry>tame goat</English-Entry>
 	  <English-Entry>fig</English-Entry>
   </Greek-Entry>
@@ -9419,12 +9382,12 @@
 	  <English-Entry>ὕδρα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρος1">
+  <Greek-Entry key="κάρος">
 	  <English-Entry>heavy sleep, torpor</English-Entry>
 	  <English-Entry>drowsiness</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρός2">
+  <Greek-Entry key="καρός">
 	  <English-Entry>κωφός, οἱ δὲ σκοτόδινος</English-Entry>
   </Greek-Entry>
 
@@ -9520,7 +9483,7 @@
 	  <English-Entry>an aromatic plant, Valeriana Dioscoridis</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπίζω1">
+  <Greek-Entry key="καρπίζω">
 	  <English-Entry>καρπός</English-Entry>
 	  <English-Entry>enjoy the fruits of,</English-Entry>
 	  <English-Entry>exhaust</English-Entry>
@@ -9528,7 +9491,7 @@
 	  <English-Entry>make fruitful, fertilize</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπίζω2">
+  <Greek-Entry key="καρπίζω">
 	  <English-Entry>enfranchise a slave by touching him with the rod</English-Entry>
 	  <English-Entry>adseror,</English-Entry>
   </Greek-Entry>
@@ -9541,14 +9504,14 @@
 	  <English-Entry>from whom money can be wrung</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπίον1">
+  <Greek-Entry key="καρπίον">
 	  <English-Entry>καρπός</English-Entry>
 	  <English-Entry>ἐλλέβορος</English-Entry>
 	  <English-Entry>καρπία: κλονία</English-Entry>
 	  <English-Entry>κλωνία</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρπιον2">
+  <Greek-Entry key="κάρπιον">
 	  <English-Entry>screw-pine, Pandanus odoratissimus</English-Entry>
   </Greek-Entry>
 
@@ -9556,13 +9519,13 @@
 	  <English-Entry>Ἐπικάρπιος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπισμός1">
+  <Greek-Entry key="καρπισμός">
 	  <English-Entry>καρπίζω</English-Entry>
 	  <English-Entry>exhaustion</English-Entry>
 	  <English-Entry>profit</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπισμός2">
+  <Greek-Entry key="καρπισμός">
 	  <English-Entry>καρπίζω</English-Entry>
 	  <English-Entry>vindiciae,</English-Entry>
   </Greek-Entry>
@@ -9651,7 +9614,7 @@
 	  <English-Entry>making fruit</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπός1">
+  <Greek-Entry key="καρπός">
 	  <English-Entry>fruit</English-Entry>
 	  <English-Entry>the fruits of the earth, corn</English-Entry>
 	  <English-Entry>harvest</English-Entry>
@@ -9673,7 +9636,7 @@
 	  <English-Entry>harvest.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρπός2">
+  <Greek-Entry key="καρπός">
 	  <English-Entry>wrist</English-Entry>
 	  <English-Entry>huerfa</English-Entry>
   </Greek-Entry>
@@ -9984,12 +9947,12 @@
 	  <English-Entry>κράτιστος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καρτός1">
+  <Greek-Entry key="καρτός">
 	  <English-Entry>shorn smooth</English-Entry>
 	  <English-Entry>chopped, sliced</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάρτος2">
+  <Greek-Entry key="κάρτος">
 	  <English-Entry>κράτος</English-Entry>
 	  <English-Entry>strength, vigour</English-Entry>
 	  <English-Entry>violence, force</English-Entry>
@@ -10434,14 +10397,14 @@
 	  <English-Entry>κασαίρηὁν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κασῆς1">
+  <Greek-Entry key="κασῆς">
 	  <English-Entry>skin</English-Entry>
 	  <English-Entry>saddle</English-Entry>
 	  <English-Entry>horse-cloth</English-Entry>
 	  <English-Entry>kāsāh</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάσης2">
+  <Greek-Entry key="κάσης">
 	  <English-Entry>ἡλικιώτης</English-Entry>
   </Greek-Entry>
 
@@ -10682,7 +10645,7 @@
 	  <English-Entry>κατά</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατά1">
+  <Greek-Entry key="κατά">
 	  <English-Entry>καταί</English-Entry>
 	  <English-Entry>καταιβάτης</English-Entry>
 	  <English-Entry>downwards.</English-Entry>
@@ -10821,7 +10784,7 @@
 	  <English-Entry>disparaging</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατά2">
+  <Greek-Entry key="κατά">
 	  <English-Entry>κά</English-Entry>
 	  <English-Entry>καὶ εἶτα</English-Entry>
 	  <English-Entry>κατάβηθι</English-Entry>
@@ -11692,13 +11655,13 @@
 	  <English-Entry>far-fetched language</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάταγμα1">
+  <Greek-Entry key="κάταγμα">
 	  <English-Entry>wool drawn</English-Entry>
 	  <English-Entry>spun out, worsted</English-Entry>
 	  <English-Entry>flock of wool</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάταγμα2">
+  <Greek-Entry key="κάταγμα">
 	  <English-Entry>κατάγνυμι</English-Entry>
 	  <English-Entry>fragment</English-Entry>
 	  <English-Entry>breakage,</English-Entry>
@@ -12112,7 +12075,7 @@
   <Greek-Entry key="καταδεδίττομαι">
   </Greek-Entry>
 
-  <Greek-Entry key="καταδεής1">
+  <Greek-Entry key="καταδεής">
 	  <English-Entry>καταδέω</English-Entry>
 	  <English-Entry>wanting in, lacking</English-Entry>
 	  <English-Entry>needy</English-Entry>
@@ -12122,7 +12085,7 @@
 	  <English-Entry>very ill off</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταδεής2">
+  <Greek-Entry key="καταδεής">
 	  <English-Entry>timid</English-Entry>
   </Greek-Entry>
 
@@ -12236,7 +12199,7 @@
 	  <English-Entry>allow, permit of</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταδέω1">
+  <Greek-Entry key="καταδέω">
 	  <English-Entry>-δήσω</English-Entry>
 	  <English-Entry>bind on</English-Entry>
 	  <English-Entry>to, bind fast</English-Entry>
@@ -12251,7 +12214,7 @@
 	  <English-Entry>bind by spells, enchant</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταδέω2">
+  <Greek-Entry key="καταδέω">
 	  <English-Entry>lack, need</English-Entry>
 	  <English-Entry>wanting</English-Entry>
 	  <English-Entry>there was a lack</English-Entry>
@@ -12328,7 +12291,7 @@
 	  <English-Entry>to be consumed</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Χέω1">
+  <Greek-Entry key="Χέω">
 	  <English-Entry>diffuse completely</English-Entry>
   </Greek-Entry>
 
@@ -13555,7 +13518,7 @@
 	  <English-Entry>to be knocked down</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατακίκκας1">
+  <Greek-Entry key="κατακίκκας">
   </Greek-Entry>
 
   <Greek-Entry key="κατακινέω">
@@ -13606,11 +13569,11 @@
 	  <English-Entry>bewailing,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατακλάω1">
+  <Greek-Entry key="κατακλάω">
 	  <English-Entry>κατακλαίω</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατακλάω2">
+  <Greek-Entry key="κατακλάω">
 	  <English-Entry>break short, snap off</English-Entry>
 	  <English-Entry>bowed</English-Entry>
 	  <English-Entry>down</English-Entry>
@@ -13933,7 +13896,7 @@
 	  <English-Entry>ἢ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατακίκκας2">
+  <Greek-Entry key="κατακίκκας">
 	  <English-Entry>κατάπλασμα</English-Entry>
   </Greek-Entry>
 
@@ -14697,11 +14660,11 @@
 	  <English-Entry>dirge</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταλέγω1">
+  <Greek-Entry key="καταλέγω">
 	  <English-Entry>lay down</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταλέγω2">
+  <Greek-Entry key="καταλέγω">
 	  <English-Entry>recount, tell at length and in order</English-Entry>
 	  <English-Entry>which have been recounted</English-Entry>
 	  <English-Entry>tell</English-Entry>
@@ -14835,12 +14798,12 @@
 	  <English-Entry>worthy to be stoned</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταλεύω1">
+  <Greek-Entry key="καταλεύω">
 	  <English-Entry>stone to death</English-Entry>
 	  <English-Entry>condemn to work in mines</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταλεύω2">
+  <Greek-Entry key="καταλεύω">
 	  <English-Entry>ἀλεύω</English-Entry>
 	  <English-Entry>καταλεῦσαι</English-Entry>
   </Greek-Entry>
@@ -15574,12 +15537,12 @@
 	  <English-Entry>distribute</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάτισις1">
+  <Greek-Entry key="κάτισις">
 	  <English-Entry>division into parts</English-Entry>
 	  <English-Entry>distribution</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατισμός1">
+  <Greek-Entry key="κατισμός">
   </Greek-Entry>
 
   <Greek-Entry key="καταμέστιος">
@@ -16054,12 +16017,12 @@
 	  <English-Entry>overcloud</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατανέω1">
+  <Greek-Entry key="κατανέω">
 	  <English-Entry>-ένησα</English-Entry>
 	  <English-Entry>heap, pile up</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατανέω2">
+  <Greek-Entry key="κατανέω">
 	  <English-Entry>spin out</English-Entry>
   </Greek-Entry>
 
@@ -17165,7 +17128,7 @@
   <Greek-Entry key="καταπλέω">
   </Greek-Entry>
 
-  <Greek-Entry key="καταπλώω1">
+  <Greek-Entry key="καταπλώω">
 	  <English-Entry>sail down</English-Entry>
 	  <English-Entry>sail from the high sea to land, put in</English-Entry>
 	  <English-Entry>sail home</English-Entry>
@@ -17279,7 +17242,7 @@
 	  <English-Entry>home-coming by sea</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταπλώω2">
+  <Greek-Entry key="καταπλώω">
 	  <English-Entry>καταπλέω</English-Entry>
   </Greek-Entry>
 
@@ -18169,10 +18132,10 @@
 	  <English-Entry>condemnation</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταρρήσσω1">
+  <Greek-Entry key="καταρρήσσω">
   </Greek-Entry>
 
-  <Greek-Entry key="καταρρήσσω2">
+  <Greek-Entry key="καταρρήσσω">
 	  <English-Entry>καταρράσσω</English-Entry>
   </Greek-Entry>
 
@@ -19465,10 +19428,10 @@
 	  <English-Entry>adorned with stars</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καταστέρισις2">
+  <Greek-Entry key="καταστέρισις">
   </Greek-Entry>
 
-  <Greek-Entry key="καταστερισμός2">
+  <Greek-Entry key="καταστερισμός">
 	  <English-Entry>placing among the stars</English-Entry>
   </Greek-Entry>
 
@@ -23457,10 +23420,10 @@
   <Greek-Entry key="κατοικάς">
   </Greek-Entry>
 
-  <Greek-Entry key="κατοικεσία1">
+  <Greek-Entry key="κατοικεσία">
   </Greek-Entry>
 
-  <Greek-Entry key="κατοικέσια2">
+  <Greek-Entry key="κατοικέσια">
 	  <English-Entry>ἱερά</English-Entry>
 	  <English-Entry>anniversary festival of a colony,</English-Entry>
   </Greek-Entry>
@@ -23491,7 +23454,7 @@
   <Greek-Entry key="κατοικητήριος">
   </Greek-Entry>
 
-  <Greek-Entry key="κατοικία1">
+  <Greek-Entry key="κατοικία">
 	  <English-Entry>habitation</English-Entry>
 	  <English-Entry>farm, village</English-Entry>
 	  <English-Entry>dwelling-place,</English-Entry>
@@ -23504,7 +23467,7 @@
 	  <English-Entry>city</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κατοίκια2">
+  <Greek-Entry key="κατοίκια">
 	  <English-Entry>household goods</English-Entry>
   </Greek-Entry>
 
@@ -23867,12 +23830,12 @@
 	  <English-Entry>ὀπτίλος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάτοπτος1">
+  <Greek-Entry key="κάτοπτος">
 	  <English-Entry>visible</English-Entry>
 	  <English-Entry>looking down over</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάτοπτος2">
+  <Greek-Entry key="κάτοπτος">
 	  <English-Entry>dried-up</English-Entry>
 	  <English-Entry>over-baked</English-Entry>
   </Greek-Entry>
@@ -24241,11 +24204,11 @@
 	  <English-Entry>κακός</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κάττα1">
+  <Greek-Entry key="κάττα">
 	  <English-Entry>cat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καττά2">
+  <Greek-Entry key="καττά">
 	  <English-Entry>κατὰ τά</English-Entry>
 	  <English-Entry>κατὰ τάδε</English-Entry>
 	  <English-Entry>κατὰ τήν</English-Entry>
@@ -24760,14 +24723,14 @@
 	  <English-Entry>causing heat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καῦσος1">
+  <Greek-Entry key="καῦσος">
 	  <English-Entry>causus</English-Entry>
 	  <English-Entry>bilious remittent fever</English-Entry>
 	  <English-Entry>heartburn</English-Entry>
 	  <English-Entry>fever, heat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="καῦσος2">
+  <Greek-Entry key="καῦσος">
   </Greek-Entry>
 
   <Greek-Entry key="καυσόω">
@@ -25220,10 +25183,10 @@
 	  <English-Entry>serpent with millet-like protuberances</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεγχρίτης1">
+  <Greek-Entry key="κεγχρίτης">
   </Greek-Entry>
 
-  <Greek-Entry key="κεγχρίνης1">
+  <Greek-Entry key="κεγχρίνης">
 	  <English-Entry>ῐ],</English-Entry>
 	  <English-Entry>κεγχριδίας</English-Entry>
 	  <English-Entry>κεγχρίας</English-Entry>
@@ -25236,7 +25199,7 @@
 	  <English-Entry>grain of seed like millet</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεγχρίνης2">
+  <Greek-Entry key="κεγχρίνης">
   </Greek-Entry>
 
   <Greek-Entry key="κέγχρινος">
@@ -25249,7 +25212,7 @@
 	  <English-Entry>bunting</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεγχρίτης2">
+  <Greek-Entry key="κεγχρίτης">
 	  <English-Entry>ῑ],</English-Entry>
 	  <English-Entry>like millet</English-Entry>
 	  <English-Entry>stone</English-Entry>
@@ -25645,7 +25608,7 @@
 	  <English-Entry>κεῖμαι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κείω1">
+  <Greek-Entry key="κείω">
 	  <English-Entry>κεῖμαι, βῆ δ" ἴμεναι κείων</English-Entry>
 	  <English-Entry>to lie down</English-Entry>
 	  <English-Entry>to bed</English-Entry>
@@ -25655,7 +25618,7 @@
 	  <English-Entry>sleep, rest</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κείω2">
+  <Greek-Entry key="κείω">
 	  <English-Entry>cleave</English-Entry>
   </Greek-Entry>
 
@@ -27051,11 +27014,11 @@
 	  <English-Entry>κέρασον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεραί̈ς1">
+  <Greek-Entry key="κεραί̈ς">
 	  <English-Entry>worm that eats horn</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεραί̈ς2">
+  <Greek-Entry key="κεραί̈ς">
 	  <English-Entry>ί̈δος,</English-Entry>
   </Greek-Entry>
 
@@ -27383,12 +27346,12 @@
 	  <English-Entry>horns</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεράς1">
+  <Greek-Entry key="κεράς">
 	  <English-Entry>κεραός</English-Entry>
 	  <English-Entry>κεραί̈δες: τῶν προβάτων τὰ θήλεα, τὰ ἔνδον ὀδόντας ἔχοντα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεράς2">
+  <Greek-Entry key="κεράς">
 	  <English-Entry>mixed</English-Entry>
 	  <English-Entry>Fr.anon.</English-Entry>
   </Greek-Entry>
@@ -27424,14 +27387,14 @@
 	  <English-Entry>karšu.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεράστης1">
+  <Greek-Entry key="κεράστης">
 	  <English-Entry>horned</English-Entry>
 	  <English-Entry>horned serpent</English-Entry>
 	  <English-Entry>asp, Cerastes cornutus</English-Entry>
 	  <English-Entry>pest which destroys fig-trees</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεραστής2">
+  <Greek-Entry key="κεραστής">
 	  <English-Entry>one that mixes</English-Entry>
   </Greek-Entry>
 
@@ -27749,12 +27712,12 @@
 	  <English-Entry>σκέραφος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεράω1">
+  <Greek-Entry key="κεράω">
 	  <English-Entry>κεράννυμι</English-Entry>
 	  <English-Entry>κεράασθε</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κεράω2">
+  <Greek-Entry key="κεράω">
 	  <English-Entry>make horned</English-Entry>
 	  <English-Entry>take post on the wing</English-Entry>
 	  <English-Entry>flank</English-Entry>
@@ -28302,7 +28265,7 @@
 	  <English-Entry>jeering</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="ιος1">
+  <Greek-Entry key="ιος">
 	  <English-Entry>mocking, taunting</English-Entry>
   </Greek-Entry>
 
@@ -28344,18 +28307,18 @@
 	  <English-Entry>κέρχνος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κέρχνος1">
+  <Greek-Entry key="κέρχνος">
 	  <English-Entry>κατακερχνοῦται</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κέρχνος2">
+  <Greek-Entry key="κέρχνος">
 	  <English-Entry>rough excrescence</English-Entry>
 	  <English-Entry>roughness, hoarseness</English-Entry>
 	  <English-Entry>harsh croaking</English-Entry>
 	  <English-Entry>silverdust</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κέρχνος3">
+  <Greek-Entry key="κέρχνος">
 	  <English-Entry>rough, hoarse</English-Entry>
   </Greek-Entry>
 
@@ -29187,11 +29150,11 @@
 	  <English-Entry>ἐκεκράγ[ε]σαν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κήλας1">
+  <Greek-Entry key="κήλας">
 	  <English-Entry>adjutant, Leptoptilus argala</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηλάς2">
+  <Greek-Entry key="κηλάς">
 	  <English-Entry>mottled</English-Entry>
 	  <English-Entry>windy</English-Entry>
 	  <English-Entry>with a mark</English-Entry>
@@ -29296,14 +29259,14 @@
 	  <English-Entry>naevus</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῆλον1">
+  <Greek-Entry key="κῆλον">
 	  <English-Entry>shaft</English-Entry>
 	  <English-Entry>arrow</English-Entry>
 	  <English-Entry>the shafts</English-Entry>
 	  <English-Entry>timbers</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηλόν2">
+  <Greek-Entry key="κηλόν">
 	  <English-Entry>ξηρόν</English-Entry>
 	  <English-Entry>κήλεος, καυαλέος</English-Entry>
   </Greek-Entry>
@@ -29320,11 +29283,11 @@
 	  <English-Entry>herniotomist</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηλόω1">
+  <Greek-Entry key="κηλόω">
 	  <English-Entry>have an abnormal delivery</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηλόω2">
+  <Greek-Entry key="κηλόω">
 	  <English-Entry>κηλέω</English-Entry>
 	  <English-Entry>εὔχεσθαι θεῷ</English-Entry>
   </Greek-Entry>
@@ -29357,7 +29320,7 @@
 	  <English-Entry>μέτρ</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κημός1">
+  <Greek-Entry key="κημός">
 	  <English-Entry>εὐκᾱμία</English-Entry>
 	  <English-Entry>muzzle</English-Entry>
 	  <English-Entry>muzzles</English-Entry>
@@ -29371,7 +29334,7 @@
 	  <English-Entry>female ornament</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῆμος2">
+  <Greek-Entry key="κῆμος">
   </Greek-Entry>
 
   <Greek-Entry key="κημόω">
@@ -29591,14 +29554,14 @@
 	  <English-Entry>cera, wax tablet,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηραίνω1">
+  <Greek-Entry key="κηραίνω">
 	  <English-Entry>harm, destroy</English-Entry>
 	  <English-Entry>to be injured, spoiled, perish,</English-Entry>
 	  <English-Entry>to be blemished</English-Entry>
 	  <English-Entry>imperfect</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηραίνω2">
+  <Greek-Entry key="κηραίνω">
 	  <English-Entry>to be sick at heart, anxious</English-Entry>
 	  <English-Entry>at</English-Entry>
   </Greek-Entry>
@@ -29861,11 +29824,11 @@
 	  <English-Entry>modeller in wax,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηροτρόφος1">
+  <Greek-Entry key="κηροτρόφος">
 	  <English-Entry>death-breeding, deadly</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κηρότροφος2">
+  <Greek-Entry key="κηρότροφος">
 	  <English-Entry>waxen</English-Entry>
   </Greek-Entry>
 
@@ -30761,11 +30724,11 @@
   <Greek-Entry key="κιλλοβόροι">
   </Greek-Entry>
 
-  <Greek-Entry key="κίλλος1">
+  <Greek-Entry key="κίλλος">
 	  <English-Entry>ass,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κιλλός2">
+  <Greek-Entry key="κιλλός">
 	  <English-Entry>ass-coloured, grey</English-Entry>
   </Greek-Entry>
 
@@ -31522,13 +31485,13 @@
   <Greek-Entry key="κίρτος">
   </Greek-Entry>
 
-  <Greek-Entry key="κίς1">
+  <Greek-Entry key="κίς">
 	  <English-Entry>κιός</English-Entry>
 	  <English-Entry>κῖν</English-Entry>
 	  <English-Entry>weevil</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κις2">
+  <Greek-Entry key="κις">
   </Greek-Entry>
 
   <Greek-Entry key="κισηρίζω">
@@ -32259,13 +32222,13 @@
 	  <English-Entry>κλάδοι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Κλάριος1">
+  <Greek-Entry key="Κλάριος">
 	  <English-Entry>ᾱ],</English-Entry>
 	  <English-Entry>κλήριος</English-Entry>
 	  <English-Entry>distributing by lot</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="Κλάριος2">
+  <Greek-Entry key="Κλάριος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>of</English-Entry>
   </Greek-Entry>
@@ -32433,7 +32396,7 @@
 	  <English-Entry>to be bewailed, mournful</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλάω1">
+  <Greek-Entry key="κλάω">
 	  <English-Entry>ἔκλων</English-Entry>
 	  <English-Entry>ἀν</English-Entry>
 	  <English-Entry>κλάσω [ᾰ</English-Entry>
@@ -32451,7 +32414,7 @@
 	  <English-Entry>broken</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλάω2">
+  <Greek-Entry key="κλάω">
 	  <English-Entry>κλαίω</English-Entry>
   </Greek-Entry>
 
@@ -32693,17 +32656,17 @@
 	  <English-Entry>clitoris</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλειτός1">
+  <Greek-Entry key="κλειτός">
 	  <English-Entry>, ̔κλείω</English-Entry>
 	  <English-Entry>renowned, famous</English-Entry>
 	  <English-Entry>splendid, excellent</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλεῖτος1">
+  <Greek-Entry key="κλεῖτος">
 	  <English-Entry>κλέος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλεῖτος2">
+  <Greek-Entry key="κλεῖτος">
 	  <English-Entry>κλίτος</English-Entry>
   </Greek-Entry>
 
@@ -32711,7 +32674,7 @@
 	  <English-Entry>slope, hillside</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλείω1">
+  <Greek-Entry key="κλείω">
 	  <English-Entry>ἀπο</English-Entry>
 	  <English-Entry>κατα-κλιῶ</English-Entry>
 	  <English-Entry>ἐκλεισάμην</English-Entry>
@@ -32743,12 +32706,12 @@
 	  <English-Entry>deliver bound</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλείω2">
+  <Greek-Entry key="κλείω">
 	  <English-Entry>κλέω</English-Entry>
 	  <English-Entry>celebrate</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλείω3">
+  <Greek-Entry key="κλείω">
 	  <English-Entry>κλέω</English-Entry>
 	  <English-Entry>καλέω</English-Entry>
 	  <English-Entry>call</English-Entry>
@@ -32997,7 +32960,7 @@
   <Greek-Entry key="κλεψύδριον">
   </Greek-Entry>
 
-  <Greek-Entry key="κλέω1">
+  <Greek-Entry key="κλέω">
 	  <English-Entry>κλέομαι</English-Entry>
 	  <English-Entry>κλέω</English-Entry>
 	  <English-Entry>tell of, make famous, celebrate</English-Entry>
@@ -33011,7 +32974,7 @@
 	  <English-Entry>śṛṇóti</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλέω2">
+  <Greek-Entry key="κλέω">
 	  <English-Entry>call</English-Entry>
   </Greek-Entry>
 
@@ -33068,7 +33031,7 @@
 	  <English-Entry>name, appellation</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῄζω1">
+  <Greek-Entry key="κλῄζω">
 	  <English-Entry>κληί̈σω</English-Entry>
 	  <English-Entry>κλεί̈ξω</English-Entry>
 	  <English-Entry>κλεῖσον</English-Entry>
@@ -33087,7 +33050,7 @@
 	  <English-Entry>called</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῄζω2">
+  <Greek-Entry key="κλῄζω">
 	  <English-Entry>κλείω</English-Entry>
 	  <English-Entry>κλῄω</English-Entry>
 	  <English-Entry>shut,</English-Entry>
@@ -33255,7 +33218,7 @@
 	  <English-Entry>distributed by shaking the lots</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῆρος1">
+  <Greek-Entry key="κλῆρος">
 	  <English-Entry>, ὁ</English-Entry>
 	  <English-Entry>lot</English-Entry>
 	  <English-Entry>by lots</English-Entry>
@@ -33272,7 +33235,7 @@
 	  <English-Entry>clergy</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῆρος2">
+  <Greek-Entry key="κλῆρος">
 	  <English-Entry>a beetle destructive in bee-hives, Clerus apiarius</English-Entry>
   </Greek-Entry>
 
@@ -33383,7 +33346,7 @@
 	  <English-Entry>κλείς</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῆσις1">
+  <Greek-Entry key="κλῆσις">
 	  <English-Entry>calling, call</English-Entry>
 	  <English-Entry>calling into court, summons, prosecution</English-Entry>
 	  <English-Entry>invitation</English-Entry>
@@ -33398,7 +33361,7 @@
 	  <English-Entry>classis</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῆσις2">
+  <Greek-Entry key="κλῆσις">
 	  <English-Entry>κλείω</English-Entry>
 	  <English-Entry>closing</English-Entry>
   </Greek-Entry>
@@ -33835,12 +33798,12 @@
 	  <English-Entry>to the hut</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλίσιον1">
+  <Greek-Entry key="κλίσιον">
 	  <English-Entry>outbuildings round a</English-Entry>
 	  <English-Entry>herdsman"s cot</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλισίον2">
+  <Greek-Entry key="κλισίον">
   </Greek-Entry>
 
   <Greek-Entry key="κλίσις">
@@ -33883,14 +33846,14 @@
 	  <English-Entry>temporal</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλίτος1">
+  <Greek-Entry key="κλίτος">
 	  <English-Entry>ῐ],</English-Entry>
 	  <English-Entry>cliff</English-Entry>
 	  <English-Entry>clime</English-Entry>
 	  <English-Entry>side</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κλῖτος2">
+  <Greek-Entry key="κλῖτος">
   </Greek-Entry>
 
   <Greek-Entry key="κλοιόπους">
@@ -34657,7 +34620,7 @@
 	  <English-Entry>made of yellow wheat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνῆκος1">
+  <Greek-Entry key="κνῆκος">
 	  <English-Entry>safflower, Carthamus tinctorius</English-Entry>
 	  <English-Entry>Carthamus leucocaulos</English-Entry>
 	  <English-Entry>blessed thistle, Cnicus benedictus</English-Entry>
@@ -34665,7 +34628,7 @@
 	  <English-Entry>yellow</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνηκός2">
+  <Greek-Entry key="κνηκός">
 	  <English-Entry>pale yellow, tawny</English-Entry>
 	  <English-Entry>kāñcanam</English-Entry>
 	  <English-Entry>cucan</English-Entry>
@@ -34822,13 +34785,13 @@
 	  <English-Entry>irritating</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνῆστις1">
+  <Greek-Entry key="κνῆστις">
 	  <English-Entry>grater</English-Entry>
 	  <English-Entry>gratings</English-Entry>
 	  <English-Entry>spine</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνηστίς2">
+  <Greek-Entry key="κνηστίς">
 	  <English-Entry>hollow hair-pin</English-Entry>
   </Greek-Entry>
 
@@ -35028,10 +34991,10 @@
 	  <English-Entry>savoury meat, gourmand</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνῖσος1">
+  <Greek-Entry key="κνῖσος">
   </Greek-Entry>
 
-  <Greek-Entry key="κνισός2">
+  <Greek-Entry key="κνισός">
   </Greek-Entry>
 
   <Greek-Entry key="κνισοτηρητής">
@@ -35080,14 +35043,14 @@
 	  <English-Entry>τὸ ἐλάχιστον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνύζα1">
+  <Greek-Entry key="κνύζα">
 	  <English-Entry>itch</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κνύζα2">
+  <Greek-Entry key="κνύζα">
   </Greek-Entry>
 
-  <Greek-Entry key="κνύζα3">
+  <Greek-Entry key="κνύζα">
 	  <English-Entry>corrupt, wrinkled</English-Entry>
   </Greek-Entry>
 
@@ -37976,11 +37939,11 @@
 	  <English-Entry>comitium,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομέω1">
+  <Greek-Entry key="κομέω">
 	  <English-Entry>take care of, tend</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομέω2">
+  <Greek-Entry key="κομέω">
 	  <English-Entry>κομάω</English-Entry>
   </Greek-Entry>
 
@@ -38204,18 +38167,18 @@
   <Greek-Entry key="κομμιώδης">
   </Greek-Entry>
 
-  <Greek-Entry key="κομμός1">
+  <Greek-Entry key="κομμός">
 	  <English-Entry>striking</English-Entry>
 	  <English-Entry>beating of the head and breast in lamentation</English-Entry>
 	  <English-Entry>dirge, lament</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομμός2">
+  <Greek-Entry key="κομμός">
 	  <English-Entry>care bestowed on dress</English-Entry>
 	  <English-Entry>adornment</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομμός3">
+  <Greek-Entry key="κομμός">
 	  <English-Entry>molar teeth</English-Entry>
   </Greek-Entry>
 
@@ -38224,11 +38187,11 @@
 	  <English-Entry>Bis Acc.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομμώ1">
+  <Greek-Entry key="κομμώ">
 	  <English-Entry>priestess who adorned</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομμῶ2">
+  <Greek-Entry key="κομμῶ">
 	  <English-Entry>πλεκτάναι</English-Entry>
   </Greek-Entry>
 
@@ -38352,7 +38315,7 @@
 	  <English-Entry>boastful speaking</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόμπος1">
+  <Greek-Entry key="κόμπος">
 	  <English-Entry>din, clash</English-Entry>
 	  <English-Entry>stamping</English-Entry>
 	  <English-Entry>ringing</English-Entry>
@@ -38362,7 +38325,7 @@
 	  <English-Entry>molar teeth</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κομπός2">
+  <Greek-Entry key="κομπός">
   </Greek-Entry>
 
   <Greek-Entry key="κομποφακελορρήμων">
@@ -38656,7 +38619,7 @@
 	  <English-Entry>shoe covering a small part of the foot</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόνις1">
+  <Greek-Entry key="κόνις">
 	  <English-Entry>κόνι</English-Entry>
 	  <English-Entry>κόνιι</English-Entry>
 	  <English-Entry>κόνει</English-Entry>
@@ -38668,7 +38631,7 @@
 	  <English-Entry>cinis.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κονίς2">
+  <Greek-Entry key="κονίς">
 	  <English-Entry>κονίδες</English-Entry>
 	  <English-Entry>eggs of lice, fleas, and bugs, nits</English-Entry>
 	  <English-Entry>hnitu</English-Entry>
@@ -38760,10 +38723,10 @@
 	  <English-Entry>essay</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοντάριον1">
+  <Greek-Entry key="κοντάριον">
   </Greek-Entry>
 
-  <Greek-Entry key="κοντάριον2">
+  <Greek-Entry key="κοντάριον">
 	  <English-Entry>κοντός</English-Entry>
 	  <English-Entry>spear</English-Entry>
 	  <English-Entry>one armed with a spear</English-Entry>
@@ -38797,14 +38760,14 @@
 	  <English-Entry>short road</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοντός1">
+  <Greek-Entry key="κοντός">
 	  <English-Entry>pole, punting-pole</English-Entry>
 	  <English-Entry>pike</English-Entry>
 	  <English-Entry>crutch</English-Entry>
 	  <English-Entry>goad,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοντός2">
+  <Greek-Entry key="κοντός">
 	  <English-Entry>short</English-Entry>
 	  <English-Entry>shorter</English-Entry>
   </Greek-Entry>
@@ -38968,20 +38931,20 @@
   <Greek-Entry key="κοπίδερμος">
   </Greek-Entry>
 
-  <Greek-Entry key="κοπίζω1">
+  <Greek-Entry key="κοπίζω">
 	  <English-Entry>κόπις</English-Entry>
 	  <English-Entry>talk idly, lie</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοπίζω2">
+  <Greek-Entry key="κοπίζω">
 	  <English-Entry>celebrate the</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόπις1">
+  <Greek-Entry key="κόπις">
 	  <English-Entry>prater, liar, wrangler</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοπίς2">
+  <Greek-Entry key="κοπίς">
 	  <English-Entry>chopper, cleaver</English-Entry>
 	  <English-Entry>broad curued knife</English-Entry>
 	  <English-Entry>sting of a scorpion</English-Entry>
@@ -39383,11 +39346,11 @@
   <Greek-Entry key="κορακινίς">
   </Greek-Entry>
 
-  <Greek-Entry key="κοράκινος1">
+  <Greek-Entry key="κοράκινος">
 	  <English-Entry>like a raven, raven-black,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορακῖνος2">
+  <Greek-Entry key="κορακῖνος">
 	  <English-Entry>young raven</English-Entry>
   </Greek-Entry>
 
@@ -39557,11 +39520,11 @@
 	  <English-Entry>πανοῦργος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορεία1">
+  <Greek-Entry key="κορεία">
 	  <English-Entry>brushing: attendance</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορεία2">
+  <Greek-Entry key="κορεία">
 	  <English-Entry>maidenhood</English-Entry>
   </Greek-Entry>
 
@@ -39607,11 +39570,11 @@
 	  <English-Entry>b</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορέω1">
+  <Greek-Entry key="κορέω">
 	  <English-Entry>sweep out</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορέω2">
+  <Greek-Entry key="κορέω">
   </Greek-Entry>
 
   <Greek-Entry key="κόρη">
@@ -39694,11 +39657,11 @@
 	  <English-Entry>fondle, caress</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορίζω1">
+  <Greek-Entry key="κορίζω">
 	  <English-Entry>to be infested with bugs,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορίζω2">
+  <Greek-Entry key="κορίζω">
 	  <English-Entry>κόρος</English-Entry>
 	  <English-Entry>sweep</English-Entry>
 	  <English-Entry>sift, clean</English-Entry>
@@ -39756,12 +39719,12 @@
 	  <English-Entry>like coriander</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόριον1">
+  <Greek-Entry key="κόριον">
 	  <English-Entry>κόρη</English-Entry>
 	  <English-Entry>little girl</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόριον2">
+  <Greek-Entry key="κόριον">
 	  <English-Entry>κορίαννον</English-Entry>
 	  <English-Entry>κ. ἔνυδρον,</English-Entry>
 	  <English-Entry>κ. ἄγριον,</English-Entry>
@@ -39833,7 +39796,7 @@
 	  <English-Entry>collecting of</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορμός1">
+  <Greek-Entry key="κορμός">
 	  <English-Entry>trunk</English-Entry>
 	  <English-Entry>logs</English-Entry>
 	  <English-Entry>block</English-Entry>
@@ -39842,7 +39805,7 @@
 	  <English-Entry>sluice,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόρμος2">
+  <Greek-Entry key="κόρμος">
   </Greek-Entry>
 
   <Greek-Entry key="κορνικουλάριος">
@@ -39889,14 +39852,14 @@
 	  <English-Entry>modeller of small figures, imagemaker</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόρος1">
+  <Greek-Entry key="κόρος">
 	  <English-Entry>satiety, surfeit</English-Entry>
 	  <English-Entry>gormandizing</English-Entry>
 	  <English-Entry>the consequence of satiety, insolence</English-Entry>
 	  <English-Entry>insolently</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόρος2">
+  <Greek-Entry key="κόρος">
 	  <English-Entry>boy, lad</English-Entry>
 	  <English-Entry>male infant</English-Entry>
 	  <English-Entry>servants</English-Entry>
@@ -39907,7 +39870,7 @@
 	  <English-Entry>Ceres, Cerus, cresco.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κόρος3">
+  <Greek-Entry key="κόρος">
 	  <English-Entry>besom</English-Entry>
   </Greek-Entry>
 
@@ -39915,11 +39878,11 @@
 	  <English-Entry>kor</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορός1">
+  <Greek-Entry key="κορός">
 	  <English-Entry>dark, black</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κορός2">
+  <Greek-Entry key="κορός">
 	  <English-Entry>pure</English-Entry>
   </Greek-Entry>
 
@@ -41473,7 +41436,7 @@
 	  <English-Entry>nuptial, bridal</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κουρίζω1">
+  <Greek-Entry key="κουρίζω">
 	  <English-Entry>κοῦρος</English-Entry>
 	  <English-Entry>to be a youth</English-Entry>
 	  <English-Entry>to be a girl</English-Entry>
@@ -41484,7 +41447,7 @@
 	  <English-Entry>to manhood</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κουρίζω2">
+  <Greek-Entry key="κουρίζω">
 	  <English-Entry>clip, shear</English-Entry>
 	  <English-Entry>when clipped</English-Entry>
   </Greek-Entry>
@@ -41538,11 +41501,11 @@
 	  <English-Entry>nursing-mother</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοῦρος1">
+  <Greek-Entry key="κοῦρος">
 	  <English-Entry>κόρος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κοῦρος2">
+  <Greek-Entry key="κοῦρος">
 	  <English-Entry>loppings, twigs stripped from a tree</English-Entry>
   </Greek-Entry>
 
@@ -42005,12 +41968,12 @@
 	  <English-Entry>to be agitated, tremble</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράδαλος1">
+  <Greek-Entry key="κράδαλος">
 	  <English-Entry>κρᾰ],</English-Entry>
 	  <English-Entry>fig-tree branch</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κραδαλός2">
+  <Greek-Entry key="κραδαλός">
 	  <English-Entry>quivering</English-Entry>
   </Greek-Entry>
 
@@ -42264,12 +42227,12 @@
 	  <English-Entry>cabbage-caterpillar</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράμβος1">
+  <Greek-Entry key="κράμβος">
 	  <English-Entry>καπυρός</English-Entry>
 	  <English-Entry>loud, ringing</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράμβος2">
+  <Greek-Entry key="κράμβος">
 	  <English-Entry>blight in grapes, when they shrivel</English-Entry>
   </Greek-Entry>
 
@@ -42349,13 +42312,13 @@
 	  <English-Entry>bald-crowned, bald-headed,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρανίον1">
+  <Greek-Entry key="κρανίον">
 	  <English-Entry>upper part of the head, skull</English-Entry>
 	  <English-Entry>head</English-Entry>
 	  <English-Entry>headache,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράνιον2">
+  <Greek-Entry key="κράνιον">
 	  <English-Entry>ᾰ],</English-Entry>
   </Greek-Entry>
 
@@ -42385,14 +42348,14 @@
 	  <English-Entry>helmetmaker</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράνος1">
+  <Greek-Entry key="κράνος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>helmet</English-Entry>
 	  <English-Entry>ship"s ram</English-Entry>
 	  <English-Entry>hard</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράνος2">
+  <Greek-Entry key="κράνος">
 	  <English-Entry>ᾰ],</English-Entry>
 	  <English-Entry>κράνον</English-Entry>
 	  <English-Entry>rod of cherry-wood,</English-Entry>
@@ -42439,7 +42402,7 @@
   <Greek-Entry key="κράριον">
   </Greek-Entry>
 
-  <Greek-Entry key="κράς1">
+  <Greek-Entry key="κράς">
 	  <English-Entry>κάρα</English-Entry>
 	  <English-Entry>κρατός</English-Entry>
 	  <English-Entry>κρᾶτα,</English-Entry>
@@ -42458,7 +42421,7 @@
 	  <English-Entry>from head to foot, entirely</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρᾶς2">
+  <Greek-Entry key="κρᾶς">
 	  <English-Entry>κρέας, τινὲς δὲ κεφαλή</English-Entry>
 	  <English-Entry>κράς</English-Entry>
   </Greek-Entry>
@@ -42946,7 +42909,7 @@
 	  <English-Entry>power, might</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κράτος1">
+  <Greek-Entry key="κράτος">
 	  <English-Entry>strength, might</English-Entry>
 	  <English-Entry>bodily strength</English-Entry>
 	  <English-Entry>strength</English-Entry>
@@ -42969,7 +42932,7 @@
 	  <English-Entry>ten,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρατός2">
+  <Greek-Entry key="κρατός">
 	  <English-Entry>κράς</English-Entry>
   </Greek-Entry>
 
@@ -43086,11 +43049,11 @@
 	  <English-Entry>parched</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κραῦρος1">
+  <Greek-Entry key="κραῦρος">
 	  <English-Entry>a disease of bees</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κραῦρος2">
+  <Greek-Entry key="κραῦρος">
 	  <English-Entry>brittle, friable</English-Entry>
 	  <English-Entry>dry and cold</English-Entry>
   </Greek-Entry>
@@ -43244,12 +43207,12 @@
 	  <English-Entry>to be diseased, have excrescences</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρείων1">
+  <Greek-Entry key="κρείων">
 	  <English-Entry>ruler, lord, master</English-Entry>
 	  <English-Entry>queen</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρειῶν2">
+  <Greek-Entry key="κρειῶν">
 	  <English-Entry>κρέας</English-Entry>
   </Greek-Entry>
 
@@ -43541,10 +43504,10 @@
 	  <English-Entry>meat</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρέων1">
+  <Greek-Entry key="κρέων">
   </Greek-Entry>
 
-  <Greek-Entry key="κρεών2">
+  <Greek-Entry key="κρεών">
 	  <English-Entry>larder,</English-Entry>
   </Greek-Entry>
 
@@ -43637,7 +43600,7 @@
 	  <English-Entry>using big, rugged words</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρημνός1">
+  <Greek-Entry key="κρημνός">
 	  <English-Entry>overhanging bank</English-Entry>
 	  <English-Entry>bank</English-Entry>
 	  <English-Entry>edge</English-Entry>
@@ -43647,7 +43610,7 @@
 	  <English-Entry>labia pudendi</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρημνός2">
+  <Greek-Entry key="κρημνός">
   </Greek-Entry>
 
   <Greek-Entry key="κρημνοφοβέομαι">
@@ -44973,11 +44936,11 @@
 	  <English-Entry>courses, steps</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κρόσσιον1">
+  <Greek-Entry key="κρόσσιον">
 	  <English-Entry>-όφθοον</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κροσσίον2">
+  <Greek-Entry key="κροσσίον">
   </Greek-Entry>
 
   <Greek-Entry key="κροσσοί">
@@ -47116,13 +47079,13 @@
 	  <English-Entry>Bis Acc.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῦδος1">
+  <Greek-Entry key="κῦδος">
 	  <English-Entry>glory, renown</English-Entry>
 	  <English-Entry>glory</English-Entry>
 	  <English-Entry>glory</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κύδος2">
+  <Greek-Entry key="κύδος">
 	  <English-Entry>reproach, abuse</English-Entry>
   </Greek-Entry>
 
@@ -48242,13 +48205,13 @@
   <Greek-Entry key="κυμβεῖον">
   </Greek-Entry>
 
-  <Greek-Entry key="κύμβη1">
+  <Greek-Entry key="κύμβη">
 	  <English-Entry>hollow of a vessel: drinking-cup, bowl</English-Entry>
 	  <English-Entry>boat</English-Entry>
 	  <English-Entry>knapsack, wallet</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κύμβη2">
+  <Greek-Entry key="κύμβη">
 	  <English-Entry>head,</English-Entry>
 	  <English-Entry>bird</English-Entry>
 	  <English-Entry>tumbler</English-Entry>
@@ -49300,11 +49263,11 @@
   <Greek-Entry key="κυπρινέλαιον">
   </Greek-Entry>
 
-  <Greek-Entry key="κύπρινος1">
+  <Greek-Entry key="κύπρινος">
 	  <English-Entry>made of copper</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κύπρινος2">
+  <Greek-Entry key="κύπρινος">
 	  <English-Entry>made from the flower of</English-Entry>
 	  <English-Entry>Edict. Diocl.Delph.</English-Entry>
 	  <English-Entry>oil</English-Entry>
@@ -49810,13 +49773,13 @@
 	  <English-Entry>ἑταίρα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κύρτος1">
+  <Greek-Entry key="κύρτος">
 	  <English-Entry>μήτε ἐγρηγορόσιν μήτε εὕδουσι κύρτοις ἀργὸν θήραν διαπονουμένοις</English-Entry>
 	  <English-Entry>weels</English-Entry>
 	  <English-Entry>bird-cage</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κυρτός2">
+  <Greek-Entry key="κυρτός">
 	  <English-Entry>bulging, swelling</English-Entry>
 	  <English-Entry>humped</English-Entry>
 	  <English-Entry>hunchbacked,</English-Entry>
@@ -50116,7 +50079,7 @@
 	  <English-Entry>have curvature of the spine</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κυφός1">
+  <Greek-Entry key="κυφός">
 	  <English-Entry>bent forwards, stooping, hunchbacked</English-Entry>
 	  <English-Entry>curvature</English-Entry>
 	  <English-Entry>shrimps</English-Entry>
@@ -50124,7 +50087,7 @@
 	  <English-Entry>curved, round</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῦφος2">
+  <Greek-Entry key="κῦφος">
 	  <English-Entry>hump, hunch</English-Entry>
   </Greek-Entry>
 
@@ -51393,13 +51356,13 @@
 	  <English-Entry>to Cos</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῶς1">
+  <Greek-Entry key="κῶς">
 	  <English-Entry>κῶας</English-Entry>
 	  <English-Entry>public prison</English-Entry>
 	  <English-Entry>prisoners</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="κῶς2">
+  <Greek-Entry key="κῶς">
 	  <English-Entry>πῶς</English-Entry>
   </Greek-Entry>
 

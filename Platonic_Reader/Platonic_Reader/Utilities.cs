@@ -266,12 +266,13 @@ namespace Platonic_Reader
 
         public static string CallDictionaryDefinition(string greekWord)
         {
-            string definition = "";
+            string definition = "cant find it";
 
             if (greekWord !="," && greekWord != "·" && greekWord != "." && greekWord != ";" && greekWord != "—")
             { 
                 var assembly = typeof(MainPage).GetTypeInfo().Assembly;
                 var stream = assembly.GetManifestResourceStream($"Platonic_Reader.Dictionary.{GetDictionarySegmentFile(greekWord)}");
+                int count = 0;
 
                 using (XmlReader reader = XmlReader.Create(stream))
                 {
@@ -279,21 +280,13 @@ namespace Platonic_Reader
                     {
                         if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
                         {
-                            if (reader.ReadToDescendant("English-Entry"))
+                            definition = "";
+                            reader.ReadToDescendant("English-Entry");                            
+                            do
                             {
-                                definition = reader.Name;
-                                //do
-                                //{
-                                //    //reader.Read();
-                                //    definition = reader.ReadContentAsString();
-
-                                //} while (reader.ReadToNextSibling("English-Entry"));
-                            }
-                            break;
-                        }
-                        else
-                        {
-                            definition = $"This Root Lemma: {greekWord} Is Not In My Dictionary";
+                                definition += $"{reader.ReadString()}\n";
+                                count++;
+                            } while (reader.ReadToNextSibling("English-Entry"));
                         }
                     }
                 }
@@ -365,6 +358,15 @@ namespace Platonic_Reader
                     xmlFileTitle = @"epsilon";
                     break;
                 case 'ἔ':
+                    xmlFileTitle = @"epsilon";
+                    break;
+                case 'ἕ':
+                    xmlFileTitle = @"epsilon";
+                    break;
+                case 'ἓ':
+                    xmlFileTitle = @"epsilon";
+                    break;
+                case 'ἒ':
                     xmlFileTitle = @"epsilon";
                     break;
                 case 'ζ':

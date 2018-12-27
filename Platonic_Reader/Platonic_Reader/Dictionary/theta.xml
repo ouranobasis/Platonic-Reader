@@ -517,11 +517,11 @@
 	  <English-Entry>, ̔ὤψ̓</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θαλέω1">
+  <Greek-Entry key="θαλέω">
 	  <English-Entry>θηλέω</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θαλέω2">
+  <Greek-Entry key="θαλέω">
 	  <English-Entry>θαλέεσκε</English-Entry>
   </Greek-Entry>
 
@@ -779,13 +779,13 @@
 	  <English-Entry>to be terrified</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θάμβος1">
+  <Greek-Entry key="θάμβος">
 	  <English-Entry>amazement</English-Entry>
 	  <English-Entry>terrors</English-Entry>
 	  <English-Entry>object of wonder,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θαμβός2">
+  <Greek-Entry key="θαμβός">
 	  <English-Entry>astonished</English-Entry>
   </Greek-Entry>
 
@@ -1432,13 +1432,13 @@
   <Greek-Entry key="θαυμάτουργθε">
   </Greek-Entry>
 
-  <Greek-Entry key="θεά1">
+  <Greek-Entry key="θεά">
 	  <English-Entry>θεῆς, θεῇσι</English-Entry>
 	  <English-Entry>θεός</English-Entry>
 	  <English-Entry>goddess</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θέα2">
+  <Greek-Entry key="θέα">
 	  <English-Entry>seeing, looking at</English-Entry>
 	  <English-Entry>a view</English-Entry>
 	  <English-Entry>to see</English-Entry>
@@ -1935,13 +1935,13 @@
 	  <English-Entry>τίθημι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῖον1">
+  <Greek-Entry key="θεῖον">
 	  <English-Entry>brimstone</English-Entry>
 	  <English-Entry>Aër.</English-Entry>
 	  <English-Entry>suffire.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῖον2">
+  <Greek-Entry key="θεῖον">
 	  <English-Entry>the Divinity</English-Entry>
   </Greek-Entry>
 
@@ -1958,7 +1958,7 @@
 	  <English-Entry>ἔγγονε θειοπρόπων,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῖος1">
+  <Greek-Entry key="θεῖος">
 	  <English-Entry>θειότερος, -ότατος</English-Entry>
 	  <English-Entry>of</English-Entry>
 	  <English-Entry>from the gods, divine</English-Entry>
@@ -1986,7 +1986,7 @@
 	  <English-Entry>divinely, excellently</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῖος2">
+  <Greek-Entry key="θεῖος">
 	  <English-Entry>one"s father"s</English-Entry>
 	  <English-Entry>mother"s brother, uncle</English-Entry>
   </Greek-Entry>
@@ -2023,13 +2023,13 @@
 	  <English-Entry>run.</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θειώδης1">
+  <Greek-Entry key="θειώδης">
 	  <English-Entry>θεῖον</English-Entry>
 	  <English-Entry>sulphureous</English-Entry>
 	  <English-Entry>yellow</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θειώδης2">
+  <Greek-Entry key="θειώδης">
 	  <English-Entry>θεῖος</English-Entry>
 	  <English-Entry>divine.</English-Entry>
 	  <English-Entry>by Imperial decree,</English-Entry>
@@ -2507,11 +2507,11 @@
 	  <English-Entry>ἀείζων τὸ μικρόν</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεογαμία1">
+  <Greek-Entry key="θεογαμία">
 	  <English-Entry>marriage of gods</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεογάμια2">
+  <Greek-Entry key="θεογάμια">
 	  <English-Entry>γᾰ],</English-Entry>
   </Greek-Entry>
 
@@ -2800,11 +2800,11 @@
 	  <English-Entry>refer to a divine influence</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεολόγια1">
+  <Greek-Entry key="θεολόγια">
 	  <English-Entry>dei proverbia,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεολογία2">
+  <Greek-Entry key="θεολογία">
 	  <English-Entry>science of things divine</English-Entry>
 	  <English-Entry>oration in praise of a god</English-Entry>
 	  <English-Entry>incantation, invocation of a god,</English-Entry>
@@ -3812,12 +3812,12 @@
 	  <English-Entry>crop</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεριστός1">
+  <Greek-Entry key="θεριστός">
 	  <English-Entry>, τὸ θ</English-Entry>
 	  <English-Entry>balsam</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θέριστος2">
+  <Greek-Entry key="θέριστος">
   </Greek-Entry>
 
   <Greek-Entry key="θέριστρα">
@@ -4077,7 +4077,7 @@
 	  <English-Entry>lupinarium,</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θερμός1">
+  <Greek-Entry key="θερμός">
 	  <English-Entry>hot</English-Entry>
 	  <English-Entry>hot</English-Entry>
 	  <English-Entry>feverish</English-Entry>
@@ -4090,7 +4090,7 @@
 	  <English-Entry>hot springs</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θέρμος2">
+  <Greek-Entry key="θέρμος">
 	  <English-Entry>lupine, Lupinus albus</English-Entry>
 	  <English-Entry>lupine-market</English-Entry>
   </Greek-Entry>
@@ -4185,11 +4185,11 @@
 	  <English-Entry>bold of speech</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θέρσος1">
+  <Greek-Entry key="θέρσος">
 	  <English-Entry>θάρσος</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θερσός2">
+  <Greek-Entry key="θερσός">
   </Greek-Entry>
 
   <Greek-Entry key="θερτήρια">
@@ -4330,11 +4330,11 @@
 	  <English-Entry>keep the Thesmophoria</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεσμοφόριον1">
+  <Greek-Entry key="θεσμοφόριον">
 	  <English-Entry>temple of Demeter</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεσμοφόριον2">
+  <Greek-Entry key="θεσμοφόριον">
 	  <English-Entry>μέτρον</English-Entry>
   </Greek-Entry>
 
@@ -4583,12 +4583,12 @@
 	  <English-Entry>such as you would cut for a hungry Thessalian</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῦ1">
+  <Greek-Entry key="θεῦ">
 	  <English-Entry>θέο, θοῦ</English-Entry>
 	  <English-Entry>τίθημι</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θευ2">
+  <Greek-Entry key="θευ">
 	  <English-Entry>θεο-</English-Entry>
 	  <English-Entry>Θεοδαίσιος, θεομορία, θεόμορος</English-Entry>
 	  <English-Entry>θεὸς εὐεργέτης</English-Entry>
@@ -4619,7 +4619,7 @@
   <Greek-Entry key="θεῦτις">
   </Greek-Entry>
 
-  <Greek-Entry key="θέω1">
+  <Greek-Entry key="θέω">
 	  <English-Entry>ἔθευσα</English-Entry>
 	  <English-Entry>τρέχω</English-Entry>
 	  <English-Entry>Δρέμω</English-Entry>
@@ -4636,11 +4636,11 @@
 	  <English-Entry>run over</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θέω2">
+  <Greek-Entry key="θέω">
 	  <English-Entry>shine, gleam</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θεῶ3">
+  <Greek-Entry key="θεῶ">
 	  <English-Entry>θεάου</English-Entry>
 	  <English-Entry>θεάομαι</English-Entry>
 	  <English-Entry>behold!</English-Entry>
@@ -6456,7 +6456,7 @@
 	  <English-Entry>maintaining the mortality of the soul</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θοάζω1">
+  <Greek-Entry key="θοάζω">
 	  <English-Entry>θοός</English-Entry>
 	  <English-Entry>move quickly, ply rapidly</English-Entry>
 	  <English-Entry>hurrying</English-Entry>
@@ -6468,13 +6468,13 @@
 	  <English-Entry>move quickly, rush, dart</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θοάζω2">
+  <Greek-Entry key="θοάζω">
 	  <English-Entry>sit</English-Entry>
 	  <English-Entry>are ye in</English-Entry>
 	  <English-Entry>suppliant posture?</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θοάζω3">
+  <Greek-Entry key="θοάζω">
   </Greek-Entry>
 
   <Greek-Entry key="θόαξος">
@@ -6590,7 +6590,7 @@
 	  <English-Entry>θολώδης</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θολία1">
+  <Greek-Entry key="θολία">
 	  <English-Entry>conical hat with broad brim</English-Entry>
 	  <English-Entry>parasol</English-Entry>
 	  <English-Entry>chest with conical lid</English-Entry>
@@ -6609,21 +6609,21 @@
 	  <English-Entry>mixed with dirt</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θόλος1">
+  <Greek-Entry key="θόλος">
 	  <English-Entry>round building with conical roof, rotunda</English-Entry>
 	  <English-Entry>the Rotunda</English-Entry>
 	  <English-Entry>vaulted vapour-bath,</English-Entry>
 	  <English-Entry>bandage</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θολός1">
+  <Greek-Entry key="θολός">
 	  <English-Entry>mud, dirt</English-Entry>
 	  <English-Entry>menses</English-Entry>
 	  <English-Entry>ink of the cuttle-fish</English-Entry>
 	  <English-Entry>the vessel in which this ink is retained</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θολός2">
+  <Greek-Entry key="θολός">
   </Greek-Entry>
 
   <Greek-Entry key="θολόω">
@@ -6651,7 +6651,7 @@
 	  <English-Entry>θοὴ ἀνία</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θοός1">
+  <Greek-Entry key="θοός">
 	  <English-Entry>quick, nimble</English-Entry>
 	  <English-Entry>swift</English-Entry>
 	  <English-Entry>hasty</English-Entry>
@@ -6661,7 +6661,7 @@
 	  <English-Entry>soon</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θοός2">
+  <Greek-Entry key="θοός">
 	  <English-Entry>pointed, sharp</English-Entry>
   </Greek-Entry>
 
@@ -7366,11 +7366,11 @@
 	  <English-Entry>pupil</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θρέπτρα1">
+  <Greek-Entry key="θρέπτρα">
 	  <English-Entry>θρέπτα</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θρέπτρα2">
+  <Greek-Entry key="θρέπτρα">
 	  <English-Entry>θρέπτειρα</English-Entry>
 	  <English-Entry>a nurse</English-Entry>
   </Greek-Entry>
@@ -8930,10 +8930,10 @@
 	  <English-Entry>life-destroying</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θύμος1">
+  <Greek-Entry key="θύμος">
   </Greek-Entry>
 
-  <Greek-Entry key="θύμος2">
+  <Greek-Entry key="θύμος">
 	  <English-Entry>warty excrescence</English-Entry>
 	  <English-Entry>the thymus gland in the neck or breast</English-Entry>
   </Greek-Entry>
@@ -9010,11 +9010,11 @@
 	  <English-Entry>to be angry with</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θυμώδης1">
+  <Greek-Entry key="θυμώδης">
 	  <English-Entry>fierce</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θυμώδης2">
+  <Greek-Entry key="θυμώδης">
 	  <English-Entry>like thyme</English-Entry>
   </Greek-Entry>
 
@@ -9854,7 +9854,7 @@
 	  <English-Entry>burning</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θύω1">
+  <Greek-Entry key="θύω">
 	  <English-Entry>ἔθυον</English-Entry>
 	  <English-Entry>θύσω [ῡ</English-Entry>
 	  <English-Entry>ἐτύθην [ῠ</English-Entry>
@@ -9883,7 +9883,7 @@
 	  <English-Entry>suffire</English-Entry>
   </Greek-Entry>
 
-  <Greek-Entry key="θύω2">
+  <Greek-Entry key="θύω">
 	  <English-Entry>rage, seethe</English-Entry>
 	  <English-Entry>seething</English-Entry>
 	  <English-Entry>seethed</English-Entry>
