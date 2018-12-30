@@ -3,10 +3,5 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Platonic_Reader.App">
     <Application.Resources>
-        <!--<ResourceDictionary>
-            <OnPlatform x:TypeArguments="x:String" x:Key="EnglishTowne">
-                <On Platform="Android" Value="/Assets/EnglishTown.ttf#EnglishTowne" />
-            </OnPlatform>
-        </ResourceDictionary>-->
     </Application.Resources>
 </Application>

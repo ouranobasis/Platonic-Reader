@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "77ac45fa75810ef28ecf58b94804c46f567cccb4"
+    "signature": "8cdeb732792c5d750aa2f4e0dd54964ca337ffb0"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,6 +10,7 @@
       "Platonic_Reader/1.0.0": {
         "dependencies": {
           "NETStandard.Library": "2.0.3",
+          "Xam.Plugins.Forms.ImageCircle": "3.0.0.6-beta",
           "Xamarin.Forms": "3.4.0.1008975"
         },
         "runtime": {
@@ -20,6 +21,17 @@
       "NETStandard.Library/2.0.3": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+        "dependencies": {
+          "Xamarin.Forms": "3.4.0.1008975"
+        },
+        "runtime": {
+          "lib/netstandard2.0/ImageCircle.Forms.Plugin.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Xamarin.Forms/3.4.0.1008975": {
@@ -49,7 +61,7 @@
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-a/iSwnRZb+LHFk49hQOyThh/ZNC3vsbZsF65XwQIb863qF6msmhdQtxGXFL28Ob2NsCz/drEj28BJd/YPpLRBg==",
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
     },
@@ -60,10 +72,17 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
+    "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/LkB4RSHM+b02EMmJy0PiDlZKhmtbL+52/nb328xaYAcArTQ/vAiEF5c1FrjlVp6kExae5xCP9In7JIeTtTdaA==",
+      "path": "xam.plugins.forms.imagecircle/3.0.0.6-beta",
+      "hashPath": "xam.plugins.forms.imagecircle.3.0.0.6-beta.nupkg.sha512"
+    },
     "Xamarin.Forms/3.4.0.1008975": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-036/h8HtzRFgTrfhY57IeHoYRsPTO2XTA6uUFdmZzw2QR1sdszfofhI9HrCJTRx6fCzmjPg5Cxk5chYrjKarNw==",
+      "sha512": "sha512-tM9syeev45u92OFENGjq+Zw8WiEwLJFiXe317XpL9SY2RRk9sm2fc1lDVjzwz0da+5ZP5fi24NAPsPQdxBdMwQ==",
       "path": "xamarin.forms/3.4.0.1008975",
       "hashPath": "xamarin.forms.3.4.0.1008975.nupkg.sha512"
     }

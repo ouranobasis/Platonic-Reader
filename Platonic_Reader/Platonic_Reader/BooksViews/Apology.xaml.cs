@@ -60,6 +60,11 @@ namespace Platonic_Reader
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
+        private void DismissModal(object sender, EventArgs e)
+        {
+            popupLoginView.IsVisible = false;
+        }
+
         private StackLayout CreateDictionaryEntries(int sentenceNumber, string bookNumber)
         {
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
@@ -72,13 +77,15 @@ namespace Platonic_Reader
             foreach (var item in fullSentence)
             {
                 Label label;
-
+                
                 if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";" && item.lemma != "—")
                 {
                     label = new Label { Text = $" {wordNumber}. {item.lemma}",  TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
                     label.GestureRecognizers.Add(new TapGestureRecognizer
                     {
-                        Command = new Command(async () => await DisplayAlert("DICTIONARY LOOKUP", $"{Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalLemma.Text = item.lemma; })
+
+                        //Command = new Command(async () => await DisplayAlert("DICTIONARY LOOKUP", $"{Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
                     });
                     dictionaryEntries.Children.Add(label);
                 }
