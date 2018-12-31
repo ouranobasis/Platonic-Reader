@@ -130,7 +130,7 @@ namespace Platonic_Reader
                 };
                 span.GestureRecognizers.Add(new TapGestureRecognizer
                 {
-                    Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = $"{humanReadableGrammarDescription}"; modalLemma.Text = item.item; modalTitle.Text = "GRAMMATICAL DESCRIPTION"; })
+                    Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = $"{humanReadableGrammarDescription}"; modalLemma.Text = item.item; modalTitle.Text = "MORPHOLOGY"; })
                     //Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", $"{humanReadableGrammarDescription}", "OK"))
                 });
                 

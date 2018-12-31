@@ -19,11 +19,12 @@ namespace Platonic_Reader
         public string bookNumber = "AlcibiadesOne";
 
 		public Alcibiades1 ()
-		{
+        {
             InitializeComponent();
             sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = CreateFormatedString(sentenceNumber, bookNumber);
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
+            previous.IsEnabled = false;
         }
 
         private void OnNextButtonClick(object sender, EventArgs e)
@@ -39,7 +40,7 @@ namespace Platonic_Reader
             }
             sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            page.Children.RemoveAt(2);
+            page.Children.RemoveAt(0);
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
@@ -56,28 +57,58 @@ namespace Platonic_Reader
 
             sentenceIndicator.Text = sentenceNumber.ToString();
             sentence.FormattedText = formattedString;
-            page.Children.RemoveAt(2);
+            page.Children.RemoveAt(0);
             page.Children.Add(CreateDictionaryEntries(sentenceNumber, bookNumber));
         }
 
-        private StackLayout CreateDictionaryEntries(int sentenceNumber, string bookNumber)
+        private void DismissModal(object sender, EventArgs e)
+        {
+            popupLoginView.IsVisible = false;
+        }
+
+        private Grid CreateDictionaryEntries(int sentenceNumber, string bookNumber)
         {
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
-            var dictionaryEntries = new StackLayout()
+            var dictionaryEntriesOne = new StackLayout()
             {
-                Margin = new Thickness(50, 0),
+                Margin = new Thickness(50, 0, 0, 0),
             };
 
+            var dictionaryEntriesTwo = new StackLayout();
+
+            var dictionaryColumns = new Grid();
+
+            dictionaryColumns.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+            dictionaryColumns.ColumnDefinitions.Add(new ColumnDefinition { Width = new GridLength(1, GridUnitType.Star) });
+
+            int wordNumber = 1;
             foreach (var item in fullSentence)
             {
                 Label label;
-                if (item.lemma != "," && item.lemma != "·")
+
+                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";" && item.lemma != "—")
                 {
-                    label = new Label { Text = $"{item.lemma}", TextColor = Color.Red, FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
-                    dictionaryEntries.Children.Add(label);
+                    label = new Label { Text = $" {wordNumber}. {item.lemma}", TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
+                    label.GestureRecognizers.Add(new TapGestureRecognizer
+                    {
+                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalLemma.Text = item.lemma; modalTitle.Text = "DICTIONARY"; })
+
+                        //Command = new Command(async () => await DisplayAlert("DICTIONARY LOOKUP", $"{Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                    });
+                    if (wordNumber < fullSentence.Count / 2)
+                    {
+                        dictionaryEntriesOne.Children.Add(label);
+                        dictionaryColumns.Children.Add(dictionaryEntriesOne, 0, 0);
+                    }
+                    else if (wordNumber > fullSentence.Count / 2)
+                    {
+                        dictionaryEntriesTwo.Children.Add(label);
+                        dictionaryColumns.Children.Add(dictionaryEntriesTwo, 1, 0);
+                    }
                 }
+                wordNumber++;
             }
-            return dictionaryEntries;
+            return dictionaryColumns;
         }
 
         public FormattedString CreateFormatedString(int sentenceNumber, string bookNumber)
@@ -97,7 +128,11 @@ namespace Platonic_Reader
                     FontSize = 30,
                     FontFamily = "GFSBaskerville.ttf#GFS Porson"
                 };
-                span.GestureRecognizers.Add(new TapGestureRecognizer { Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", humanReadableGrammarDescription, "OK")) });
+                span.GestureRecognizers.Add(new TapGestureRecognizer
+                {
+                    Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = $"{humanReadableGrammarDescription}"; modalLemma.Text = item.item; modalTitle.Text = "MORPHOLOGY"; })
+                    //Command = new Command(async () => await DisplayAlert("GRAMMATICAL DESCRIPTION", $"{humanReadableGrammarDescription}", "OK"))
+                });
 
                 formattedString.Spans.Add(span);
             }

@@ -75,7 +75,7 @@
     "Xam.Plugins.Forms.ImageCircle/3.0.0.6-beta": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/LkB4RSHM+b02EMmJy0PiDlZKhmtbL+52/nb328xaYAcArTQ/vAiEF5c1FrjlVp6kExae5xCP9In7JIeTtTdaA==",
+      "sha512": "sha512-yvn/+6JLuP+9NfjVLNPjGR7P2+wqgsxCA9aG1xBxrmsIDWgEY/xwsvdtNiNKlLXwDbu8PL9J1qLLcQH1PzvKGQ==",
       "path": "xam.plugins.forms.imagecircle/3.0.0.6-beta",
       "hashPath": "xam.plugins.forms.imagecircle.3.0.0.6-beta.nupkg.sha512"
     },

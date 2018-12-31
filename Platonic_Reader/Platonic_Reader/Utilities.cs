@@ -342,11 +342,29 @@ namespace Platonic_Reader
                 case 'β':
                     xmlFileTitle = @"beta";
                     break;
+                case 'Β':
+                    xmlFileTitle = @"beta";
+                    break;
                 case 'γ':
+                    xmlFileTitle = @"gamma";
+                    break;
+                case 'Γ':
                     xmlFileTitle = @"gamma";
                     break;
                 case 'δ':
                     xmlFileTitle = @"delta";
+                    break;
+                case 'Δ':
+                    xmlFileTitle = @"delta";
+                    break;
+                case 'Ε':
+                    xmlFileTitle = @"epsilon";
+                    break;
+                case 'Ἑ':
+                    xmlFileTitle = @"epsilon";
+                    break;
+                case 'Ἐ':
+                    xmlFileTitle = @"epsilon";
                     break;
                 case 'ε':
                     xmlFileTitle = @"epsilon";
@@ -372,6 +390,18 @@ namespace Platonic_Reader
                 case 'ζ':
                     xmlFileTitle = @"zeta";
                     break;
+                case 'Ζ':
+                    xmlFileTitle = @"zeta";
+                    break;
+                case 'Η':
+                    xmlFileTitle = @"eta";
+                    break;
+                case 'Ἡ':
+                    xmlFileTitle = @"eta";
+                    break;
+                case 'Ἠ':
+                    xmlFileTitle = @"eta";
+                    break;
                 case 'η':
                     xmlFileTitle = @"eta";
                     break;
@@ -393,7 +423,19 @@ namespace Platonic_Reader
                 case 'θ':
                     xmlFileTitle = @"eta";
                     break;
+                case 'Θ':
+                    xmlFileTitle = @"eta";
+                    break;
                 case 'ι':
+                    xmlFileTitle = @"iota";
+                    break;
+                case 'Ι':
+                    xmlFileTitle = @"iota";
+                    break;
+                case 'Ἱ':
+                    xmlFileTitle = @"iota";
+                    break;
+                case 'Ἰ':
                     xmlFileTitle = @"iota";
                     break;
                 case 'ἵ':
@@ -411,17 +453,41 @@ namespace Platonic_Reader
                 case 'κ':
                     xmlFileTitle = @"kappa";
                     break;
+                case 'Κ':
+                    xmlFileTitle = @"kappa";
+                    break;
                 case 'λ':
+                    xmlFileTitle = @"lambda";
+                    break;
+                case 'Λ':
                     xmlFileTitle = @"lambda";
                     break;
                 case 'μ':
                     xmlFileTitle = @"mu";
                     break;
+                case 'Μ':
+                    xmlFileTitle = @"mu";
+                    break;
                 case 'ν':
+                    xmlFileTitle = @"nu";
+                    break;
+                case 'Ν':
                     xmlFileTitle = @"nu";
                     break;
                 case 'ξ':
                     xmlFileTitle = @"xsi";
+                    break;
+                case 'Ξ':
+                    xmlFileTitle = @"xsi";
+                    break;
+                case 'Ο':
+                    xmlFileTitle = @"omicron";
+                    break;
+                case 'Ὁ':
+                    xmlFileTitle = @"omicron";
+                    break;
+                case 'Ὀ':
+                    xmlFileTitle = @"omicron";
                     break;
                 case 'ο':
                     xmlFileTitle = @"omicron";
@@ -447,14 +513,38 @@ namespace Platonic_Reader
                 case 'π':
                     xmlFileTitle = @"pi";
                     break;
+                case 'Π':
+                    xmlFileTitle = @"pi";
+                    break;
+                case 'Ρ':
+                    xmlFileTitle = @"rho";
+                    break;
+                case 'Ῥ':
+                    xmlFileTitle = @"rho";
+                    break;
                 case 'ρ':
                     xmlFileTitle = @"rho";
+                    break;
+                case 'ῥ':
+                    xmlFileTitle = @"rho";
+                    break;
+                case 'Σ':
+                    xmlFileTitle = @"sigma";
                     break;
                 case 'σ':
                     xmlFileTitle = @"sigma";
                     break;
                 case 'τ':
                     xmlFileTitle = @"tau";
+                    break;
+                case 'Τ':
+                    xmlFileTitle = @"tau";
+                    break;
+                case 'Υ':
+                    xmlFileTitle = @"upsilon";
+                    break;
+                case 'Ὑ':
+                    xmlFileTitle = @"upsilon";
                     break;
                 case 'υ':
                     xmlFileTitle = @"upsilon";
@@ -486,11 +576,29 @@ namespace Platonic_Reader
                 case 'φ':
                     xmlFileTitle = @"phi";
                     break;
+                case 'Φ':
+                    xmlFileTitle = @"phi";
+                    break;
                 case 'ψ':
+                    xmlFileTitle = @"psi";
+                    break;
+                case 'Ψ':
                     xmlFileTitle = @"psi";
                     break;
                 case 'χ':
                     xmlFileTitle = @"chi";
+                    break;
+                case 'Χ':
+                    xmlFileTitle = @"chi";
+                    break;
+                case 'Ω':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'Ὡ':
+                    xmlFileTitle = @"omega";
+                    break;
+                case 'Ὠ':
+                    xmlFileTitle = @"omega";
                     break;
                 case 'ω':
                     xmlFileTitle = @"omega";
