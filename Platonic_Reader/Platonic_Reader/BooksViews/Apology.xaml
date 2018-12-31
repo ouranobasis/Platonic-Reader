@@ -13,15 +13,13 @@
             </StackLayout>
             <ScrollView>
                 <StackLayout Margin="20,0">
-                    <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                            <Image Source="oliveBranchLeft.png" HeightRequest="60" WidthRequest="60"></Image>
+                            <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
+                            <Image Source="oliveBranchRight.png" HeightRequest="60" WidthRequest="60"></Image>
+                        </StackLayout>
                     <Label x:Name="sentence" FontSize="30" FontAttributes="Italic"/>
-                    <StackLayout x:Name="page"></StackLayout>
-                        <Grid>
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="Auto" />
-                                <ColumnDefinition Width="*" />
-                            </Grid.ColumnDefinitions>
-                        </Grid>
+                    <StackLayout x:Name="page"></StackLayout>                        
                 </StackLayout>
             </ScrollView>
 
@@ -46,12 +44,12 @@
                         HorizontalOptions="Center"                        
                         Margin="0,-30,0,0">
                     </ci:CircleImage>
-                    <Label HorizontalOptions="Center" Margin="0,0,0,10" TextColor="White" FontFamily="Crimson-Roman.ttf#Crimson" FontSize="25" Text="DICTIONARY"></Label>
+                    <Label x:Name="modalTitle" HorizontalOptions="Center" Margin="0,0,0,10" TextColor="White" FontFamily="Crimson-Roman.ttf#Crimson" FontSize="25" Text="DICTIONARY"></Label>
                 </StackLayout>
                 <StackLayout BackgroundColor="#292b29" Padding="1" Margin="20, 10, 20, 0">
                     <StackLayout BackgroundColor="#f9f1cf">
                         <Label x:Name="modalLemma" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" BackgroundColor="#f9f1cf" Margin="0, -15, 0, 0" HorizontalOptions="Center" FontSize="20"></Label> 
-                        <ScrollView Orientation="Vertical" Padding="0, 0, 0, 0" HeightRequest="130">
+                        <ScrollView Orientation="Vertical" Padding="0, 0, 0, 0" HeightRequest="130" WidthRequest="260">
                             <Label x:Name="modalTextContent" Text="hooloo" Margin="10,0,10,0"></Label>
                         </ScrollView>
                     </StackLayout>

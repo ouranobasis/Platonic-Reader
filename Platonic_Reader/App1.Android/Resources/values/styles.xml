@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
-
+  <style name="Theme.Splash"
+         parent="MainTheme.Base">
+    <item name="android:windowBackground">@drawable/splashscreen</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:windowFullscreen">true</item>
+    <item name="android:background">@drawable/splashscreen</item>
+  </style>
+  
+  
   <style name="MainTheme" parent="MainTheme.Base">
   </style>
   <!-- Base theme applied no matter what API -->
