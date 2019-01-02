@@ -11,16 +11,16 @@
 *.userprefs
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
+Platonic_Reader/App1.Android/[Dd]ebug/
+Platonic_Reader/App1.Android/[Dd]ebugPublic/
+Platonic_Reader/App1.Android/[Rr]elease/
+Platonic_Reader/App1.Android/[Rr]eleases/
+Platonic_Reader/App1.Android/x64/
+Platonic_Reader/App1.Android/x86/
+Platonic_Reader/App1.Android/bld/
+Platonic_Reader/App1.Android/[Bb]in/
+Platonic_Reader/App1.Android/[Oo]bj/
+Platonic_Reader/App1.Android/[Ll]og/
 
 # Visual Studio 2015 cache/options directory
 .vs/

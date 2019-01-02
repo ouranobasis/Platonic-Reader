@@ -15,7 +15,7 @@
                 <StackLayout Margin="20,0">
                     <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
                             <Image Source="oliveBranchLeft.png" HeightRequest="60" WidthRequest="60"></Image>
-                            <Label x:Name="sentenceIndicator" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
+                            <Label x:Name="sentenceIndicator" Margin="0" HorizontalOptions="Center" FontSize="80" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" />
                             <Image Source="oliveBranchRight.png" HeightRequest="60" WidthRequest="60"></Image>
                         </StackLayout>
                     <Label x:Name="sentence" FontSize="30" FontAttributes="Italic"/>
