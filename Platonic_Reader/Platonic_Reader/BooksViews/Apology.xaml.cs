@@ -115,22 +115,22 @@ namespace Platonic_Reader
             var formattedString = new FormattedString();
 
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
-
-            string spaceCharacter = "";
+           
+            string spaceCharacter = "start value";
             var span = new Span();
 
             foreach (var item in fullSentence)
             {
                 string humanReadableGrammarDescription = Utilities.ParseInterpreter(item.parseInfo);
 
-                if (item.item != "," && item.item != "." && item.item != "’" && item.item != ";" && item.item != "—" && item.item != "·")
+                if (spaceCharacter != "start value" && item.item != "," && item.item != "." && item.item != ";" && item.item != "—" && item.item != "·" && item.item != ":")
                 {
                     spaceCharacter = " ";
                 }
 
                 else
                 {
-                    spaceCharacter = "";
+                    spaceCharacter = "";                   
                 }
 
                 span = new Span

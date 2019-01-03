@@ -86,16 +86,14 @@ namespace Platonic_Reader
             {
                 Label label;
 
-                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";" && item.lemma != "—")
+                if (item.lemma != "," && item.lemma != "·" && item.lemma != "." && item.lemma != ";" && item.lemma != "—" && item.lemma != "’" && item.lemma != "‘")
                 {
                     label = new Label { Text = $" {wordNumber}. {item.lemma}", TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
                     label.GestureRecognizers.Add(new TapGestureRecognizer
                     {
-                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalLemma.Text = item.lemma; modalTitle.Text = "DICTIONARY"; })
-
-                        //Command = new Command(async () => await DisplayAlert("DICTIONARY LOOKUP", $"{Utilities.CallDictionaryDefinition(item.lemma)}", "OK"))
+                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalTextContent.FontFamily = "Crimson-Italic.ttf#Crimson"; modalLemma.Text = item.lemma; modalTitle.Text = "DICTIONARY"; })
                     });
-                    if (wordNumber < fullSentence.Count / 2)
+                    if (wordNumber <= fullSentence.Count / 2)
                     {
                         dictionaryEntriesOne.Children.Add(label);
                         dictionaryColumns.Children.Add(dictionaryEntriesOne, 0, 0);
@@ -118,16 +116,31 @@ namespace Platonic_Reader
 
             var fullSentence = Utilities.SentenceConstructor(sentenceNumber.ToString(), bookNumber);
 
+            string spaceCharacter = "start value";
+            var span = new Span();
+
             foreach (var item in fullSentence)
             {
                 string humanReadableGrammarDescription = Utilities.ParseInterpreter(item.parseInfo);
-                var span = new Span
+
+                if (spaceCharacter != "start value" && item.item != "," && item.item != "." && item.item != ";" && item.item != "—" && item.item != "·" && item.item != ":")
                 {
-                    Text = $"{item.item} ",
+                    spaceCharacter = " ";
+                }
+
+                else
+                {
+                    spaceCharacter = "";
+                }
+
+                span = new Span
+                {
+                    Text = $"{spaceCharacter}{item.item}",
                     ForegroundColor = Color.FromHex("#292b29"),
                     FontSize = 30,
                     FontFamily = "GFSBaskerville.ttf#GFS Porson"
                 };
+
                 span.GestureRecognizers.Add(new TapGestureRecognizer
                 {
                     Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = $"{humanReadableGrammarDescription}"; modalLemma.Text = item.item; modalTitle.Text = "MORPHOLOGY"; })
