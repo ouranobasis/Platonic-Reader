@@ -91,7 +91,7 @@ namespace Platonic_Reader
                     label = new Label { Text = $" {wordNumber}. {item.lemma}",  TextColor = Color.FromHex("#303030"), FontSize = 20, FontFamily = "GFSBaskerville.ttf#GFS Porson" };
                     label.GestureRecognizers.Add(new TapGestureRecognizer
                     {
-                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalLemma.Text = item.lemma; modalTitle.Text = "DICTIONARY"; })                                                
+                        Command = new Command(() => { popupLoginView.IsVisible = true; modalTextContent.Text = Utilities.CallDictionaryDefinition(item.lemma); modalTextContent.FontFamily = "Crimson-Italic.ttf#Crimson"; modalLemma.Text = item.lemma; modalTitle.Text = "DICTIONARY"; })                                                
                     });
                     if (wordNumber <= fullSentence.Count/2)
                     {

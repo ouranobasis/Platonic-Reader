@@ -49,8 +49,8 @@
                 <StackLayout BackgroundColor="#292b29" Padding="1" Margin="20, 10, 20, 0">
                     <StackLayout BackgroundColor="#f9f1cf">
                         <Label x:Name="modalLemma" TextColor="#292b29" FontFamily="GFSBaskerville.ttf#GFS Porson" BackgroundColor="#f9f1cf" Margin="0, -15, 0, 0" HorizontalOptions="Center" FontSize="20"></Label> 
-                        <ScrollView Orientation="Vertical" Padding="0, 0, 0, 0" HeightRequest="130" WidthRequest="260">
-                            <Label x:Name="modalTextContent" Text="hooloo" Margin="10,0,10,0"></Label>
+                        <ScrollView Orientation="Vertical" HorizontalOptions="Center" Padding="0, 0, 0, 0" HeightRequest="130" WidthRequest="280">
+                            <Label x:Name="modalTextContent" Margin="10,0,10,0" FontSize="20" ></Label>
                         </ScrollView>
                     </StackLayout>
                 </StackLayout>
