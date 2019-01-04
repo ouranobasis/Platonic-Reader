@@ -278,7 +278,7 @@ namespace Platonic_Reader
                 {
                     while (reader.Read())
                     {
-                        if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key").ToLower() == greekWord)
+                        if (reader.IsStartElement() && reader.Name == "Greek-Entry" && reader.GetAttribute("key") == greekWord)
                         {
                             definition = "";
                             reader.ReadToDescendant("English-Entry");                            
