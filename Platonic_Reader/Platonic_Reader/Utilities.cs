@@ -330,6 +330,12 @@ namespace Platonic_Reader
                 case 'ἃ':
                     xmlFileTitle = @"alpha";
                     break;
+                case 'ἂ':
+                    xmlFileTitle = @"alpha";
+                    break;
+                case 'ἅ':
+                    xmlFileTitle = @"alpha";
+                    break;
                 case 'ἄ':
                     xmlFileTitle = @"alpha";
                     break;
@@ -408,10 +414,19 @@ namespace Platonic_Reader
                 case 'ἡ':
                     xmlFileTitle = @"eta";
                     break;
+                case 'ἠ':
+                    xmlFileTitle = @"eta";
+                    break;
                 case 'ἤ':
                     xmlFileTitle = @"eta";
                     break;
                 case 'ἥ':
+                    xmlFileTitle = @"eta";
+                    break;
+                case 'ἣ':
+                    xmlFileTitle = @"eta";
+                    break;
+                case 'ἢ':
                     xmlFileTitle = @"eta";
                     break;
                 case 'ἦ':
