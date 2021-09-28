@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ci="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             xmlns:local="clr-namespace:Platonic_Reader"
+             x:Class="Platonic_Reader.MasterPage"             
+             Icon="Hamburger.png"
+             Title="Platonic Reader"             
+             BackgroundColor="#49994d">
+    <StackLayout>
+                <StackLayout VerticalOptions="FillAndExpand">
+                    <Label Text="PLATONIC CORPUS" TextColor="White" HorizontalOptions="Center" FontSize="30" FontFamily="Crimson-Roman.ttf#Crimson" FontAttributes="Bold"/>
+                    <ci:CircleImage  
+                        BorderColor="White"
+                        BorderThickness="5"
+                        HeightRequest="200"   
+                        WidthRequest="200"   
+                        Source="Plato.jpg"  
+                        Aspect="AspectFit"
+                        Margin="0,5,0,12">
+                    </ci:CircleImage>
+                    <Image Source="greekCoils.png"></Image>
+                </StackLayout>
+        <ListView HasUnevenRows="True" x:Name="listView" VerticalOptions="Center" x:FieldModifier="public">
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:MasterPageItem}">
+                    <local:MasterPageItem Title="First Alcibiades" TargetType="{x:Type local:Alcibiades1}" />
+                    <local:MasterPageItem Title="Second Alcibiades" TargetType="{x:Type local:Alcibiades2}" />
+                    <local:MasterPageItem Title="Apology" Book ="1" TargetType="{x:Type local:Apology}" />
+                    <local:MasterPageItem Title="Crito" Book ="4" TargetType="{x:Type local:Crito}" />
+                    <local:MasterPageItem Title="Charmides" TargetType="{x:Type local:Charmides}" />
+                    <local:MasterPageItem Title="Cratylus" TargetType="{x:Type local:Cratylus}" />
+                    <local:MasterPageItem Title="Crito" TargetType="{x:Type local:Crito}" />
+                    <local:MasterPageItem Title="Definitiones" TargetType="{x:Type local:Definitiones}" />
+                    <local:MasterPageItem Title="Euthyphro" TargetType="{x:Type local:Euthyphro}" />
+                    <local:MasterPageItem Title="Hipparchus" TargetType="{x:Type local:Hipparchus}" />
+                    <local:MasterPageItem Title="Laches" TargetType="{x:Type local:Laches}" />
+                    <local:MasterPageItem Title="Lovers" TargetType="{x:Type local:Lovers}" />
+                    <local:MasterPageItem Title="Lysis" TargetType="{x:Type local:Lysis}" />
+                    <local:MasterPageItem Title="Parmenides" TargetType="{x:Type local:Parmenides}" />
+                    <local:MasterPageItem Title="Phaedo" TargetType="{x:Type local:Phaedo}" />
+                    <local:MasterPageItem Title="Phaedrus" TargetType="{x:Type local:Phaedrus}" />
+                    <local:MasterPageItem Title="Philebus" TargetType="{x:Type local:Philebus}" />
+                    <local:MasterPageItem Title="Republic" TargetType="{x:Type local:Republic}" />
+                    <local:MasterPageItem Title="Sophist" TargetType="{x:Type local:Sophist}" />
+                    <local:MasterPageItem Title="Statesman" TargetType="{x:Type local:Statesman}" />
+                    <local:MasterPageItem Title="Symposium" TargetType="{x:Type local:Symposium}" />
+                    <local:MasterPageItem Title="Theaetetus" TargetType="{x:Type local:Theaetetus}" />
+                    <local:MasterPageItem Title="Theages" TargetType="{x:Type local:Theages}" />                    
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout VerticalOptions="Center" Orientation="Horizontal">
+                            <Image VerticalOptions="Center" Source="Scroll.png" HeightRequest="20" WidthRequest="30" Margin=" 10,0,10,0"/>
+                            <Label VerticalTextAlignment="Center" Text="{Binding Title}" HorizontalTextAlignment="Center" TextColor="Black" FontSize="30">
+                                <Label.FontFamily>
+                                    <OnPlatform x:TypeArguments="x:String">
+                                        <On Platform="Android">Crimson-Italic.ttf#Crimson</On>
+                                    </OnPlatform>
+                                </Label.FontFamily>
+                            </Label>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

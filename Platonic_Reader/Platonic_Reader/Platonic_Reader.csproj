@@ -1,0 +1,213 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Platonic_Reader</AssemblyName>
+    <RootNamespace>Platonic_Reader</RootNamespace>
+    <ApplicationIcon />
+    <OutputType>Library</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Dictionary\alpha.xml" />
+    <None Remove="Dictionary\beta.xml" />
+    <None Remove="Dictionary\chi.xml" />
+    <None Remove="Dictionary\delta.xml" />
+    <None Remove="Dictionary\epsilon.xml" />
+    <None Remove="Dictionary\eta.xml" />
+    <None Remove="Dictionary\gamma.xml" />
+    <None Remove="Dictionary\iota.xml" />
+    <None Remove="Dictionary\kappa.xml" />
+    <None Remove="Dictionary\lambda.xml" />
+    <None Remove="Dictionary\mu.xml" />
+    <None Remove="Dictionary\nu.xml" />
+    <None Remove="Dictionary\omega.xml" />
+    <None Remove="Dictionary\omicron.xml" />
+    <None Remove="Dictionary\phi.xml" />
+    <None Remove="Dictionary\pi.xml" />
+    <None Remove="Dictionary\psi.xml" />
+    <None Remove="Dictionary\rho.xml" />
+    <None Remove="Dictionary\sigma.xml" />
+    <None Remove="Dictionary\tau.xml" />
+    <None Remove="Dictionary\theta.xml" />
+    <None Remove="Dictionary\upsilon.xml" />
+    <None Remove="Dictionary\xsi.xml" />
+    <None Remove="Dictionary\zeta.xml" />
+    <None Remove="Texts\AlcibiadesOne.xml" />
+    <None Remove="Texts\AlcibiadesTwo.xml" />
+    <None Remove="Texts\Apology.xml" />
+    <None Remove="Texts\Charmides.xml" />
+    <None Remove="Texts\Cratylus.xml" />
+    <None Remove="Texts\Crito.xml" />
+    <None Remove="Texts\Definitiones.xml" />
+    <None Remove="Texts\Euthyphro.xml" />
+    <None Remove="Texts\Hipparchus.xml" />
+    <None Remove="Texts\Laches.xml" />
+    <None Remove="Texts\Lovers.xml" />
+    <None Remove="Texts\Lysis.xml" />
+    <None Remove="Texts\Parmenides.xml" />
+    <None Remove="Texts\Phaedo.xml" />
+    <None Remove="Texts\Phaedrus.xml" />
+    <None Remove="Texts\Philebus.xml" />
+    <None Remove="Texts\Republic.xml" />
+    <None Remove="Texts\Sophist.xml" />
+    <None Remove="Texts\Statesman.xml" />
+    <None Remove="Texts\Symposium.xml" />
+    <None Remove="Texts\Theaetetus.xml" />
+    <None Remove="Texts\Theages.xml" />
+    <None Remove="Texts\tlg0059.tlg001.perseus-grc1.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Dictionary\alpha.xml" />
+    <EmbeddedResource Include="Dictionary\beta.xml" />
+    <EmbeddedResource Include="Dictionary\chi.xml" />
+    <EmbeddedResource Include="Dictionary\delta.xml" />
+    <EmbeddedResource Include="Dictionary\epsilon.xml" />
+    <EmbeddedResource Include="Dictionary\eta.xml" />
+    <EmbeddedResource Include="Dictionary\gamma.xml" />
+    <EmbeddedResource Include="Dictionary\iota.xml" />
+    <EmbeddedResource Include="Dictionary\kappa.xml" />
+    <EmbeddedResource Include="Dictionary\lambda.xml" />
+    <EmbeddedResource Include="Dictionary\mu.xml" />
+    <EmbeddedResource Include="Dictionary\nu.xml" />
+    <EmbeddedResource Include="Dictionary\omega.xml" />
+    <EmbeddedResource Include="Dictionary\omicron.xml" />
+    <EmbeddedResource Include="Dictionary\phi.xml" />
+    <EmbeddedResource Include="Dictionary\pi.xml" />
+    <EmbeddedResource Include="Dictionary\psi.xml" />
+    <EmbeddedResource Include="Dictionary\rho.xml" />
+    <EmbeddedResource Include="Dictionary\sigma.xml" />
+    <EmbeddedResource Include="Dictionary\tau.xml" />
+    <EmbeddedResource Include="Dictionary\theta.xml" />
+    <EmbeddedResource Include="Dictionary\upsilon.xml" />
+    <EmbeddedResource Include="Dictionary\xsi.xml" />
+    <EmbeddedResource Include="Dictionary\zeta.xml" />
+    <EmbeddedResource Include="Texts\Euthyphro.xml" />
+    <EmbeddedResource Include="Texts\Apology.xml" />
+    <EmbeddedResource Include="Texts\Crito.xml" />
+    <EmbeddedResource Include="Texts\Phaedo.xml" />
+    <EmbeddedResource Include="Texts\Cratylus.xml" />
+    <EmbeddedResource Include="Texts\Theaetetus.xml" />
+    <EmbeddedResource Include="Texts\Sophist.xml" />
+    <EmbeddedResource Include="Texts\Statesman.xml" />
+    <EmbeddedResource Include="Texts\Parmenides.xml" />
+    <EmbeddedResource Include="Texts\Philebus.xml" />
+    <EmbeddedResource Include="Texts\Symposium.xml" />
+    <EmbeddedResource Include="Texts\Phaedrus.xml" />
+    <EmbeddedResource Include="Texts\AlcibiadesOne.xml" />
+    <EmbeddedResource Include="Texts\AlcibiadesTwo.xml" />
+    <EmbeddedResource Include="Texts\Hipparchus.xml" />
+    <EmbeddedResource Include="Texts\Lovers.xml" />
+    <EmbeddedResource Include="Texts\Theages.xml" />
+    <EmbeddedResource Include="Texts\Charmides.xml" />
+    <EmbeddedResource Include="Texts\Laches.xml" />
+    <EmbeddedResource Include="Texts\Lysis.xml" />
+    <EmbeddedResource Include="Texts\Republic.xml" />
+    <EmbeddedResource Include="Texts\Definitiones.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xam.Plugins.Forms.ImageCircle" Version="3.0.0.6-beta" />
+    <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="BooksViews\Alcibiades1.xaml.cs">
+      <DependentUpon>Alcibiades1.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Alcibiades2.xaml.cs">
+      <DependentUpon>Alcibiades2.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Charmides.xaml.cs">
+      <DependentUpon>Charmides.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Cratylus.xaml.cs">
+      <DependentUpon>Cratylus.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Hipparchus.xaml.cs">
+      <DependentUpon>Hipparchus.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Laches.xaml.cs">
+      <DependentUpon>Laches.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Lovers.xaml.cs">
+      <DependentUpon>Lovers.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Philebus.xaml.cs">
+      <DependentUpon>Philebus.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Republic.xaml.cs">
+      <DependentUpon>Republic.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Lysis.xaml.cs">
+      <DependentUpon>Lysis.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Theaetetus.xaml.cs">
+      <DependentUpon>Theaetetus.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Parmenides.xaml.cs">
+      <DependentUpon>Parmenides.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Definitiones.xaml.cs">
+      <DependentUpon>Definitiones.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Theages.xaml.cs">
+      <DependentUpon>Theages.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Statesman.xaml.cs">
+      <DependentUpon>Statesman.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Phaedrus.xaml.cs">
+      <DependentUpon>Phaedrus.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Sophist.xaml.cs">
+      <DependentUpon>Sophist.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Symposium.xaml.cs">
+      <DependentUpon>Symposium.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Phaedo.xaml.cs">
+      <DependentUpon>Phaedo.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Crito.xaml.cs">
+      <DependentUpon>Crito.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="BooksViews\Euthyphro.xaml.cs">
+      <DependentUpon>Euthyphro.xaml</DependentUpon>
+    </Compile>
+    <Compile Update="MasterPage.xaml.cs">
+      <DependentUpon>MasterPage.xaml</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="BooksViews\Apology.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="MasterPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Apology.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MasterPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
+</Project>

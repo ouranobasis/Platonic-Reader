@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+  <Greek-Entry key="Θάμυρις">
+    <English-Entry>- Thamyris</English-Entry>
+    <English-Entry>- a Thracian bard vanquished and blinded by the Muses</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θέτις">
+    <English-Entry>- Thetis a Nereid</English-Entry>
+    <English-Entry>- married to Peleus</English-Entry>
+    <English-Entry>- mother of Achilles</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θαλῆς">
+    <English-Entry>- Thales of Miletus</English-Entry>
+    <English-Entry>- philosopher</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θαύμας">
+    <English-Entry>- the father of Iris</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεάγης">
+    <English-Entry>- Theages son of Demodocus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεαίτητος">
+    <English-Entry>- Theaetetus </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεμιστοκλέης">
+    <English-Entry>- Themistocles</English-Entry>
+    <English-Entry>- Athenian politician and general</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεοδότης">
+    <English-Entry>- Theodote the coutesan</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεοζοτίδης">
+    <English-Entry>- Theozoties</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θερσίτης">
+    <English-Entry>- Thersītes</English-Entry>
+    <English-Entry>- ugliest Greek at Troy and a brawler</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεσσαλία">
+    <English-Entry>- country of the northern of greece. </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεσσαλός">
+    <English-Entry>- a son of Heracles</English-Entry>
+    <English-Entry>- father of Pheidippus and Antiphus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεόδοτος">
+    <English-Entry>- Theodotus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεόδωρος">
+    <English-Entry>- Theodorus of Cyrene</English-Entry>
+    <English-Entry>- a sophist</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θεόφιλος">
+    <English-Entry>- Thophilus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θηβαῖος">
+    <English-Entry>- A Theban</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θησεύς">
+    <English-Entry>- Thesus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θουκυδίδης">
+    <English-Entry>- Thucydides</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θράσυλλος">
+    <English-Entry>- Thrasyllus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θρασύμαχος">
+    <English-Entry>- Thrasymachus</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θρᾷξ">
+    <English-Entry>- Thracian</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θυέστης">
+    <English-Entry>- Thyestes</English-Entry>
+    <English-Entry>- king of olympia</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="Θῆβαι">
+    <English-Entry>- city of Thebes</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θάλασσα">
+    <English-Entry>- sea</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θάλλω">
+    <English-Entry>- to sprout</English-Entry>
+    <English-Entry>- to grow</English-Entry>
+    <English-Entry>- to thrive</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θάνατος">
+    <English-Entry>- death</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θάπτω">
+    <English-Entry>- to honour with funeral rites (in early times by burning the body</English-Entry>
+    <English-Entry>- later simply to bury or intern)</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θάρσος">
+    <English-Entry>- courage boldness</English-Entry>
+    <English-Entry>- grounds of confidence</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέα">
+    <English-Entry>- a seeing</English-Entry>
+    <English-Entry>- looking at</English-Entry>
+    <English-Entry>- view </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέαμα">
+    <English-Entry>- that which is seen</English-Entry>
+    <English-Entry>- sight</English-Entry>
+    <English-Entry>- spectacle</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέατρον">
+    <English-Entry>- place for seeing</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέμις">
+    <English-Entry>- laws</English-Entry>
+    <English-Entry>- ordinances</English-Entry>
+    <English-Entry>- customs</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέρος">
+    <English-Entry>- summer</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέσις">
+    <English-Entry>- setting</English-Entry>
+    <English-Entry>- placing</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέτης">
+    <English-Entry>- one who places</English-Entry>
+    <English-Entry>- adoptive father</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θέω">
+    <English-Entry>- to run </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θήρ">
+    <English-Entry>- beast of prey </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θήρα">
+    <English-Entry>- hunting of wild beasts</English-Entry>
+    <English-Entry>- the chase</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θήρειος">
+    <English-Entry>- relating to wild beasts</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θήρευσις">
+    <English-Entry>- hunting</English-Entry>
+    <English-Entry>- the chase</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θής">
+    <English-Entry>- serf</English-Entry>
+    <English-Entry>- hired farm servant</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαλλός">
+    <English-Entry>- young shoot</English-Entry>
+    <English-Entry>- young branch</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαμά">
+    <English-Entry>- often</English-Entry>
+    <English-Entry>- often times</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαρσέω">
+    <English-Entry>- to be of good courage</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαρσαλέος">
+    <English-Entry>- daring</English-Entry>
+    <English-Entry>- bold</English-Entry>
+    <English-Entry>- ready</English-Entry>
+    <English-Entry>- undaunted</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαυμάζω">
+    <English-Entry>- to wonder</English-Entry>
+    <English-Entry>- to marvel</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαυμάσιος">
+    <English-Entry>- wonderfull</English-Entry>
+    <English-Entry>- admirable</English-Entry>
+    <English-Entry>- excellent</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαυμαστός">
+    <English-Entry>- wonderful</English-Entry>
+    <English-Entry>- marvellous</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θαῦμα">
+    <English-Entry>- wonder</English-Entry>
+    <English-Entry>- marvel</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεά">
+    <English-Entry>- goddess </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεάομαι">
+    <English-Entry>- to gaze at</English-Entry>
+    <English-Entry>- to behold </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεία">
+    <English-Entry>- an aunt</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεατής">
+    <English-Entry>- one who sees</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεμιτός">
+    <English-Entry>- allowed by the laws of God and men</English-Entry>
+    <English-Entry>- righteous</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεοειδής">
+    <English-Entry>- divine of form</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεομισής">
+    <English-Entry>- hated by the gods</English-Entry>
+    <English-Entry>- god hating</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεοσεβής">
+    <English-Entry>- fearing God</English-Entry>
+    <English-Entry>- religious</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεοφιλής">
+    <English-Entry>- dear to the gods</English-Entry>
+    <English-Entry>- highly favoured</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεράπευμα">
+    <English-Entry>- care of the body</English-Entry>
+    <English-Entry>- service</English-Entry>
+    <English-Entry>- surgical treatment</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεράπων">
+    <English-Entry>- an attendent</English-Entry>
+    <English-Entry>-  -willing servent</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θερίζω">
+    <English-Entry>- to do summer-work</English-Entry>
+    <English-Entry>- to reap</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεραπεία">
+    <English-Entry>- service</English-Entry>
+    <English-Entry>- attendance</English-Entry>
+    <English-Entry>- nurture</English-Entry>
+    <English-Entry>- care</English-Entry>
+    <English-Entry>- in collective sense: a body of attendants</English-Entry>
+    <English-Entry>- suite</English-Entry>
+    <English-Entry>- retinue</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεραπευτής">
+    <English-Entry>- one who serves the gods</English-Entry>
+    <English-Entry>- worshipper</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεραπευτικός">
+    <English-Entry>- inclined to serve</English-Entry>
+    <English-Entry>- obedient</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεραπεύω">
+    <English-Entry>- to be an attendant</English-Entry>
+    <English-Entry>- to do service</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θερινός">
+    <English-Entry>- of summer</English-Entry>
+    <English-Entry>- in summer</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θερμαίνω">
+    <English-Entry>- to warm</English-Entry>
+    <English-Entry>- heat</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θερμός">
+    <English-Entry>- hot</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θερμότης">
+    <English-Entry>- heat</English-Entry>
+    <English-Entry>- passion</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεσμός">
+    <English-Entry>- a law</English-Entry>
+    <English-Entry>- ordanance</English-Entry>
+    <English-Entry>- institution</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεσπέσιος">
+    <English-Entry>- divine in voice</English-Entry>
+    <English-Entry>- divine</English-Entry>
+    <English-Entry>- ineffiable</English-Entry>
+    <English-Entry>- marvellous  </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεωρέω">
+    <English-Entry>- to be a spectator</English-Entry>
+    <English-Entry>- to contemplate</English-Entry>
+    <English-Entry>- to inspect</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεωρία">
+    <English-Entry>- looking at</English-Entry>
+    <English-Entry>- beholding</English-Entry>
+    <English-Entry>- spectacle</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεωρητικός">
+    <English-Entry>- fond of contemplating</English-Entry>
+    <English-Entry>- speculative</English-Entry>
+    <English-Entry>- able to perceive</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεῖον">
+    <English-Entry>- divinity</English-Entry>
+    <English-Entry>- sulfur</English-Entry>
+    <English-Entry>- brimstone</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεῖος">
+    <English-Entry>- of or from the gods</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θεῖος2">
+    <English-Entry>- divine being</English-Entry>
+    <English-Entry>- divinity</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηλή">
+    <English-Entry>- teat</English-Entry>
+    <English-Entry>- nipple</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηρίον">
+    <English-Entry>- wild animal</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηρευτής">
+    <English-Entry>- hunter</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηρευτικός">
+    <English-Entry>- of or for hunting</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηρεύω">
+    <English-Entry>- to hunt</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θηριώδης">
+    <English-Entry>- full of wild beasts</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θησαυρίζω">
+    <English-Entry>- to store</English-Entry>
+    <English-Entry>- to treasure up</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θητεύω">
+    <English-Entry>- to be a serf or labourer</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θνητός">
+    <English-Entry>- mortal</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θοίνη">
+    <English-Entry>- a meal</English-Entry>
+    <English-Entry>- banquet</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θολερός">
+    <English-Entry>- mudy</English-Entry>
+    <English-Entry>- foul</English-Entry>
+    <English-Entry>- dirty</English-Entry>
+    <English-Entry>- troubled by madness</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θορυβέω">
+    <English-Entry>- to make a noise</English-Entry>
+    <English-Entry>- to uproar</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θοός">
+    <English-Entry>- quick</English-Entry>
+    <English-Entry>- niimble</English-Entry>
+    <English-Entry>- hasty</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θράσος">
+    <English-Entry>- courage</English-Entry>
+    <English-Entry>- boldness</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θράσσω">
+    <English-Entry>- to trouble</English-Entry>
+    <English-Entry>- disquiet</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρέμμα">
+    <English-Entry>- nursling</English-Entry>
+    <English-Entry>- creature (weather human or animal)</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρέψις">
+    <English-Entry>- nourishing</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρίξ">
+    <English-Entry>- hair</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρασύς">
+    <English-Entry>- bold</English-Entry>
+    <English-Entry>- spirited</English-Entry>
+    <English-Entry>- courageous</English-Entry>
+    <English-Entry>- confident</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρασύτης">
+    <English-Entry>- over-boldness</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θραύω">
+    <English-Entry>- to break in pieces</English-Entry>
+    <English-Entry>- to shatter </English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρηνέω">
+    <English-Entry>- to sing a dirge</English-Entry>
+    <English-Entry>- to wail</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρυλέω">
+    <English-Entry>- make a confused noise</English-Entry>
+    <English-Entry>- chatter</English-Entry>
+    <English-Entry>- babble</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θρύπτω">
+    <English-Entry>- to break in pieces</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θυγάτηρ">
+    <English-Entry>- daughter</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θυμοειδής">
+    <English-Entry>- high-spirited</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θυμός">
+    <English-Entry>- soul</English-Entry>
+    <English-Entry>- spirit</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θυμόω">
+    <English-Entry>- to make angry</English-Entry>
+    <English-Entry>- to provoke</English-Entry>
+    <English-Entry>- to be angry at a thing</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θυσία">
+    <English-Entry>- burnt-offering</English-Entry>
+    <English-Entry>- sacrifice</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θωπεύω">
+    <English-Entry>- to flatter</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θόλος">
+    <English-Entry>- round building with conical roof</English-Entry>
+    <English-Entry>- rotunda</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θόρυβος">
+    <English-Entry>- uproar</English-Entry>
+    <English-Entry>- tumult</English-Entry>
+    <English-Entry>- confusion</English-Entry>
+    <English-Entry>- applause</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θύλακος">
+    <English-Entry>- a bag</English-Entry>
+    <English-Entry>- pouch</English-Entry>
+    <English-Entry>- wallet</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θύρα">
+    <English-Entry>- door</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θύσις">
+    <English-Entry>- raging</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θύω">
+    <English-Entry>- to offer by burning</English-Entry>
+    <English-Entry>- to sacrifice</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θύω2">
+    <English-Entry>- to rage</English-Entry>
+    <English-Entry>- to rush along</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θῆλυς">
+    <English-Entry>- female</English-Entry>
+    <English-Entry>- feminine</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θῦμα">
+    <English-Entry>- victim</English-Entry>
+    <English-Entry>- sacrifice</English-Entry>
+  </Greek-Entry>
+  <Greek-Entry key="θῦσις">
+    <English-Entry>- raging</English-Entry>
+  </Greek-Entry>
+</document>
